@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Se abroga la Ley de Obras Públicas del Estado de Tlaxcala, expedida por el H. Congreso del Estado de Tlaxcala, mediante Decreto número 160 de fecha 31 de marzo de mil novecientos noventa y ocho, publicado en el Periódico Oficial del Gobierno del Estado, Número Extraordinario, Segunda Época, Tomo LXXX, de fecha 6 de abril de 1998.
