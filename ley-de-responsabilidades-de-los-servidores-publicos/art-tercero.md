@@ -1,0 +1,3 @@
+ARTÍCULO TERCERO. Procedimientos en trámite.
+Los procedimientos para determinar las responsabilidades que se encuentren radicados y en trámite, serán resueltos de acuerdo con lo dispuesto por el ordenamiento que se deroga en los términos del artículo transitorio que antecede.
+En el caso de los juicios políticos en trámite, el servidor público denunciado deberá optar entre se continúe el procedimiento con las reglas de la Ley que se deroga ó sujetarse a las disposiciones de esta ley. De no manifestarse al respecto en el término que le otorgue la Comisión Instructora, se estará a lo dispuesto en el párrafo que antecede.

@@ -1,0 +1,2 @@
+ARTÍCULO SEGUNDO. Derogaciones de la Ley de Responsabilidades, Sanciones y Estímulos de los Servidores Públicos del Estado de Tlaxcala.
+Esta ley deroga las disposiciones de la Ley, publicada en el Periódico Oficial del Gobierno del Estado número extraordinario, Tomo LXXIX, de fecha 9 de octubre de 1995, en materia de juicio político, declaración de procedencia de causa y desafuero y responsabilidades administrativas de los servidores públicos, así como las demás disposiciones que contravengan a la nueva ley que se expide.
