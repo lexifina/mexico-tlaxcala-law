@@ -9,7 +9,7 @@ ARTÍCULO SÉPTIMO. El Instituto de Catastro a que se refiere el título noveno 
 ARTÍCULO OCTAVO. Los delitos y sanciones a que hace referencia el título décimo segundo en su capítulo tercero deberán incorporarse al Código Penal del Estado de Tlaxcala en un plazo no mayor de tres años.
 ARTÍCULO NOVENO. En el caso que el porcentaje del fondo general de participaciones federales sea incrementado en la Ley de Coordinación Fiscal de la Federación, en esa misma proporción se incrementarán las participaciones a los municipios de lo que corresponda del mencionado fondo.
 ARTÍCULO DÉCIMO. Las disposiciones contenidas en el título décimo cuarto de este código entrarán en vigor una vez realizadas las reformas en la materia a la Constitución Política del Estado Libre y Soberano de Tlaxcala y la Ley Orgánica del Poder Judicial del Estado.
-ARTÍCULO DÉCIMO PRIMERO. (DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE ASISTENCIA JURÍDICO SOCIAL PARA EL ESTADO DE TLAXCALA, P.O. 26 DE MAYO DE 2003)
+ARTÍCULO DÉCIMO PRIMERO. Se instruye al H. Congreso del Estado inicie las reformas necesarias a la Ley de Asistencia Jurídica Social del Estado de Tlaxcala, a efecto de que se faculte a la Institución de Asistencia Jurídica Social del Estado conozca sobre las controversias en materia fiscal.
 ARTÍCULO DÉCIMO SEGUNDO. Para la adecuación expedita del código financiero, los poderes Ejecutivo y Legislativo dentro del ámbito de su competencia publicarán las reglas de operación e interpretación.
 AL EJECUTIVO PARA QUE LO SANCIONE Y MANDE PUBLICAR
 Dado en la Sala de Sesiones del Palacio Juárez, Recinto Oficial del Poder Legislativo del Estado Libre y Soberano de Tlaxcala, en la Ciudad de Tlaxcala de Xicohténcatl, a los veinte días del mes de diciembre del año dos mil dos.
