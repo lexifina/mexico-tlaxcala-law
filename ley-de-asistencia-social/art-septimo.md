@@ -5,3 +5,4 @@ C. JOSE ANTONIO ROSAS LEZAMA.- DIP. PRESIDENTE.- C. FROYLAN MENDIETA CUAPIO.- DI
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los veinticinco días del mes de marzo del 2004.
 EL GOBERNADOR DEL ESTADO.- ALFONSO ABRAHAM SANCHEZ ANAYA.- EL SECRETARIO DE GOBIERNO.- ROBERTO CUBAS CARLIN.- Rúbricas.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:
