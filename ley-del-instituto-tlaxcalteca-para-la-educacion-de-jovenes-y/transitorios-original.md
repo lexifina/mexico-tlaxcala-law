@@ -1,0 +1,13 @@
+TRANSITORIOS
+ARTICULO PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del Estado.
+ARTICULO SEGUNDO.- Los derechos laborales y de seguridad social adquiridos por los trabajadores del Instituto Nacional para la Educación de los Adultos, serán respetados en los términos del apartado "A" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Contrato Colectivo de Trabajo que rige a los mencionados servidores públicos.
+ARTICULO TERCERO.- Se reconoce al Sindicato Unico de Trabajadores del Instituto Nacional para la Educación de los Adultos y a su correspondiente delegación, como la representante legal de los derechos laborales de los trabajadores sindicalizados que prestan sus servicios al Instituto Nacional para la Educación de los Adultos y que serán transferidos al Instituto Tlaxcalteca para la Educación de los Adultos, así como de los trabajadores que en lo futuro se incorporen al mismo.
+Consiguientemente, el Instituto Tlaxcalteca para la Educación de los Adultos, subroga en sus obligaciones al Instituto Nacional para la Educación de los Adultos, como patrón sustituto, de conformidad con el Artículo 41 de la Ley Federal del Trabajo y asimismo, estará obligado a hacer la retención y entrega de las cuotas sindicales y las deducciones aplicables a los salarios o sueldos de los trabajadores transferidos, de acuerdo con lo estipulado en el Convenio de Coordinación.
+ARTICULO CUARTO.- El Director General del Instituto Tlaxcalteca para la Educación de los Adultos, deberá someter a la consideración y aprobación de la Junta de Gobierno el Reglamento Interior en un plazo máximo de ciento veinte días, contados a partir de la fecha en que entre en vigor la presente Ley.
+AL EJECUTIVO PARA QUE LA SANCIONE Y MANDE PUBLICAR.
+Dado en la Sala de Sesiones del Palacio Juárez, Recinto Oficial del Poder Legislativo del Estado Libre y Soberano de Tlaxcala, en la Ciudad de Tlaxcala de Xicohténcatl, a los once días del mes de mayo del año dos mil uno.
+C. CARLOS BAILON VALENCIA.- DIP. PRESIDENTE.- C. IRMA DE LOS SANTOS LEON.- DIP. SECRETARIA.- C. CLEMENTINA SANCHEZ CONDE.- DIP. SECRETARIA.- Rúbricas.
+Por lo tanto mando se imprima, publique, circule y se le dé, el debido cumplimiento.
+Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los once días del mes de mayo del año dos mil uno.
+EL GOBERNADOR DEL ESTADO.- ALFONSO ABRAHAM SANCHEZ ANAYA.- Rúbrica.
+EL SECRETARIO DE GOBIERNO.- FABIAN PEREZ FLORES.- Rúbrica.
