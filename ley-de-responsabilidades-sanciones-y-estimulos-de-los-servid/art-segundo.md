@@ -5,3 +5,4 @@ C. Crisóforo Morales Hernández.- DIPUTADO PRESIDENTE.- Rúbrica.- C. José Pas
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Dado en el Palacio del Poder Ejecutivo del Estado, en la ciudad de Tlaxcala de Xicohténcatl, a los siete días del mes de octubre de mil novecientos noventa y cinco.
 EL GOBERNADOR DEL ESTADO.- JOSE ANTONIO ALVAREZ LIMA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- FEDERICO BARBOSA GUTIERREZ.- RUBRICA.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.

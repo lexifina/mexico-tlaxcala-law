@@ -1,4 +1,5 @@
 LEY DE RESPONSABILIDADES, SANCIONES Y ESTIMULOS DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TLAXCALA
+N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO DE TLAXCALA, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO, CON EXCEPCION DE LO SEÑALADO EN EL TITULO QUINTO.
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el 9 de octubre 1995.
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos. H. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
 C. JOSE ANTONIO ALVAREZ LIMA, Gobernador Constitucional del Estado, a sus habitantes sabed:
