@@ -1,0 +1,5 @@
+P.O. 26 DE MAYO DE 2003.
+ARTÍCULO PRIMERO. Se abroga la Ley de la Asistencia Jurídica Social del Estado de Tlaxcala expedida por el Honorable Congreso del Estado, mediante Decreto número 100 de fecha siete de diciembre de mil novecientos ochenta y dos, publicada en el Periódico Oficial del Gobierno del Estado el quince del mismo mes y año, en el tomo LXXVI, número 53.
+ARTÍCULO SEGUNDO. Los servidores públicos que se encuentren laborando en la Institución de Asistencia Jurídico Social del Estado, permanecerán en la misma, en los términos y condiciones en que fueron contratados, sin embargo quedan obligados a la presentación de los exámenes de permanencia que en su oportunidad se establezcan.
+ARTÍCULO TERCERO. El Titular del Poder Ejecutivo en un término no mayor de noventa días posteriores a la publicación del presente Decreto, expedirá el Reglamento Interior de la Institución de Asistencia Jurídico Social del Estado de Tlaxcala.
+ARTÍCULO CUARTO. Se deroga el Artículo décimo primero de los transitorios del Código Financiero para el Estado de Tlaxcala y sus Municipios.
