@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO. Los ordenamientos y acuerdos en materia de desarrollo forestal expedidos con anterioridad a la entrada en vigor de esta ley, permanecerán vigentes en todo lo que no se opongan a la misma.
