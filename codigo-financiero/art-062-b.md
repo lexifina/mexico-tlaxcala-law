@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2003)
+Artículo 62 B. El organizador, patrocinador, administrador, representante, o quien se encuentre al frente de la diversión o espectáculo público, están obligados a permitir a los visitadores designados por las autoridades fiscales, el acceso al lugar o lugares objeto de la diligencia, así como mantener a su disposición todos los talonarios de boletos referentes a la diversión o espectáculo público y boletos vendidos, los cuales deberán estar sellados por la autoridad fiscal competente.
