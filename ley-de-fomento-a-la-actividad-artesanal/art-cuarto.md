@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. Dentro de los noventa días hábiles siguientes a la publicación de esta ley, el Gobierno del Estado deberá modificar la estructura actual del Comité Técnico del Fideicomiso de acuerdo a lo que establece esta ley en su artículo 39, ante la Institución Fiduciaria correspondiente.

@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. En un plazo no mayor a noventa días a la entrada en vigor de esta ley, el Comité Técnico del Fideicomiso denominado Fondo de la Casa de las Artesanías de Tlaxcala, elaborará su Reglamento Interior y lo presentará al titular del Poder Ejecutivo para su sanción y publicación.
