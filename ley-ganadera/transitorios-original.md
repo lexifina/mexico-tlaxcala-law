@@ -1,0 +1,11 @@
+TRANSITORIOS
+ARTICULO PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTICULO SEGUNDO.- Se faculta al C. Gobernador del Estado, para expedir el Reglamento de la presente Ley.
+ARTICULO TERCERO.- Se derogan y quedan sin efecto las Leyes, decretos y disposiciones que se opongan a la presente Ley.
+ARTICULO CUARTO.- El importe de los derechos por servicios que preste la Dirección de Agricultura y Ganadería del Estado, será fijado en la Ley de Ingresos de la Entidad.
+ARTICULO QUINTO.- Se fija un término de seis meses contados a partir de la vigencia de esta Ley, durante el cual todo ganadero, avicultor o criador de especies menores, deberá registrarse como tal, y registrar además el fierro, marca de fuego, o señal de sangre y arete, con que identifique su ganado, en la Dirección de Agricultura y Ganadería del Estado.
+ARTICULO SEXTO.- El registro se hará en la Dirección de Agricultura y Ganadería del Estado, o en la Asociación de su jurisdicción, y a falta de ésta en el Ayuntamiento del Municipio en que estén los semovientes, aun cuando el dueño de ellos resida en otro lugar. Las personas que tengan ganado en varios Municipios lo comunicarán a la Dirección de Agricultura y Ganadería del Estado y harán el registro de fierros o marcas en todos ellos, salvo que la estancia sea transitoria, en cuyo caso sólo se dará aviso a la Asociación Ganadera y a falta de ésta a los Ayuntamientos correspondientes.
+AL EJECUTIVO PARA QUE LO SANCIONE Y MANDE PUBLICAR.
+Dado en el Salón de Sesiones del Palacio Juárez del Poder Legislativo del Estado, en Tlaxcala de Xicohténcatl a los Treinta y un días del mes de Enero de mil novecientos setenta y ocho.- Diputado Presidente.- Dr. Alvaro Salazar Lozano.- Rúbrica.- Diputada Secretaria.- Alma Inés Gracia de Zamora.- Rúbrica.- Diputado Secretario.- Profr. Ignacio Marino Pérez S.- Rúbrica.
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los treinta y un días del mes de Enero de mil novecientos setenta y ocho.- El Gobernador Constitucional del Estado.- Lic. Emilio Sánchez Piedras.- Rúbrica.- El Secretario General de Gobierno.- Lic. Samuel Quiroz de la Vega.- Rúbrica.
