@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO. En un plazo de sesenta días a la entrada en vigor de esta ley, los ayuntamientos adecuarán la estructura, atribuciones y funcionamiento de los organismos para el Desarrollo Integral de la Familia en cada Municipio, conforme lo prevé esta Ley de Asistencia Social para el Estado de Tlaxcala.

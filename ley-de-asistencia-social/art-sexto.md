@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO. En un plazo no mayor a noventa días a la entrada en vigor de esta Ley, la Junta de Gobierno del Sistema Estatal para el Desarrollo Integral de la Familia elaborará su Reglamento Interior y lo presentará al Titular del Poder Ejecutivo para su sanción y publicación.
