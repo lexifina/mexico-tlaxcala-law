@@ -1,1 +1,0 @@
-ARTÍCULO SEGUNDO. Se abroga la Ley de Asistencia Social en el Estado de Tlaxcala aprobada mediante decreto número 182, de fecha 9 de septiembre de 1986, publicado en el Periódico Oficial del Gobierno del Estado, el 10 de septiembre de 1986, Tomo LXXIX, Segunda Época, número 37, Cuarta Sección.
