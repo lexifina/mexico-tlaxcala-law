@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Se abroga el Acuerdo del Poder Ejecutivo, de fecha 07 de junio de 1999, publicado en el Periódico Oficial del Gobierno del Estado el 14 del mismo mes y año, Tomo LXXX, Número Extraordinario, Segunda Época.

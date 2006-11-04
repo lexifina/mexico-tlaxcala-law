@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. Los recursos materiales, financieros, bienes muebles o inmuebles con los que opera el Instituto Tlaxcalteca de la Juventud del Acuerdo que se abroga, serán transferidos al Instituto a que hace referencia esta Ley previo al procedimiento legal que corresponda.

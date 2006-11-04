@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO. En un plazo de sesenta días a la entrada en vigor de esta Ley, los ayuntamientos crearán el área o Dirección de Atención a la Juventud en cada Municipio, conforme a su disponibilidad presupuestal.

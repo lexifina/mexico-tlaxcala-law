@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO. El Fideicomiso Estatal de Atención a la Juventud se formará con el capital inicial de 10 millones de pesos, para tal efecto la Secretaría de Finanzas del Poder Ejecutivo hará la prevención presupuestal correspondiente, dicho monto se aplicará consecutivamente durante un lapso de diez años.

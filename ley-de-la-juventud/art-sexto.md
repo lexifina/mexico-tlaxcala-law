@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO. Los servidores públicos que se encuentren laborando en el Instituto Tlaxcalteca de la Juventud, permanecerán en el mismo, en los términos y condiciones en que fueron contratados, si reúnen el perfil señalado por esta Ley.
