@@ -19,7 +19,8 @@ y arsenito3
 14Clenbuterol12
 15Determinación de metanol14
 16Listeria monocytogenes18
-I. Los establecimientos que se encuentren dentro de lo establecido en los artículos 47 y 200 BIS, de la Ley General de Salud y 191 de la Ley Estatal de Salud, deberán cubrir al presentar el aviso de funcionamiento ante la Secretaría de Salud del Estado, cinco días de salario mínimo a excepción de los que a continuación se describen:
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)
+I. Por los establecimientos comprendidos en los artículos 47 y 200 BIS, de la Ley General de Salud y 191 de la Ley de Salud del Estado de Tlaxcala, se deberán cubrir, al presentar el aviso de funcionamiento ante la Comisión Estatal para la Protección Contra Riesgos Sanitarios de Tlaxcala, cinco días de salario mínimo a excepción de los que a continuación se describen:
 a) Aviso de funcionamiento de gasolineras, ciento diez días de salario mínimo.
 b) Aviso de funcionamiento de expendios de cerveza, noventa días de salario mínimo.
 c) Aviso de funcionamiento de hoteles, cien días de salario mínimo.
