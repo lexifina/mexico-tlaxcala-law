@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
+ARTICULO 141 BIS-B.- La Secretaría de Salud vigilará que la información generada cumpla con los criterios de disponibilidad y oportunidad para su consulta para los usuarios reales y potenciales del sector del sector salud y de la sociedad en general. Las unidades de organización y administración de la información en salud de las diferentes instituciones del sector salud, deben promover y difundir el acceso a esta, además de cubrir las necesidades de información de los usuarios que así lo requieran.

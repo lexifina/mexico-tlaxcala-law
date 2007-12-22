@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
+ARTICULO 84 BIS-N.- Los beneficiarios del Sistema participarán en el financiamiento del mismo, mediante las cuotas familiares determinadas con base en las condiciones socioeconómicas de cada familia, las cuales deberán cubrirse en forma anticipada, anual y progresiva, salvo cuando exista la incapacidad de la familia a cubrir la cuota, lo cual no le impedirá incorporarse y ser sujeto de los beneficios que se deriven del Sistema.
+Las disposiciones reglamentarias establecerán los lineamientos para los casos en que por las características socioeconómicas de los beneficiarios, éstos no aportarán cuotas familiares.

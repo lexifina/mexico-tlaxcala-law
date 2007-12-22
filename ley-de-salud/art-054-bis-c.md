@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
+ARTICULO 54 BIS-C.- El comisionado estatal para el debido cumplimiento de las funciones de la Comisión Estatal, contará con las áreas administrativas que al efecto se establezcan en el Reglamento Interior respectivo, asimismo establecerá las facultades delegables y de representación a sus subalternos o personas ajenas a su administración para el adecuado desarrollo de las funciones asignadas.

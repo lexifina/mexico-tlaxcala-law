@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
+ARTICULO 84 BIS-R.- Con el objeto de favorecer el uso responsable de los servicios de salud, el Consejo de Salubridad General podrá establecer, mediante reglas de carácter general, un esquema de cuotas reguladoras para algunos servicios en razón de la frecuencia en su uso o especialidad, o para el abastecimiento de medicamentos asociados. En dichas reglas deberá considerarse la posibilidad de que aquellos beneficiarios cuya condición socioeconómica así lo justifique, no cubran las cuotas a que se refiere este artículo.

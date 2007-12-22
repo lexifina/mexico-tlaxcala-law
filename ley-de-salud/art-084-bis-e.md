@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
+ARTICULO 84 BIS-E.- El Ejecutivo del Estado, por conducto de la Secretaría de Salud, podrá celebrar acuerdos de coordinación con las autoridades federales, estatales y municipales, para la ejecución del Sistema, de conformidad con el modelo nacional establecido, determinando los conceptos de gastos, el destino de los recursos, los indicadores de seguimiento a la operación y los términos de la evaluación integral del Sistema.

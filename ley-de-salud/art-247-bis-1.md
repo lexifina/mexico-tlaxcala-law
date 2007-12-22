@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
+ARTICULO 247 BIS-1(SIC).- En caso de que estos establecimientos cuenten con servicios complementarios como restaurante, servicio de bar, peluquería, sala de belleza, baños, masaje, gimnasio, lavandería y tintorería, éstos quedarán sujetos a las normas y requisitos que fijen los capítulos correspondientes de este ordenamiento y de sus reglamentos respectivos.

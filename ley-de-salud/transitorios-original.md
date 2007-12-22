@@ -16,3 +16,4 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los diez días del mes de Noviembre del año dos mil.
 EL GOBERNADOR DEL ESTADO.- ALFONSO ABRAHAM SANCHEZ ANAYA.- Rúbrica.
 EL SECRETARIO DE GOBIERNO.- FABIAN PEREZ FLORES.- Rúbrica.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
+ARTICULO 84 BIS-H.- El Régimen a través de Salud Tlaxcala y la Secretaría de Salud proveerán de manera integral los servicios de salud y los medicamentos asociados, sin exigir cuotas distintas a las establecidas, siempre que los beneficiarios cumplan con sus obligaciones.
+Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura en salud, el Régimen, a partir de las transferencias que reciba, deberá destinar los recursos necesarios para la inversión en infraestructura médica, de conformidad con el Plan Maestro elaborado por la autoridad Federal correspondiente.

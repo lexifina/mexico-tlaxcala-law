@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
+ARTICULO 84 BIS-Z.- En los casos en que se materialicen los supuestos a los que se refiere este Capítulo, los interesados conservarán los beneficios del Sistema, hasta un plazo de sesenta días naturales a partir de la fecha de la suspensión o cancelación. Habiéndose transcurrido este plazo podrán acceder a los servicios de salud disponibles, en los términos o condiciones que establece esta ley.

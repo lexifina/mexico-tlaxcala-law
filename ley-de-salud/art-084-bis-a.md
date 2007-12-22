@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
+ARTICULO 84 BIS-A.- Para los efectos de esta ley, se entenderá por Sistema, a las acciones que en esta materia provea el régimen en forma directa a través de los establecimientos para la atención médica de los servicios de salud o de forma indirecta a través de los establecimientos para la atención médica de otras entidades federativas o de otras instituciones del Sistema Nacional de Salud.
+El régimen coordinará las acciones de protección social en salud a través de los servicios de Secretaría de Salud, las cuales contarán con la participación subsidiaría y coordinada de la Federación, de conformidad con lo establecido en la Ley General de Salud.
