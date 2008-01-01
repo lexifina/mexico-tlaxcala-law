@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)
+Artículo 41 A. Para efectos del artículo 35-A de este código, los contribuyentes obligados a presentar declaraciones de pagos mensuales de los impuestos establecidos en el Título Cuarto de este ordenamiento y de otras contribuciones, las podrán efectuar vía Internet mediante transferencia electrónica, respecto de cada una de sus obligaciones fiscales derivadas de los citados impuestos y contribuciones, incluyendo sus complementarias, extemporáneas y de corrección fiscal.
