@@ -5,3 +5,4 @@ C. José Fernando León Nava.- DIPUTADO PRESIDENTE.- Rúbrica.- C. Miguel Moisé
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Dado en el Palacio del Poder Ejecutivo del Estado, en la ciudad de Tlaxcala de Xicohténcatl, a los dieciocho días del mes de julio de mil novecientos noventa y siete.
 EL GOBERNADOR DEL ESTADO.- JOSE ANTONIO CRUZ ALVAREZ LIMA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- FEDERICO BARBOSA GUTIERREZ.- RUBRICA.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
