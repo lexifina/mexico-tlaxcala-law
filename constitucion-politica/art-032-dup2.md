@@ -1,5 +1,0 @@
-(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2003)
-ARTICULO 32.- El Congreso del Estado estará integrado por diecinueve diputados, electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y trece diputados electos según el principio de representación proporcional en una circunscripción plurinominal, mediante el sistema de listas de candidatos. Las listas se integrarán y votarán de acuerdo con las bases que determina esta Constitución y con las reglas y los procedimientos que establece la Ley de la materia. Por cada Diputado propietario se elegirá un suplente, y ambos conformarán una misma fórmula.
-Todos los diputados tienen la misma categoría e iguales obligaciones y derechos.
-De los partidos políticos que obtengan la mayoría de la votación total válida en la elección de diputados locales de mayoría relativa en los distritos electorales uninominales de que se trate, se les adjudicarán a sus candidatos las constancias de mayoría respectivas.
-Si alguno de los diputados dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá de acuerdo con lo que prescribe la Ley de la materia.
