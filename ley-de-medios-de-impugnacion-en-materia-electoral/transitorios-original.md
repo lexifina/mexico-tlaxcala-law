@@ -8,3 +8,4 @@ C. SILVESTRE VELASQUEZ GUEVARA.- DIP. PRESIDENTE.- C. FLORIA MARÍA HERNANDEZ HE
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los treinta días del mes de diciembre del año dos mil tres.
 EL GOBERNADOR DEL ESTADO.- ALFONSO ABRAHAM SANCHEZ ANAYA.- EL SECRETARIO DE GOBIERNO.- ROBERTO CUBAS CARLIN.- Rúbricas.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
