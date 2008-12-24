@@ -1,0 +1,3 @@
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.
+(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)
+Artículo 26 A. El factor de actualización se aplicará al importe de las contribuciones o aprovechamientos de manera mensual sobre la contribución o aprovechamiento actualizado, desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe; para lo cual, se empleará el factor de actualización que se establezca en la ley del ingresos del estado para el ejercicio fiscal que corresponda a las cantidades que se deban actualizar y pagar.
