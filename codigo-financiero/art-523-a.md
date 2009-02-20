@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)
+Artículo 523-A. Para efectos de lo dispuesto en el artículo 51 de la Ley de Coordinación Fiscal, se establece que los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal (FORTAMUN-DF) podrán afectarse como garantía del cumplimiento de las obligaciones de pago de derechos y aprovechamientos que, por concepto de agua, tengan los municipios, siempre y cuando medie solicitud expresa por el Ayuntamiento correspondiente.
