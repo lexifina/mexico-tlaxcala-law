@@ -1,12 +1,6 @@
-LEY DE CONSULTA CIUDADANA PARA EL ESTADO DE TLAXCALA
-Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el miércoles 26 de julio de 2006.
-Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. H. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
-HECTOR ISRAEL ORTIZ ORTIZ, Gobernador del Estado, a sus habitantes sabed:
-Que por conducto de la Secretaría Parlamentaria del Honorable Congreso del Estado, con esta fecha se me ha comunicado lo siguiente:
-EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, A NOMBRE DEL PUEBLO DECRETA.
-NUMERO 85
-LEY DE CONSULTA CIUDADANA PARA EL ESTADO DE TLAXCALA
-TÍTULO PRIMERO
-CONCEPTOS, ÓRGANOS Y ATRIBUCIONES
-Capítulo I
-Generalidades
+CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
+Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
+ADOLFO LUGO VERDUZCO, Gobernador Constitucional del Estado de Hidalgo, a sus habitantes, sabed:
+Que la Quincuagésima Tercera Legislatura del H. Congreso Constitucional del Estado Libre y Soberano de Hidalgo ha tenido a bien expedir el siguiente:
+DECRETO No. 258
+CODIGO PENAL PARA EL ESTADO DE HIDALGO
