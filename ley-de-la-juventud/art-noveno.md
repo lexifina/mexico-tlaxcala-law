@@ -5,3 +5,4 @@ C. JOSÉ LUIS RAMÍREZ CONDE.- DIP. PRESIDENTE.- C. SIMÓN DÍAZ FLORES.- DIP. S
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los tres días del mes de noviembre del 2006.
 EL GOBERNADOR DEL ESTADO.- HECTOR ISRAEL ORTIZ ORTIZ.- Firma Autógrafa.- EL SECRETARIO DE GOBIERNO.- SERGIO GONZALEZ HERNANDEZ.- Firma Autógrafa.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
