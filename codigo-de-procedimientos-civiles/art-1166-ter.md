@@ -1,10 +1,7 @@
-(ADICIONADO, P.O. 13 DE MAYO DE 2009)
+(ADICIONADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 2009)
 Artículo 1166 Ter.- Tratándose de sucesiones intestamentarias, éstas se podrán tramitar en procedimiento especial ante Notario Publico, conforme lo dispone el presente artículo y demás disposiciones aplicables a este caso:
-I. Los herederos o sus representantes, una vez que hubieren sido reconocidos judicialmente con tal carácter y las contribuciones y cargas hereditarias, si se causaren, estén cubiertas, podrán acudir ante Notario Público para realizar el procedimiento especial exhibiendo:
-a) Copia certificada del acta de defunción o declaración judicial de muerte del autor de la sucesión;
-b) Las actas del estado civil de las personas, que sirvan como documental para comprobar el parentesco y entroncamiento de los herederos con el de cujus;
-c) Inventario de los bienes, al que se le adjuntarán los documentos que acrediten la propiedad del de cujus, e (sic)
-d) Convenio de adjudicación de bienes.
-II. El Notario Público, con los documentos presentados por los herederos o sus representantes, se declarará competente para conocer de la sustanciación del procedimiento especial y, mediante publicación hecha en el Periódico Oficial y en un diario de mayor circulación en el Estado, por dos ocasiones dentro del término de treinta días, dará a conocer las pretensiones formuladas por los herederos ab intestato, pidiendo informe al Director de Notarías y Registros Públicos del Estado, sobre la existencia o inexistencia del testamento formulado por el de cujus,
-III. Una vez hechas las publicaciones a que se refiere la fracción anterior y con el informe que rinda el Director de Notarías y Registros Públicos del Estado, en una sola audiencia o acto en presencia de los interesados, examinará los documentos y resolverá sobre la procedencia o improcedencia de la sustanciación del procedimiento especial. Si éste es declarado procedente, se efectuará la protocolización firmando el acta correspondiente, y
-IV. Si durante la sustanciación del procedimiento especial surgiere controversia entre los interesados, el Notario se excusará de seguir conociendo de dicho procedimiento, remitiendo todo lo actuado al Tribunal Superior de Justicia del Estado para que éste lo turne al Juzgado competente para conocer del asunto, o en su caso, al juez de origen que lo requiera.
+I.- (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2009)
+II.- (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2009)
+III.- (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2009)
+(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2009)
+IV.- Si durante la sustanciación del procedimiento especial surgiere controversia entre los interesados, el Notario se excusará de seguir conociendo de dicho procedimiento, remitiendo todo lo actuado al Tribunal Superior de Justicia del Estado para que éste lo turne al Juzgado competente para conocer del asunto, o, en su caso, al juez competente que lo requiera.
