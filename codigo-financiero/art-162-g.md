@@ -192,5 +192,7 @@ catastro o registro desalario mínimo.
 modificaciones.
 XXX. Por la publicación de edictosDos días de
 en los estrados del Instituto.salario mínimo.
-Sección Segunda
-Derechos por los Servicios Prestados por el Poder Judicial
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.
+(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 7 DE DICIEMBRE DE 2009)
+Subsección Undécima
+Derechos por los Servicios Prestados por la Secretaría de Seguridad Pública

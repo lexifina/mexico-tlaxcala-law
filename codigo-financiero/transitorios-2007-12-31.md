@@ -5,4 +5,4 @@ ARTÍCULO TERCERO. Los incisos h), i) y j) de la fracción I del artículo 503 d
 Para efectos de aplicar los recursos a que hace referencia el párrafo anterior se estará a lo siguiente:
 I. Los ingresos derivados de la venta final de gasolinas y diesel se ajustarán en su importe, y destino con base en los convenios de colaboración que se celebren con la Secretaría de Hacienda y Crédito Público, de conformidad con el artículo 4-A fracción I de la Ley de Coordinación Fiscal;
 II. El Fondo de Compensación se sujetará a lo establecido en el artículo 4-A fracción II de la Ley mencionada en la fracción anterior, y
-III. El Fondo de Fiscalización, se ajustará a lo que establezcan las Reglas de Operacion que publique la Secretaría de Hacienda y Crédito Público.
+III. El Fondo de Fiscalización, se ajustará a lo que establezcan las Reglas de Operación que publique la Secretaría de Hacienda y Crédito Público.
