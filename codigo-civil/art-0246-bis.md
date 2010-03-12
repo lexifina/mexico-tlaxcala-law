@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 11 DE MARZO DE 2010)
+ARTICULO 246 BIS.- Las adopciones internacionales siempre serán plenas, debiendo el juez que dictó la resolución requerir a la institución que expidió el certificado a que se refiere el párrafo cuarto del artículo 230, para que dentro del lapso de un año posterior a la adopción, informe a éste y al Sistema Estatal para el Desarrollo Integral de la Familia, sobre las condiciones de salud, físicas, educativas y emocionales en que se desarrolle el nuevo vínculo paterno filiar y del trato que se le da al adoptado.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 11 DE MARZO DE 2010)
+Artículo 1467 Bis.- Los estudios a que se refiere el artículo anterior deberán ser expedidos por el Sistema Estatal para el Desarrollo Integral de la Familia, en el supuesto de que los adoptantes sean tlaxcaltecas o ciudadanos mexicanos que acrediten su residencia dentro del territorio del Estado o del país, correspondiendo a esta misma institución la vigilancia de la relación adoptiva cuando los adoptantes tengan su domicilio dentro del territorio nacional.
