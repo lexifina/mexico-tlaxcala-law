@@ -1,0 +1,3 @@
+P.O. 7 DE SEPTIEMBRE DE 2010.
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+ARTÍCULO SEGUNDO. Con fundamento en lo dispuesto por el Artículo 104 fracción XIII de la Ley Orgánica del Poder Legislativo del Estado de Tlaxcala, se ordena al Secretario Parlamentario de esta Soberanía, a que una vez publicado el presente Decreto lo notifique a los sesenta ayuntamientos del Estado, y a los titulares de la Oficialía Mayor y de la Secretaría de Finanzas del Gobierno del Estado, para los efectos legales procedentes.
