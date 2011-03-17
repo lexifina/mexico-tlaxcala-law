@@ -1,0 +1,8 @@
+P.O. 16 DE MARZO DE 2011.
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+ARTÍCULO SEGUNDO. Se faculta al titular de la Secretaría de Finanzas del Estado para incorporar las previsiones necesarias e instrumentar las medidas que mejoren los procesos de vigilancia en el cumplimiento de las obligaciones fiscales relacionadas con el Impuesto Estatal Sobre Tenencia o Uso de Vehículos e incrementar eficazmente la administración tributaria, y emita reglas, normas de operación y adopte las medidas de seguridad necesarias.
+Se faculta al titular de la Secretaría de Finanzas del Estado, para que emita las reglas administrativas e implemente el programa de subsidio respecto de la tenencia federal para el ejercicio dos mil once y adopte las medidas necesarias para el eficaz cumplimiento de este Decreto.
+Las tarifas a las que hace referencia este Código, se encuentran actualizadas al treinta y uno de diciembre de dos mil diez; y para su actualización se observará lo dispuesto por el artículo 93 H de este Código.
+En lo que respecta a la Ley de Ingresos del Estado de Tlaxcala para el ejercicio fiscal dos mil once, deberán realizarse ajustes en términos del presente Decreto.
+ARTÍCULO TERCERO. Se autoriza al titular de la Secretaría de Comunicaciones y Transportes del Estado, la creación del Registro Estatal Vehicular, y la elaboración e implementación de las normas y reglas de su operación, así como la vigilancia de su cumplimiento.
+ARTÍCULO CUARTO. Se derogan todas aquellas disposiciones que contravengan este Decreto.

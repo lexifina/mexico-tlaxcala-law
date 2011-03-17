@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 16 DE MARZO DE 2011)
+Artículo 93 Ñ. Las autoridades competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, se abstendrán de expedirlos cuando el propietario, tenedor o usuario del vehículo no compruebe el pago del impuesto a que se refiere este Código, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales.
