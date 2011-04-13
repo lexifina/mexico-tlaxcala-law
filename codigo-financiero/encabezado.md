@@ -1,4 +1,5 @@
 CODIGO FINANCIERO PARA EL ESTADO DE TLAXCALA Y SUS MUNICIPIOS
+N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DE 13 DE ABRIL DE 2011.
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 31 de diciembre de 2002.
 Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. H. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
 ALFONSO ABRAHAM SÁNCHEZ ANAYA, Gobernador del Estado, a sus habitantes sabed:
