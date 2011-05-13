@@ -5,3 +5,4 @@ C. EUSTOLlO FLORES CONDE.- DIP. PRESIDENTE.- C. ENRIQUE JAVIER RAMÍREZ DE LA VE
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los diecisiete días del mes de octubre de 2008.
 EL GOBERNADOR DEL ESTADO.- HECTOR ISRAEL ORTlZ ORTlZ.- Firma Autógrafa.- EL SECRETARIO DE GOBIERNO.- SERGIO GONZALEZ HERNANDEZ.- Firma Autógrafa.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
