@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. A partir de la publicación de la presente Ley, se deberá integrar una Comisión Interinstitucional integrada por los funcionarios que al efecto designen el Poder Ejecutivo y el Poder Judicial, a fin de formular la reglamentación, planeación, programación, proyección, evaluación y seguimiento de las acciones necesarias para la correcta observancia de este Decreto.

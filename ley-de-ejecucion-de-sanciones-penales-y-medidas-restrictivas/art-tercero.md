@@ -1,0 +1,2 @@
+ARTÍCULO TERCERO. Los procedimientos iniciados con fecha anterior a la entrada en vigor de la presente Ley, continuarán su trámite y serán resueltos de conformidad con las disposiciones entonces vigentes, salvo que este ordenamiento otorgue mayores beneficios al sentenciado.
+Los sentenciados que se encuentren disfrutando alguno de los beneficios de libertad anticipada de conformidad con la Ley anterior, y sujetos a seguimiento por la Dirección, serán puestos a disposición jurídica del Juez de Ejecución correspondiente, a fin de que continúen el cumplimiento de su sentencia.

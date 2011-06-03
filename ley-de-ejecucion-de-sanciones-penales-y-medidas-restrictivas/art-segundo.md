@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Se abroga el Decreto Número 99 por el cual se expidió la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad, publicado en el Periódico Oficial del Gobierno del Estado de Tlaxcala, en fecha quince de diciembre de mil novecientos ochenta y dos.
