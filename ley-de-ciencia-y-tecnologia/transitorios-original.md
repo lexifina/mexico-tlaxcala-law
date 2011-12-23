@@ -13,3 +13,4 @@ C. SILVESTRE VELÁZQUEZ GUEVARA.- DIP. PRESIDENTE.- C. FLORIA MARÍA HERNÁNDEZ 
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala, Tlaxcala; a los quince días del mes de diciembre del 2003.
 EL GOBERNADOR DEL ESTADO.- ALFONSO ABRAHAM SANCHEZ ANAYA.- EL SECRETARIO DE GOBIERNO.- ROBERTO CUBAS CARLIN.- Rúbricas.
+N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.

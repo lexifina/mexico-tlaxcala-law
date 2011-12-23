@@ -1,0 +1,5 @@
+P.O. 22 DE DICIEMBRE DE 2011.
+ARTÍCULO PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+ARTÍCULO SEGUNDO. El titular del Poder Ejecutivo del Estado gestionará la radicación del recurso previsto en el Presupuesto de Egresos de la Federación para la constitución del convenio CONACIT-ESTADO, del que se derivan los recursos para la operatividad del Instituto de Ciencia y Tecnología para el Estado de Tlaxcala.
+ARTÍCULO TERCERO. En un plazo de treinta días hábiles a la entrada en vigor del presente decreto, el Titular del Ejecutivo estatal convocará a la integración de la Junta Directiva prevista en el artículo 8 de este resolutivo; una vez integrada ésta, convocará para la integración del Foro Consultivo.
+ARTÍCULO CUARTO. Una vez integrada la Junta Directiva en un plazo no mayor de tres meses, ésta expedirá el Programa Estatal de Ciencia y Tecnología y elaborará el proyecto de Reglamento Interior que presentará al Ejecutivo del Estado para su publicación.

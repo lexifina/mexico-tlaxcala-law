@@ -1,4 +1,4 @@
-LEY DE CIENCIA Y TECNOLOGIA PARA EL ESTADO DE TLAXCALA
+LEY DE CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE TLAXCALA
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el día 26 de diciembre de 2003.
 Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. H. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
 ALFONSO ABRAHAM SANCHEZ ANAYA, Gobernador del Estado a su habitantes sabed:
