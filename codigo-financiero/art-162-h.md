@@ -155,5 +155,7 @@ b) Medidas de seguridad.
 1. Alto riesgo20 días de salario mínimo.
 2. Medio riesgo10 días de salario mínimo
 3. Bajo riesgo8 días de salario mínimo.
-Sección Segunda
-Derechos por los Servicios Prestados por el Poder Judicial
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE DICIEMBRE DE 2011)
+Subsección Duodécima
+Derechos por los Servicios Prestados por la Comisión Estatal del Agua, a través del Centro de Servicios Integrales para el Tratamiento de Aguas Residuales del Estado de Tlaxcala
