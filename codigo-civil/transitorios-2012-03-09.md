@@ -1,0 +1,3 @@
+P.O. 9 DE MARZO DE 2012.
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado.
+ARTÍCULO SEGUNDO. Con fundamento en lo dispuesto por el artículo 104 fracciones I y XIII de la Ley Orgánica del Poder Legislativo del Estado de Tlaxcala, se instruye al Secretario Parlamentario de este Congreso, para que una vez publicado este Decreto, lo notifique al Honorable Tribunal Superior de Justicia del Estado, así como a la persona moral denominada "Colectivo Mujer y Utopía, A. C.", esta última a través de los estrados de la Secretaría Parlamentaria.
