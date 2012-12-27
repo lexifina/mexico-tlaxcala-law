@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.
 (ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)
 Artículo 66 A. El plazo para concluir las visitas domiciliarias o las revisiones de gabinete, se suspenderá en los casos de:
 I. Huelga, a partir de que se suspenda temporalmente el trabajo y hasta que ésta termine;

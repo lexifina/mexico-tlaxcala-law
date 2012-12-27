@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.
 (ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)
 Artículo 504 A. Los ingresos municipales establecidos en el artículo 503, fracción I, incisos h) e i), ministrados por el Gobierno Federal al Estado por concepto de incentivo derivado de la recaudación que este último realice por el impuesto especial sobre producción y servicios a la venta final de gasolinas y diesel (incentivo IEPS), a que refiere el artículo 2-A fracción II de la ley del citado impuesto y por el Fondo de Compensación (FOCO), se distribuirá entre los municipios del Estado a través de la constitución de los siguientes fondos:
 I. Determinación con base a la población. Se constituirá con el 70% de los ingresos que por concepto del incentivo IEPS y del FOCO obtenga el Estado, mismos que se distribuirán entre los municipios, multiplicados por el coeficiente de población de cada Municipio.

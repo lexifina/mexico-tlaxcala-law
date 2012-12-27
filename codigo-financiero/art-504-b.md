@@ -1,3 +1,3 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.
 (ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)
 Artículo 504 B. Los ingresos por concepto de incentivo derivado de la recaudación que el Estado realice por el impuesto especial sobre producción y servicios a la venta final de gasolinas y diesel (incentivo IEPS), a que refiere el articulo 2-A fracción II de la ley del citado impuesto y por el fondo de compensación (FOCO) que le transfiera el Gobierno Federal, se determinarán, distribuirán y pagarán a los municipios dentro del mes siguiente al en que el Estado los recaude y los reciba, respectivamente.

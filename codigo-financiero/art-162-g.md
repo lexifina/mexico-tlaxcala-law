@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.
 (ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)
 Articulo 162-G. Los servicios prestados por el Instituto de Catastro del Estado, causarán los derechos siguientes:
 I. Por deslindes, rectificación o aclaración de medidas de predios urbanos:
@@ -192,7 +192,7 @@ catastro o registro desalario mínimo.
 modificaciones.
 XXX. Por la publicación de edictosDos días de
 en los estrados del Instituto.salario mínimo.
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.
-(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 7 DE DICIEMBRE DE 2009)
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.
+(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 7 DE DICIEMBRE DE 2009)
 Subsección Undécima
 Derechos por los Servicios Prestados por la Secretaría de Seguridad Pública

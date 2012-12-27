@@ -1,5 +1,5 @@
-(VEASE ARCHIVO ANEXO)
-(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)
+(VÉASE ARCHIVO ANEXO)
+(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2005)
 ARTÍCULO 162-C. Los servicios prestados por la Secretaría de Salud, a través de su Organismo Desconcentrado Comisión Estatal para la Protección Contra Riesgos Sanitarios de Tlaxcala, que de manera específica se señalan en este artículo causarán los derechos siguientes:
 I. Las autorizaciones y avisos en materia de publicidad de productos, actividades o servicios regulados en la legislación sanitaria vigente cubrirán las cuotas administrativas siguientes:
 a) Mensajes en televisión, o cualquier otro medio videográfico trasmitidos en lugares públicos, abiertos o cerrados y medios de transporte público, veinticinco días de salario mínimo.
