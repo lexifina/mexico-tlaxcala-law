@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 3 DE MAYO DE 2013)
+ARTÍCULO 216 SEXIES.- El padre que tenga la custodia debe obligatoriamente informar oportunamente al otro progenitor, sobre las enfermedades, accidentes, conductas desviadas y cualquier problema que afecte a los hijos, para que este último cumpla su deber de progenitor y educar, así como pedir su autorización en todos aquellos actos que requieran intervención de ambos padres, facilitando la sana convivencia con sus hijos y el respeto que éstos deben a sus progenitores.

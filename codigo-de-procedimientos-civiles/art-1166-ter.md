@@ -1,4 +1,4 @@
-(ADICIONADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 2009)
+(ADICIONADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2009)
 Artículo 1166 Ter.- Tratándose de sucesiones intestamentarias, éstas se podrán tramitar en procedimiento especial ante Notario Publico, conforme lo dispone el presente artículo y demás disposiciones aplicables a este caso:
 I.- (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2009)
 II.- (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2009)

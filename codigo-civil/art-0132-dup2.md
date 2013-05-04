@@ -1,0 +1,10 @@
+(ADICIONADO, P.O. 3 DE MAYO DE 2013)
+ARTICULO 132. BIS.- En la sentencia dictada por el Juez, se fijará la situación de los hijos menores de edad o incapaces, para lo cual se observarán las disposiciones siguientes:
+I. Lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión o limitación;
+II. La guarda y custodia, así como a las obligaciones de crianza y el derecho de los hijos a convivir con ambos progenitores;
+III. Las medidas necesarias para proteger a los hijos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno;
+IV. Lo relativo a la división de los bienes, debiéndose tomar las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges con relación a los hijos. Los ex cónyuges tendrán obligación de contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos;
+V. Las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar, en términos de la Ley de Asistencia Social para el Estado de Tlaxcala y la Ley para la Prevención, Asistencia y Tratamiento de la Violencia Familiar en el Estado de Tlaxcala, y
+VI. Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de los hijos menores de edad.
+Para efectos de lo dispuesto en el presente artículo, de oficio o a petición de parte interesada, durante el procedimiento el Juez se allegará de los elementos necesarios, debiendo escuchar al Ministerio Público, a ambos padres y a los menores.
+Para efectos de lo dispuesto por las fracciones V y VI del presente artículo, en la sentencia dictada se ordenará que, al menos, dentro del lapso de un año posterior a la fecha en que se declare ejecutoriada la sentencia de divorcio, el Sistema Estatal para el Desarrollo Integral de la Familia, informe al Juez sobre las condiciones de salud, físicas, educativas y emocionales en que se desarrolle la convivencia de los hijos con sus padres.
