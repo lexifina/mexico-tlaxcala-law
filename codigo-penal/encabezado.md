@@ -1,0 +1,9 @@
+CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
+N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE CÓDIGO ENTRARÁ EN VIGOR EL 1 DE FEBRERO DE 2014.
+Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
+Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
+MARIANO GONZALEZ ZARUR, Gobernador del Estado a sus habitantes sabed:
+Que por conducto de la Secretaría Parlamentaría del Honorable Congreso del Estado con esta fecha se me ha comunicado lo siguiente:
+EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, A NOMBRE DEL PUEBLO DECRETA.
+DECRETO No. 161
+CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
