@@ -6,7 +6,7 @@ Artículo 4.- Se consideran pendientes los negocios en los que se haya interpues
 Artículo 5.- Los recursos que están ya legalmente interpuestos serán admitidos aunque no deban serlo conforme a este Código; pero se substanciarán sujetándose a las reglas que él establece para los de su clase; o en su defecto, a las establecidas por el Código de Procedimientos Civiles de 15 de diciembre de 1928.
 Artículo 6.- Dentro de los diez días siguientes a la entrada en vigor de este Código, los Jueces locales del Estado remitirán al de Primera Instancia que corresponda, los negocios que sean de la competencia de éste.
 Artículo 7.- Para cada Distrito Judicial se nombrará un Juez de lo Familiar con residencia en la Cabecera y el territorio de su Jurisdicción será el del propio Distrito.
-(F. DE E., P.O. 26 NOVIEMBRE DE 1980)
+(F. DE E., P.O. 26 DE NOVIEMBRE DE 1980)
 Artículo 8.- Los Jueces de lo Familiar deberán llenar los requisitos que exige el artículo 64 de la Constitución Local del Estado; y durarán en el desempeño de su cargo, el tiempo que disponga la Ley Orgánica del Poder Judicial del Estado.
 Artículo 9.- Los Jueces de lo Familiar conocerán de los juicios y procedimientos sobre cuestiones familiares, reglamentados por el libro tercero de este Código de Procedimientos Civiles.
 Artículo 10.- Los Juzgados de lo Familiar entrarán en funciones tan pronto como el Presupuesto de Egresos autorice las partidas correspondientes y la competencia territorial de estos Juzgados, en el caso de que el Presupuesto no comprenda todos los Distritos Judiciales, será la que determine el propio Presupuesto.
