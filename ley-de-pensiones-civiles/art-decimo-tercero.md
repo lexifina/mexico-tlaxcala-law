@@ -1,0 +1,2 @@
+ARTÍCULO DÉCIMO TERCERO. La opción adoptada por el Servidor Público a que se refiere el artículo Décimo Primero transitorio de esta Ley será definitiva, irrenunciable y no podrá modificarse una vez efectuada.
+El Director General emitirá en un plazo no mayor a diez días naturales a la entrada en vigor de esta Ley el formato que se apruebe para que los servidores públicos puedan ejercer la opción a que se refiere este artículo, el cual deberá publicarse en el Periódico Oficial del Gobierno del Estado de Tlaxcala.

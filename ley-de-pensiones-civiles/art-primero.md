@@ -1,0 +1,1 @@
+ARTÍCULO PRIMERO. Con fundamento en lo dispuesto por el artículo 53 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, la presente Ley entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala, excepto las disposiciones del Libro B que entrarán en vigor a partir del día 1 de enero de 2014.

@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO. Durante los ejercicios fiscales 2013 a 2016, el Gobierno del Estado aportará un total de 150 millones de pesos para el Fondo de Créditos, con base en las solicitudes y otorgamiento de créditos a que se refiere el artículo 67 del presente ordenamiento.

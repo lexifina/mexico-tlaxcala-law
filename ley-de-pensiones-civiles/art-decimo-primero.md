@@ -1,0 +1,2 @@
+ARTÍCULO DÉCIMO PRIMERO. Los servidores públicos serán sujetos del Libro A de este ordenamiento, excepto en el caso que se refiere el párrafo siguiente.
+Los servidores públicos tendrán derecho a optar por el régimen Permanente de Ahorro Personal, siempre y cuando manifiesten su voluntad libre e informada y por escrito a la Institución de ser sujeto al Libro B, dentro del plazo de seis meses siguientes a la entrada en vigor de esta Ley.

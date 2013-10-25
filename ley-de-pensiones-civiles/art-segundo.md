@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. A partir de la entrada en vigor de esta Ley, se abroga el Decreto número 154, que contiene la Ley de Pensiones Civiles del Estado Tlaxcala (sic), publicada en el Periódico Oficial del Gobierno del Estado de Tlaxcala, Tomo XCII, Segunda Época, número extraordinario, el día 1 de enero de 2013.
