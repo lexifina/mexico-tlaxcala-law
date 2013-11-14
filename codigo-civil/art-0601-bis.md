@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2013)
+ARTICULO 601 BIS.- Si el reconocimiento se hiciere en Oficialía distinta de aquélla en que se levantó el acta de nacimiento, deberá remitirse, mediante oficio, copia certificada del reconocimiento a la Dirección Coordinadora del Registro Civil del Estado y Oficialía que corresponda, ya sea en el interior o fuera del Estado, a fin de realizar las anotaciones marginales que correspondan.
