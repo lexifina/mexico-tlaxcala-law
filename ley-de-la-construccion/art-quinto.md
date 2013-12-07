@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO. Dentro de un plazo máximo de tres meses siguientes a la entrada en vigor de esta Ley, los ayuntamientos expedirán el Reglamento Municipal en la materia a que se refiere el artículo 3 de esta Ley, pudiendo solicitar asesoría a la Comisión de Asistencia Técnica Institucional para su formulación.

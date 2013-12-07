@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO. Los recursos iniciados con anterioridad a la entrada en vigencia de la presente Ley deberán tramitarse de acuerdo a la Ley de la Construcción del Estado de Tlaxcala, publicada el 26 de septiembre del año 2001 en el Periódico Oficial del Gobierno del Estado de Tlaxcala.

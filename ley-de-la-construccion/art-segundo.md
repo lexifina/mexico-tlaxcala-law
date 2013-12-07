@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Se abroga la Ley de la Construcción del Estado de Tlaxcala, expedida por Decreto número 127, publicada en el Periódico Oficial del Gobierno del Estado de Tlaxcala, Tomo LXXXI número 39 Segunda Sección de fecha 26 de septiembre de 2001.
