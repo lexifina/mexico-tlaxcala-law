@@ -155,6 +155,16 @@ b) Medidas de seguridad.
 1. Alto riesgo20 días de salario mínimo.
 2. Medio riesgo10 días de salario mínimo
 3. Bajo riesgo8 días de salario mínimo.
+(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2013)
+VII. Expedición de copias certificadas:
+a) Copias certificadas que expida el Un día de salario mínimo por las
+consejo de honor y justicia de la primeras diez fojas utilizadas y 20%
+Secretaría de Seguridad Pública.de un día de salario mínimo por
+cada foja adicional.
+b) Copias certificadas que expidan Un día de salario mínimo por
+las demás áreas de la Secretaría de las primeras veinte fojas utilizadas
+Seguridad Pública.y 20% de un día de salario
+mínimo por cada foja adicional.
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE DICIEMBRE DE 2011)
 Subsección Duodécima

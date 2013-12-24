@@ -71,5 +71,6 @@ Por cada metro lineal adicionalMetro cúbico1
 de desazolve y limpieza a que
 se refiere el párrafo anterior.
 V. Las sanciones impuestas por infracciones a la normatividad se cobrarán de acuerdo a lo previsto por la Ley de Aguas del Estado de Tlaxcala y al Reglamento que de ella emane.
-Sección Segunda
-Derechos por los Servicios Prestados por el Poder Judicial
+(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE DICIEMBRE DE 2013)
+Subsección Decimotercera
+Derechos por los Servicios Prestados por la Secretaría de Fomento Agropecuario
