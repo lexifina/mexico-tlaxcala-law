@@ -1,0 +1,6 @@
+P.O. 15 DE OCTUBRE DE 2014.
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+ARTÍCULO SEGUNDO. Se abroga el Decreto que crea la Comisión Estatal para la Protección contra Riesgos Sanitarios de Tlaxcala, publicado el siete de agosto del año dos mil seis, en el Periódico Oficial del Gobierno del Estado de Tlaxcala, Tomo LXXXV, Segunda Época, No. Extraordinario.
+ARTÍCULO TERCERO. Los juicios, recursos, procedimientos y demás asuntos que a la entrada en vigor de este Decreto se encuentren en trámite, deberán concluirse conforme al Decreto que crea la Comisión Estatal para la Protección contra Riesgos Sanitarios de Tlaxcala, publicado el siete de agosto del año dos mil seis, en el Periódico Oficial del Gobierno del Estado de Tlaxcala, Tomo LXXXV, Segunda Época, No. Extraordinario.
+ARTÍCULO CUARTO. El titular del Poder Ejecutivo, dentro del término de treinta días naturales siguientes a la entrada en vigor de este Decreto, deberá expedir el Reglamento Interior de la Comisión Estatal para la Protección Contra Riesgos Sanitarios de Tlaxcala.
+ARTÍCULO QUINTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.

@@ -1,2 +1,26 @@
-(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
-ARTICULO 54 BIS-D.- Corresponde a la Secretaría de Salud la supervisión de este órgano desconcentrado, y al Gobierno Federal en cuanto al ámbito de su competencia.
+(REFORMADO, P.O. 15 DE OCTUBRE DE 2014)
+ARTICULO 54 BIS D.- Al frente de la Comisión estará un Comisionado nombrado por el Secretario de Salud del Estado, quien para el despacho de los asuntos de la Comisión tendrá las facultades y obligaciones siguientes:
+I. Establecer y dirigir las políticas de la Comisión, aprobar, controlar y evaluar los programas de trabajo de la misma, en términos de los ordenamientos aplicables;
+II. Administrar y representar legalmente a la Comisión ante autoridades federales, estatales, municipales, organismos públicos y privados; así como público en general, en su carácter de autoridad sanitaria, con la suma de facultades generales y especiales que requiera la Ley:
+III. Representar al Estado de Tlaxcala dentro del Sistema Federal Sanitario y conducir el Sistema Estatal de Protección contra Riesgos Sanitarios, en los términos de las disposiciones aplicables y de los acuerdos de coordinación que se celebren dentro del ámbito de su competencia;
+IV. Elaborar y proponer anualmente al Consejo Técnico o instancia competente el proyecto del presupuesto anual de ingresos y egresos de la Comisión, necesarios para su funcionamiento, así como las modificaciones que requieran incorporarse durante el período respectivo, vigilando su ejercicio;
+V. Rendir un informe anual sobre las actividades de la Comisión ante el Consejo Técnico; o bien, cuando le sea requerido;
+VI. Ejercer las facultades de dirección, mando, revisión, supervisión, evaluación y disciplina emanados de la relación de jerarquía' con los titulares de las unidades administrativas y personal a su cargo, que permitan alcanzar los objetivos de la Comisión;
+VII. Integrar y someter a la aprobación del Consejo Técnico el manual de organización y funcionamiento de la Comisión; o en su caso, las modificaciones para su adecuado ejercicio;
+VIII. Expedir con la aprobación del Consejo Técnico normas, políticas, criterios, lineamientos, procedimientos y en general, aprobar los actos de carácter técnico y administrativo que permitan la mejor ejecución de las funciones de la Comisión;
+IX. Autorizar a los servidores públicos de la Comisión para que realicen actos y suscriban documentos específicos, siempre y cuando no formen parte del ejercicio de sus facultades indelegables;
+X. Proporcionar la información y colaboración técnica que le sea requerida por las unidades administrativas de la Secretaría y por otras dependencias y entidades de la administración pública federal, estatal y municipal; de conformidad con las disposiciones aplicables;
+XI. Suscribir contratos, convenios, acuerdos y documentos relativos al ejercicio de sus funciones y de aquellos que le hayan sido conferidos por delegación o que le correspondan por suplencia, con plena facultad de representación de la Comisión;
+XII. Suscribir, contratos, convenios, acuerdos y toda clase de actos jurídicos y administrativos, excepto aquellos actos de dominio, de conformidad con las disposiciones aplicables, relacionados con la administración de los recursos humanos, bienes muebles e inmuebles, materiales y financieros que sean necesarios para el cumplimiento de sus atribuciones;
+XIII. Suscribir los actos de autoridad que se deriven del ejercicio de sus facultades;
+XIV. Tramitar y resolver los recursos procedentes contra actos y resoluciones emitidos por la Comisión y que den fin a una instancia o resuelvan un expediente bajo los lineamientos que establece la Ley General de Salud, esta Ley y demás disposiciones legales aplicables;
+XV. Atender las recomendaciones que formule la Comisión Estatal de Derechos Humanos, que incidan en el ámbito de competencia de la Comisión o de las unidades administrativas que la integran;
+XVI. Expedir y certificar las copias de los documentos o constancias que existan en los archivos de la Comisión, que soliciten los interesados o que las leyes determinen, conforme a las disposiciones legales aplicables;
+XVII. Promover la capacitación, formación y educación continua del personal de la Comisión;
+XVIII. Promover la participación comunitaria y de los diferentes sectores de la sociedad en el ámbito de atribuciones de la Comisión;
+XIX. Promover la cooperación con organizaciones nacionales, estatales y municipales, para favorecer el intercambio técnico, académico y la elaboración de proyectos relacionados con su ámbito de competencia;
+XX. Recibir en acuerdo a los titulares de las unidades administrativas de la Comisión;
+XXI. Expedir las cartas de presentación de credenciales de identificación del personal a su cargo, a fin de habilitarlos para la práctica de actos relacionados con el ámbito de competencia de la Comisión;
+XXII. Recibir en audiencia al público usuario de los servicios a cargo de la Comisión;
+XXIII. Delegar y otorgar a subalternos, facultades de representación ante autoridades administrativas, legislativas o jurisdiccionales, estatales o federales. La delegación y otorgamiento a que se refiere la presente fracción se realizará por escrito y deberá contener fecha de suscripción, duración y otorgamiento, así como el objeto y fin por el cual se delegan y otorgan facultades de representación de la Comisión; y
+XXIV. Las demás que contribuyan al cumplimiento del objeto de la Comisión, y que le señalen esta Ley, el Consejo Técnico y demás disposiciones legales aplicables.
