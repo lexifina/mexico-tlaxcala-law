@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO. Se faculta a la Secretaría de Planeación y Finanzas para que en coordinación con la Procuraduría General de Justicia y la Oficialía Mayor de Gobierno, realice las adecuaciones programáticas y presupuestales que deriven de la aplicación de esta Ley.

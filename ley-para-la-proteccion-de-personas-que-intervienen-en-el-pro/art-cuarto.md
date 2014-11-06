@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. Para la debida implementación de la presente Ley, la capacitación y equipamiento correspondiente al personal que integra la Unidad de Atención a Víctimas y Testigos, el Congreso del Estado de Tlaxcala destinará los recursos necesarios, en el presupuesto de egresos de los ejercicios fiscales subsecuentes.

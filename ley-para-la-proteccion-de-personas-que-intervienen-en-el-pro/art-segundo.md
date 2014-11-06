@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. La Unidad de Atención a Víctimas y Testigos deberá establecerse en un término no mayor de noventa días hábiles a partir de la publicación del presente Decreto, considerando el servicio de carrera.

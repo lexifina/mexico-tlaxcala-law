@@ -1,0 +1,1 @@
+ARTÍCULO PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Gobierno del Estado y entrará en vigor de manera simultánea con el Código Nacional de Procedimientos Penales, de conformidad con lo dispuesto en la Declaratoria emitida por el Congreso del Estado de Tlaxcala, en términos de lo que dispone el ARTÍCULO SEGUNDO TRANSITORIO del citado ordenamiento.
