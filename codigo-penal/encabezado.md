@@ -5,4 +5,3 @@ MARIANO GONZALEZ ZARUR, Gobernador del Estado a sus habitantes sabed:
 Que por conducto de la Secretaría Parlamentaría del Honorable Congreso del Estado con esta fecha se me ha comunicado lo siguiente:
 EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, A NOMBRE DEL PUEBLO DECRETA.
 DECRETO No. 161
-CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA

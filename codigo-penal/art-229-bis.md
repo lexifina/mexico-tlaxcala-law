@@ -1,3 +1,3 @@
 (ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)
-Artículo 229 bis. A quien cometa feminicidio se le impondrán de treinta a setenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientos veinte días de salario.
+Artículo 229 Bis. A quien cometa feminicidio se le impondrán de treinta a setenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientos veinte días de salario.
 Si entre el activo y la víctima existió una relación sentimental, afectiva, de confianza o de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, y se acredita cualquiera de los supuestos establecidos en el artículo anterior, se impondrán de cuarenta a setenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientos veinte días de salario.
