@@ -1,6 +1,6 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.
+(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)
+Artículo 162 - H. Los servicios prestados por la Secretaría de Gobierno en materia de Seguridad Pública causarán los derechos siguientes:
 (ADICIONADO, P.O. 7 DE DICIEMBRE DE 2009)
-Artículo 162-H. Los servicios prestados por la Secretaría de Seguridad Pública causarán los derechos siguientes:
 I. Expedición del certificado médicoVeinte días de
 a las personas aseguradas,salario mínimo.
 detenidas, puestas a disposición
@@ -9,10 +9,13 @@ que tengan a partir de segundo
 grado de intoxicación etílica, así
 como le sean valoradas lesiones
 y se le den curaciones.
+(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2009)
 II. Expedición de Constancia deCuatro días de
 Legalidad de Vehículos.salario mínimo.
+(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2009)
 III. Los servicios prestados a través del Departamento de vialidad administrativa, causarán los derechos siguientes:
-a) Traslado de Vehículos efectuado por grúas de la Secretaría de Seguridad Pública a los corralones autorizados por la Secretaría de Comunicaciones y Transportes:
+(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)
+a). Traslado de Vehículos efectuado por grúas de la Comisión Estatal de Seguridad a los corralones autorizados por la Secretaría de Comunicaciones y Transportes:
 1. Maniobras de engancheOcho días de
 y desenganche.salario mínimo.
 2. Por cada kilómetro recorrido oUn día de
@@ -45,6 +48,7 @@ anteriores; tomando en consideración,días de salario
 antecedentes, tipo, motivo de ingresomínimo, por
 y situaciones especiales.cada día.
 Quedan exceptuados del pago de los derechos establecidos en esta fracción los propietarios de los vehículos que se encuentren en litigio, en los casos en que la autoridad competente determine la inocencia del mismo.
+(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2009)
 IV. Los servicios prestados a través del departamento de seguridad privada, causarán los derechos siguientes:
 a) Expedición de autorización de funcionamiento para prestar servicios de seguridad privada en el Estado, de acuerdo a las siguientes modalidades:
 1. Protección, custodia y vigilanciaDoscientos ochenta
@@ -127,6 +131,7 @@ salario
 mínimo
 por cada
 integrante.
+(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2009)
 V. Los servicios prestados a través de la Policía Industrial y Bancaria de guarda custodia o vigilancia de industrias, comercios o establecimientos de cualquier naturaleza, causará los derechos siguientes:
 a) Jornada Laboral.Importe mensual
 por elemento,
@@ -146,6 +151,7 @@ d) Las jornadas laborales contratadas que no se encuentren indicadas en el incis
 Para determinar el costo de las horas excedentes se dividirá el importe mensual por elemento en días de salario mínimo, entre el número de horas de la jornada laboral, el resultado se multiplicará por el número de horas excedentes.
 e) Los servicios extraordinarios contratados que no se encuentren indicadas en el inciso c), se cobrarán de acuerdo al servicio extraordinario inmediato superior.
 El pago deberá realizarse en forma mensual dentro de los primeros quince días naturales de cada mes, pudiendo convenirse que el mismo se realice en otra fecha, en función de las justificaciones que presente el contribuyente de que se trate.
+(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2009)
 VI. Los servicios prestados por el H. Cuerpo de Bomberos, por la capacitación o actualización que se proporcione a las brigadas de las industrias, comercios o establecimientos de cualquier naturaleza, causarán los derechos siguientes:
 a) Capacitación o actualización.
 1. Incendios15 días de salario mínimo.
@@ -157,14 +163,10 @@ b) Medidas de seguridad.
 3. Bajo riesgo8 días de salario mínimo.
 (ADICIONADA, P.O. 23 DE DICIEMBRE DE 2013)
 VII. Expedición de copias certificadas:
-a) Copias certificadas que expida el Un día de salario mínimo por las
-consejo de honor y justicia de la primeras diez fojas utilizadas y 20%
-Secretaría de Seguridad Pública.de un día de salario mínimo por
-cada foja adicional.
-b) Copias certificadas que expidan Un día de salario mínimo por
-las demás áreas de la Secretaría de las primeras veinte fojas utilizadas
-Seguridad Pública.y 20% de un día de salario
-mínimo por cada foja adicional.
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)
+a) Copias certificadas que expida el consejo de honor y justicia de la Comisión Estatal de Seguridad.Un día de salario mínimo por las primeras diez fojas utilizadas y 20% de un día de salario mínimo por cada foja adicional.
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)
+b) Copias certificadas que expidan las demás áreas de la Comisión Estatal de Seguridad.Un día de salario mínimo por las primeras veinte fojas utilizadas y 20% de un día de salario mínimo por cada foja adicional.
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE DICIEMBRE DE 2011)
 Subsección Duodécima
