@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE JUNIO DE 2015)
+Artículo 324 Bis.- Además de las penas que correspondan conforme al artículo 323 de este Código, se impondrán de seis meses a tres años de prisión y multa de treinta y seis a ciento cuarenta días de salario mínimo vigente en la región, cuando el robo se cometa por medio de vales o cualquier dispositivo en forma de tarjeta plástica, que tenga como finalidad usarse para el canje de dinero en efectivo, bienes o servicios.
