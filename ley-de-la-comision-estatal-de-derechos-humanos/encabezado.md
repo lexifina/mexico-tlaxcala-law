@@ -1,4 +1,5 @@
-LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
 Ley publicada en el Número 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 12 de enero de 1999.
 Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. H. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
 C. JOSE ANTONIO CRUZ ALVAREZ LIMA, Gobernador del Estado, a sus habitantes sabed:
