@@ -1,4 +1,4 @@
-LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL PARA EL ESTADO DE TLAXCALA
+LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE TLAXCALA
 Ley publicada en el Número 20 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el miércoles 31 de diciembre de 2003.
 Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. H. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
 ALFONSO ABRAHAM SANCHEZ ANAYA, Gobernador del Estado a sus habitantes sabed:
