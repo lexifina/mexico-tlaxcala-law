@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO. Los partidos políticos estatales deberán adecuar sus documentos básicos y demás reglamentación interna a lo previsto en esta Ley, en el término que se comprenda entre el inicio de la vigencia de la misma y el día treinta de septiembre del año dos mil quince.

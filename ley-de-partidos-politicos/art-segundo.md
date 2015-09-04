@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Los asuntos relativos al régimen de los partidos políticos que al inicio de la vigencia de esta Ley se encuentren en trámite, se resolverán conforme a las disposiciones que hubieran estado vigentes al momento de iniciarse.
