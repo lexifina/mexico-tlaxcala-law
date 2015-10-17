@@ -1,13 +1,12 @@
-(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
-ARTICULO 84 BIS-D.- La competencia entre el Estado, Secretaría de Salud y el régimen en la ejecución de las acciones de protección social en salud quedará distribuida conforme lo siguiente:
-A) Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Salud:
-I.- Promover los servicios de salud en los términos de este Capítulo, disponiendo de la capacidad de insumos y el suministro de medicamentos necesarios para su oferta oportuna y de calidad;
-II.- Programar los recursos necesarios para el mantenimiento, desarrollo de infraestructura y equipamiento, conforme a las prioridades establecidas en el Sistema, en congruencia con el plan maestro que se elabore a nivel nacional, y
-III.- Adoptar esquemas de operación que mejoren la atención médica, modernicen la administración de servicios y registros clínicos, alienten la certificación de su personal y promuevan la acreditación de establecimientos de atención médica; para tal efecto, podrán celebrar convenios entre sí y con instituciones públicas del Sistema Nacional de Salud, con la finalidad de optimizar la utilización de sus instalaciones y compartir la prestación de servicios, en términos de las disposiciones y lineamientos aplicables.
-B) Corresponde al Ejecutivo del Estado, por conducto del Régimen:
-I.- Identificar e incorporar beneficiarios al Régimen, para lo cual ejercerá actividades de difusión y promoción, así como las correspondientes al proceso de incorporación, incluyendo la integración, administración y actualización del padrón de beneficiarios en el Estado, conforme a los lineamientos vigentes;
-II.- Aplicar de manera transparente y oportuna los recursos que sean transferidos por la Federación al Estado y las aportaciones propias, para la ejecución de las acciones de protección social en salud, en función de los acuerdos de coordinación que para tal efecto se celebren;
-III.- Recibir, administrar y ejercer las cuotas familiares de los beneficiarios del Régimen, así como los demás ingresos que en razón de frecuencia en uso de los servicios o especialidad o para el surtimiento de medicamentos asociados, se impongan de manera adicional;
-IV.- Realizar el seguimiento operativo de las acciones en materia de protección social en salud, de los servicios de salud en el Estado, y la evaluación de su impacto, proveyendo a la federación la información que para tal efecto le solicite;
-V.- Proporcionar a las autoridades federales la información relativa al ejercicio de recursos transferidos, así como la correspondiente a los montos y rubros de gasto, y
-VI.- Promover la participación de los municipios en el Régimen y sus aportaciones económicas, mediante la suscripción de convenios, de conformidad con la legislación estatal aplicable.
+(REFORMADO, P.O. 16 DE OCTUBRE DE 2015)
+ARTICULO 84 BIS-D.- Para incrementar la calidad de los servicios de salud, Salud Tlaxcala vigilará el establecimiento de los requerimientos mínimos que servirán de base para la atención médica de los beneficiarios del Sistema.
+La Secretaría de Salud promoverá las acciones necesarias para que las unidades médicas del Sistema Estatal de Salud, que se incorporen al Sistema, provean como mínimo los servicios de consulta externa y hospitalización para las especialidades básicas de medicina interna, cirugía general, ginecoobstetricia, pediatría y geriatría, de acuerdo al nivel de atención, y acrediten previamente su calidad.
+La acreditación de la calidad de los servicios prestados deberá considerar, al menos, los aspectos siguientes:
+I. Prestaciones orientadas a la prevención y el fomento del auto cuidado de la salud;
+II. Aplicación de exámenes preventivos;
+III. Programación de citas para consultas;
+IV. Atención médica especializada;
+V. Integración de expedientes clínicos;
+VI. Continuidad de cuidados médicos mediante mecanismos de referencia y contrareferencia;
+VII. Prescripción y surtimiento de medicamentos, y
+VIII. Información al usuario sobre diagnóstico y pronóstico, así como del otorgamiento de orientación terapéutica.

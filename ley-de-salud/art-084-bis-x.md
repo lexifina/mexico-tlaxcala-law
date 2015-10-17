@@ -1,4 +1,2 @@
-(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
-ARTICULO 84 BIS-X.- La cobertura de Protección Social en Salud, será suspendida de manera temporal a cualquier familia beneficiaria, en los casos siguientes:
-I.- Cuando no cubra las cuotas familiar o reguladora en la forma y fechas que determine la instancia competente, en su caso, y
-II.- Cuando el principal sostén de la familia beneficiaria se incorpore a alguna institución de seguridad social, Federal o Estatal.
+(REFORMADO, P.O. 16 DE OCTUBRE DE 2015)
+ARTICULO 84 BIS-X.- El Régimen deberá presentar a la Secretaría de Salud Federal, conforme a los lineamientos que la misma establezca, los informes que sean necesarios respecto del destino y manejo de las cuotas familiares.

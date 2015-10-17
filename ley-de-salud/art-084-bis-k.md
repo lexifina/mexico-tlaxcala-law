@@ -1,3 +1,7 @@
-(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
-ARTICULO 84 BIS-K.- Los recursos de carácter federal que se transfieran al Estado para sustentar el Sistema, no serán embargables; ni el gobierno del Estado podrá, bajo ninguna circunstancia, gravarlos, afectarlos en garantía, ni destinarlos a fines distintos a los expresamente previstos.
-Dichos recursos se administrarán y ejercerán con base en los acuerdos de coordinación que se celebren para el efecto. El Gobierno del Estado deberá registrar estos recursos como ingresos propios, destinados específicamente a los fines establecidos.
+(REFORMADO, P.O. 16 DE OCTUBRE DE 2015)
+ARTICULO 84 BIS-K.- El control y supervisión del manejo de los recursos aportados para el Sistema, quedará a cargo de las autoridades siguientes en las etapas que se indican:
+I. Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria federal y hasta la entrega de los recursos correspondientes al Estado, corresponderá a la Contraloría del Ejecutivo del Estado;
+II. Recibidos los recursos federales por el Estado, hasta su erogación total, corresponderá a las autoridades de control y supervisión interna del Gobierno del Estado; la supervisión y vigilancia, no podrán implicar limitaciones, ni restricciones de cualquier índole, en la administración y ejercicio de dichos recursos, y
+III. La fiscalización de los recursos aportados para el Sistema, será efectuada por el Honorable Congreso del Estado, por conducto de su Órgano de Fiscalización.
+Cuando las autoridades estatales que en el ejercicio de sus atribuciones de control y supervisión, conozcan que los recursos señalados no han sido aplicados a los fines que señala esta ley, deberán hacerlo del conocimiento inmediato de la Contraloría del Ejecutivo del Estado.
+Las responsabilidades administrativas, civiles y penales que deriven de la desviación de los recursos señalados, serán sancionadas en los términos de la legislación aplicable, por las autoridades competentes.

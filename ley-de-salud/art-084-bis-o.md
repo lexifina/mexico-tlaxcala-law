@@ -1,2 +1,4 @@
-(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
-ARTICULO 84 BIS-O.- El Régimen deberá presentar a la Secretaría de Salud Federal, conforme a los lineamientos que la misma establezca, los informes que sean necesarios respecto del destino y manejo de las cuotas familiares.
+(REFORMADO, P.O. 16 DE OCTUBRE DE 2015)
+ARTICULO 84 BIS-O.- La organización y administración del Régimen, estará a cargo de los órganos siguientes:
+I. Una Junta de Gobierno; y
+II. La Dirección General.

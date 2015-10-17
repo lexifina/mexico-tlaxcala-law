@@ -1,3 +1,4 @@
-(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
-ARTICULO 84 BIS-N.- Los beneficiarios del Sistema participarán en el financiamiento del mismo, mediante las cuotas familiares determinadas con base en las condiciones socioeconómicas de cada familia, las cuales deberán cubrirse en forma anticipada, anual y progresiva, salvo cuando exista la incapacidad de la familia a cubrir la cuota, lo cual no le impedirá incorporarse y ser sujeto de los beneficios que se deriven del Sistema.
-Las disposiciones reglamentarias establecerán los lineamientos para los casos en que por las características socioeconómicas de los beneficiarios, éstos no aportarán cuotas familiares.
+(REFORMADO, P.O. 16 DE OCTUBRE DE 2015)
+ARTICULO 84 BIS-N.- El Régimen a través de Salud Tlaxcala y la Secretaría de Salud proveerán de manera integral los servicios de salud y los medicamentos asociados, sin exigir cuotas distintas a las establecidas, siempre que los beneficiarios cumplan con sus obligaciones.
+El Gobierno del Estado, a través del Régimen, ejercerá los recursos que le sean aportados por el Gobierno Federal del Fondo de Aportaciones para los Servicios de Salud a la Comunidad, de conformidad con los acuerdos de coordinación que para tal efecto se suscriban.
+Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura en salud, el Régimen, a partir de las transferencias que reciba, deberá destinar los recursos necesarios para la inversión en infraestructura médica, de conformidad con el Plan Maestro elaborado por la autoridad Federal correspondiente.

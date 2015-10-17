@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
-ARTICULO 84 BIS-U.- El Sistema contará con un Régimen Estatal de Protección Social en Salud, como órgano desconcentrado de la Secretaría de Salud, con la estructura y funciones que le asigne su Reglamento Interior.
+(REFORMADO, P.O. 16 DE OCTUBRE DE 2015)
+ARTICULO 84 BIS-U.- El Régimen contará con un Órgano Interno de Control, con las atribuciones que señala la normatividad aplicable, cuyo titular será designado y removido de conformidad a lo establecido por la Ley Orgánica de la Administración Pública del Estado de Tlaxcala y la normatividad correspondiente.

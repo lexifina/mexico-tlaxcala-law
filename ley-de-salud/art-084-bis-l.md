@@ -1,2 +1,3 @@
-(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)
-ARTICULO 84 BIS-L.- Será causa de responsabilidad administrativa el incumplimiento en tiempo y forma, de las obligaciones económicas establecidas en el convenio de coordinación correspondiente, celebrado con el Gobierno Federal.
+(REFORMADO, P.O. 16 DE OCTUBRE DE 2015)
+ARTICULO 84 BIS-L.- El Sistema contará con un Organismo Público Descentralizado denominado Régimen Estatal de Protección Social en Salud en Tlaxcala, con la estructura y funciones que le asigne su Reglamento Interior y demás ordenamientos legales aplicables.
+El Régimen tendrá por objeto garantizar las acciones de protección social en salud en el Estado, mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de los servicios de salud, de conformidad con lo dispuesto en la Ley General de Salud, el Reglamento de la Ley General de Salud en Materia de Protección Social en Salud, la Ley de Salud del Estado de Tlaxcala, lo establecido en los instrumentos jurídicos de Coordinación suscritos entre la Secretaría de Salud Federal y el Ejecutivo del Estado de Tlaxcala y demás normatividad aplicable.
