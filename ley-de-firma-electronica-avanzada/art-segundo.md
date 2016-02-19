@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Los poderes Legislativo y Judicial del Estado, así como los Organismos Públicos Autónomos y los Municipios del Estado adoptarán las medidas administrativas necesarias para dar cumplimiento a esta Ley conforme a su disponibilidad de recursos humanos, materiales, económicos y tecnológicos.
