@@ -5,3 +5,4 @@ ALFONSO ABRAHAM SÁNCHEZ ANAYA, Gobernador del Estado, a sus habitantes sabed:
 Que por conducto de la Secretaría del Honorable Congreso del Estado, con esta fecha se me ha comunicado lo siguiente:
 EL CONGRESO DEL ESTADO DE TLAXCALA, A NOMBRE DEL PUEBLO DECRETA.
 NUMERO 33
+CÓDIGO FINANCIERO PARA EL ESTADO DE TLAXCALA Y SUS MUNICIPIOS
