@@ -1,4 +1,4 @@
-LEY DE DEUDA PUBLICA PARA EL ESTADO DE TLAXCALA Y SUS MUNICIPIOS
+LEY DE DEUDA PÚBLICA PARA EL ESTADO DE TLAXCALA Y SUS MUNICIPIOS
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 23 de octubre de 2008.
 Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. H. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
 HECTOR ISRAEL ORTIZ ORTIZ, Gobernador del Estado a sus habitantes sabed:

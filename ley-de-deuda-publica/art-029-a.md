@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2016)
+Artículo 29-A. El Gobierno del Estado y los Municipios, podrán solicitar la garantía del Gobierno Federal a las Obligaciones constitutivas de Deuda Pública, por conducto de la Secretaría de Hacienda y Crédito Público, previo cumplimiento de los requisitos que esta determine y conforme a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
