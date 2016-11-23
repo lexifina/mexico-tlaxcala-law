@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO. El Ejecutivo del Estado cuenta con sesenta días naturales posteriores a la publicación del presente Decreto, para realizar las adecuaciones jurídico-administrativas necesarias para el adecuado funcionamiento de este ordenamiento.
