@@ -194,4 +194,4 @@ XXX. Por la publicación de edictosDos días de
 en los estrados del Instituto.salario mínimo.
 (REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2014)
 Subsección Undécima
-Derechos por los Servicios Prestados por la Secretaría de Gobierno en materia de Segridad Publica.
+Derechos por los Servicios Prestados por la Secretaría de Gobierno en materia de Seguridad Publica.
