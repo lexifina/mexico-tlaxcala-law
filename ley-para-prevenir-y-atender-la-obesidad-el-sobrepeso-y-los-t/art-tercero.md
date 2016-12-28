@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO. Dentro de un plazo de noventa días naturales posteriores a la entrada en vigor de la presente Ley, el Gobernador del Estado formulará el Programa Estatal para la Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimentaria, mismo que deberá ser publicado en el Periódico Oficial del Gobierno del Estado.
