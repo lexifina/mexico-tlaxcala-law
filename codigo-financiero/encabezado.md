@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 CÓDIGO FINANCIERO PARA EL ESTADO DE TLAXCALA Y SUS MUNICIPIOS
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 31 de diciembre de 2002.
 Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. H. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
