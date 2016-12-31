@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)
+ARTICULO 1409 Bis.- No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6° y 7° de la Constitución Política de los Estados Unidos Mexicanos.
+En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y del daño que directamente le hubiere causado tal conducta.
+En ningún caso se considerarán ofensas al honor las opiniones desfavorables derivadas de la crítica literaria, artística, científica o profesional. Tampoco se consideraran ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho, cuando el modo de proceder o la falta de reserva no tengan un propósito ofensivo.

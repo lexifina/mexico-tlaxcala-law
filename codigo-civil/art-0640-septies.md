@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)
+ARTICULO 640 Septies. La sentencia ejecutoriada se comunicará al Oficial del Registro del Estado Civil, remitiéndole copia certificada de aquella y del auto que la declare firme, y éste hará una referencia de la misma al calce o al margen del acta de que se trate, y le agregará la referida copia certificada, ya sea que el fallo conceda o niegue la rectificación.
