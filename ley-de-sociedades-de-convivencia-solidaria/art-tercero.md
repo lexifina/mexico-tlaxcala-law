@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO. El Gobernador del Estado, la Oficialía Mayor de Gobierno del Estado y la Dirección Coordinadora del Registro Civil del Estado de Tlaxcala, deberán realizar las adecuaciones jurídico-administrativas correspondientes dentro del plazo establecido en el Artículo Segundo Transitorio de esta Ley.
