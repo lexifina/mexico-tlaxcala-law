@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Se abroga la Ley para la Prevención de la Trata de Personas para el Estado de Tlaxcala, contenida en el Decreto número noventa y seis, publicado en el Periódico Oficial del Gobierno del Estado el día cuatro de diciembre del año dos mil nueve.

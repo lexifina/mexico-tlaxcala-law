@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. El Secretario de Gobierno, en su calidad de Presidente del Consejo Estatal contra Trata de Personas, implementará las acciones necesarias para la elaboración del Programa Estatal, el cual deberá aprobarse dentro de los ciento ochenta días hábiles siguientes a la instalación del referido Consejo.
