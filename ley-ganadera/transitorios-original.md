@@ -9,3 +9,4 @@ AL EJECUTIVO PARA QUE LO SANCIONE Y MANDE PUBLICAR.
 Dado en el Salón de Sesiones del Palacio Juárez del Poder Legislativo del Estado, en Tlaxcala de Xicohténcatl a los Treinta y un días del mes de Enero de mil novecientos setenta y ocho.- Diputado Presidente.- Dr. Alvaro Salazar Lozano.- Rúbrica.- Diputada Secretaria.- Alma Inés Gracia de Zamora.- Rúbrica.- Diputado Secretario.- Profr. Ignacio Marino Pérez S.- Rúbrica.
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los treinta y un días del mes de Enero de mil novecientos setenta y ocho.- El Gobernador Constitucional del Estado.- Lic. Emilio Sánchez Piedras.- Rúbrica.- El Secretario General de Gobierno.- Lic. Samuel Quiroz de la Vega.- Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
