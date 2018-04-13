@@ -1,4 +1,4 @@
-LEY DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE TLAXCALA
+LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TLAXCALA
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Tlaxcala, el miércoles 14 de diciembre de 2005.
 Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. H. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
 HECTOR ISRAEL ORTIZ ORTIZ, Gobernador del Estado a sus habitantes sabed:

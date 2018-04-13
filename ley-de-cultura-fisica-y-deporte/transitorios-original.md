@@ -9,3 +9,4 @@ C. PEDRO TECUAPACHO RODRIGUEZ.- DIP. PRESIDENTE.- C. ALFONSO RODRIGUEZ DOMINGUEZ
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, al día primero de diciembre del 2005.
 EL GOBERNADOR DEL ESTADO.- HECTOR ISRAEL ORTIZ ORTIZ.- Rúbrica.- EL SECRETARIO DE GOBIERNO.- ADOLFO ESCOBAR JARDINEZ.- Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
