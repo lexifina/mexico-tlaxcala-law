@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. Los actuales integrantes del Patronato estarán en funciones hasta que concluya el periodo para el cual fueron electos. Adecuando el cargo conferido con el cargo en semejanza que la presente Ley establece.

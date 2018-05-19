@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. La presente Ley reconoce la personalidad jurídica del Patronato Antonio Díaz Varela otorgada por la Ley que crea el Patronato Antonio Díaz Varela, en la Ciudad de Chiautempan; publicada en el Periódico Oficial del Gobierno del Estado de Tlaxcala, el 16 de diciembre de 1970, Tomo LXIV, Número 50.

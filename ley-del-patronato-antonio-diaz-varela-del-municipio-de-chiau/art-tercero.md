@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO. A la entrada en vigor de la presente Ley, el Patronato en funciones tiene sesenta días naturales para hacer las adecuaciones de gobierno y administrativas que establece este ordenamiento.

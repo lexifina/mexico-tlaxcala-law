@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO. El Patronato tiene sesenta días naturales, después de la entrada en vigor del presente Decreto, para llevar a cabo la integración del Padrón de Artesanos a que se refiere la presente Ley.
