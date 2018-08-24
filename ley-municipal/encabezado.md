@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 LEY MUNICIPAL DEL ESTADO DE TLAXCALA
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 20 de diciembre de 2001.
 Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. H. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
