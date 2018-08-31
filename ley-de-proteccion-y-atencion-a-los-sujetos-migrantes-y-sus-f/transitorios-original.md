@@ -1,5 +1,6 @@
 TRANSITORIOS
-ARTÍCULO PRIMERO. La presente Ley entrará en vigor el día uno de enero del año dos mil dieciocho, previa opinión fundada de la Secretaría de Planeación y Finanzas del Gobierno del Estado, en la que declare financieramente viable la creación y funcionamiento del Instituto Tlaxcalteca de Atención a los Sujetos Migrantes y sus Familias.
+(REFORMADO, P.O. 30 DE AGOSTO DE 2018)
+ARTÍCULO PRIMERO. La presente Ley entrará en vigor el día uno de enero del año dos mil dieciocho.
 ARTÍCULO SEGUNDO. Se abroga la Ley de Protección y Atención a Migrantes y sus familias del Estado de Tlaxcala, contenida en el Decreto número 125, publicado en el Periódico Oficial del Gobierno del Estado, Tomo XCI, Segunda Época, Número 5 Extraordinario, de fecha 10 de diciembre de 2012.
 ARTÍCULO TERCERO. El titular del Ejecutivo deberá expedir dentro de los noventa días hábiles, posteriores a la entrada en vigor de la presente Ley, el reglamento correspondiente; y para el caso de los ayuntamientos, contarán con sesenta días para la instalación de sus centros de enlace de atención.
 AL EJECUTIVO PARA QUE LO SANCIONE Y MANDE PUBLICAR
@@ -14,3 +15,4 @@ Rúbrica y sello
 EL SECRETARIO DE GOBIERNO
 FLORENTINO DOMÍNGUEZ ORDOÑEZ
 Rúbrica y sello
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
