@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (ADICIONADO, P.O. 12 DE OCTUBRE DE 2015)
 Artículo 74 Bis. El Director de Obras Públicas tendrá las obligaciones siguientes:
 I. Coadyuvar en la planeación y presupuestación de las obras públicas que se propagan por el Ayuntamiento;
