@@ -1,6 +1,1 @@
-(ADICIONADO, P.O. 11 DE MARZO DE 2010)
-Artículo 1467 Ter.- Cuando los adoptantes sean extranjeros o mexicanos residentes en el extranjero, éstos deberán presentar, además de los requisitos señalados en el artículo 1466, los siguientes:
-I.- Escrito de autorización de la Secretaría de Gobernación para internarse y permanecer en la República con la finalidad de realizar la adopción;
-II.- Certificado debidamente legalizado y traducido, si está escrito en otro idioma, expedido por una institución pública autorizada por su país de origen, en el que se acredite la idoneidad y capacidad jurídica para adoptar, atendiendo a sus aptitudes psicológicas, morales, físicas y económicas, y
-III.- Constancia de que la persona que se pretende adoptar ha sido autorizada para entrar y residir permanentemente en el país de los adoptantes.
-El juez que autorice la adopción internacional comunicará a la institución que expidió el certificado a que se refiere la fracción II de este artículo, para efectos de que ésta, dentro del lapso de un año posterior a la adopción, informe al Juez y al Sistema Estatal para el Desarrollo Integral de la Familia, sobre las condiciones de salud, físicas, educativas y emocionales en que se desarrolle el nuevo vínculo paterno filiar y del trato que se le da al adoptado.
+Artículo 1467 Ter.- (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2018)
