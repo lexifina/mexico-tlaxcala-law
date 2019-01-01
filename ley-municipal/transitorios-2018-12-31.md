@@ -1,0 +1,4 @@
+P.O. 31 DE DICIEMBRE DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 75.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY MUNICIPAL DEL ESTADO DE TLAXCALA, Y DEL DECRETO NÚMERO 149 APROBADO EL CATORCE DE AGOSTO DEL AÑO DOS MIL DIECIOCHO".]
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el día uno de enero del año dos mil diecinueve.
+ARTÍCULO SEGUNDO. Se derogan las disposiciones que se opongan al contenido de este Decreto
