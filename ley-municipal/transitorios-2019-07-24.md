@@ -1,0 +1,4 @@
+P.O. 24 DE JULIO DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 102.- POR EL QUE SE ADICIONA EL INCISO E), RECORRIÉNDOSE EL ACTUAL INCISO E) PARA EN LO SUBSECUENTE SER INCISO F) DE LA FRACCIÓN VI DEL ARTÍCULO 47 DE LA LEY MUNICIPAL DEL ESTADO DE TLAXCALA Y SE REFORMAN LA FRACCIÓN XIII DEL ARTÍCULO 8 Y LA FRACCIÓN V DEL ARTÍCULO 14, AMBOS DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TLAXCALA".]
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+ARTÍCULO SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
