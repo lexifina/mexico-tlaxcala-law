@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)
-Artículo 640 Quáter. La rectificación administrativa se llevará a cabo bajo el procedimiento siguiente:
+ARTICULO 640 QUATER. La rectificación administrativa se llevará a cabo bajo el procedimiento siguiente:
 I. El interesado o su representante legal deberá presentar su solicitud por escrito, ante la Dirección de la Coordinación del Registro Civil, la cual contendrá:
 a) Nombre del solicitante;
 b) Firma autógrafa o huella digital del solicitante;

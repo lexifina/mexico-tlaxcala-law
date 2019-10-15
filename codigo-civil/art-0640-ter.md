@@ -2,7 +2,7 @@
 SECCIÓN PRIMERA
 DE LA RECTIFICACIÓN ADMINISTRATIVA DE LAS ACTAS DEL ESTADO CIVIL
 (ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)
-ARTICULO 640 Ter. La rectificación administrativa, se tramitará ante la Dirección de la Coordinación Estatal del Registro Civil, siendo procedente en los siguientes casos:
+ARTICULO 640 TER. La rectificación administrativa, se tramitará ante la Dirección de la Coordinación Estatal del Registro Civil, siendo procedente en los siguientes casos:
 I. Exclusivamente en las actas de nacimiento:
 a) Cuando el registrado ha venido utilizando un nombre propio diverso al asentado en el acta y solicite ajustarlo a la realidad social, sin que se afecte su filiación y no se involucren los apellidos;
 b) Cuando se haya asentado como fecha de nacimiento del registrado una distinta de la real, y ésta pueda acreditarse fehacientemente con el certificado médico de nacimiento.

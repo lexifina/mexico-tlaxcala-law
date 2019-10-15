@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 14 DE OCTUBRE DE 2019)
+ARTICULO 640 QUATER B. Para realizar el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, la persona interesada deberá tener al menos dieciocho años de edad cumplidos al momento de iniciar el trámite y presentar:
+I. Solicitud por escrito, en la que especifique el género y nombre que solicita, sin afectar los apellidos;
+II. Copia certificada del acta de nacimiento primigenia para efecto de que se haga la reserva correspondiente, y
+III. Original y copia fotostática de su identificación oficial.
+El Titular del Registro Civil competente llevará a cabo la revisión y cotejo de los documentos a que se refiere este artículo. En caso de estar cubiertos todos los requisitos señalados, tendrá verificativo una comparecencia de la persona solicitante en la que manifieste su convicción para cambiar su nombre y percibirse con un género diferente al que aparece en su acta de nacimiento primigenia, por lo que solicita el levantamiento de una nueva acta de nacimiento con los cambios propuestos.
+La comparecencia y la solicitud de levantamiento de la nueva acta de nacimiento se realizarán ante la Dirección de la Coordinación del Registro Civil del Estado. Se procederá de inmediato a hacer la anotación y la reserva correspondiente, asimismo, se comunicará a la Oficialía del Registro Civil respectiva, para los efectos a que haya lugar.
+El acta de nacimiento primigenia quedará reservada y no se publicará ni expedirá constancia alguna, salvo por petición de la persona registrada, mandamiento judicial o petición ministerial.
