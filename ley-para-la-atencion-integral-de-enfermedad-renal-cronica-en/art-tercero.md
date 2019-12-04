@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO. El Comité Técnico de Evaluación y Seguimiento del Programa de Atención Integral, deberá integrarse y celebrar su sesión de instalación dentro de los sesenta días naturales posteriores a la entrada en vigor de esta Ley.

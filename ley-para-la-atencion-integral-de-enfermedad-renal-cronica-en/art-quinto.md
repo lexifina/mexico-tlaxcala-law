@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO. Salud de Tlaxcala deberá publicar los lineamientos de operación del Programa de Atención Integral, dentro de los noventa días naturales posteriores al inicio de la vigencia de esta Ley.

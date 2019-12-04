@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Los recursos financieros, equipo e insumos relacionados con programas o acciones para la detección o atención de Enfermedad Renal Crónica, que manejen las dependencias y entidades del Gobierno del Estado, pasarán a formar parte del Programa de Atención Integral.
