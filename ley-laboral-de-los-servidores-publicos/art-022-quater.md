@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2019)
+ARTÍCULO 22 QUATER. La licencia para cuidados de la salud se otorgará con goce de sueldo, por cinco y hasta diez días hábiles, a los servidores públicos que tengas (sic) hijas e hijos menores de doce años, para que se ocupen de cuidarlos durante la enfermedad, cuando el caso así lo amerite, previo dictamen de los médicos autorizados por los poderes públicos, municipios o ayuntamiento y la consecuente vigilancia médica.
