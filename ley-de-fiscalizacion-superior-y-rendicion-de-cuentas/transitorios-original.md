@@ -1,0 +1,23 @@
+TRANSITORIOS
+ARTÍCULO PRIMERO. La presente Ley entrará en vigor a partir del día primero de enero del año dos mil veinte, sin perjuicio de lo dispuesto en los ARTÍCULOS TRANSITORIOS siguientes.
+ARTÍCULO SEGUNDO. Se abroga la Ley de Fiscalización Superior del Estado de Tlaxcala y sus Municipios, publicada en el Periódico Oficial del Gobierno del Estado en el Tomo LXXXVII, Segunda Época, No. 2 Extraordinario de fecha diez de noviembre del año dos mil ocho; y se derogan todas las disposiciones jurídicas y administrativas que contravengan o se opongan al presente Decreto.
+ARTÍCULO TERCERO. El proceso de revisión y fiscalización superior de la cuenta pública que se encuentra en trámite, se llevará a cabo conforme a las disposiciones y términos de la Ley de Fiscalización Superior del Estado de Tlaxcala y sus Municipios, publicada en el Periódico Oficial del Gobierno del Estado en el Tomo LXXXVII, Segunda Época, No. 2 Extraordinario de fecha diez de noviembre del año dos mil ocho que se abroga, así como del Reglamento Interior del Órgano de Fiscalización Superior del Congreso del Estado de Tlaxcala de fecha tres de junio del año dos mil nueve; vigentes en el momento de iniciar dicho proceso.
+ARTÍCULO CUARTO. Los procedimientos administrativos y/o de responsabilidad indemnizatoria iniciados de conformidad con la Ley de Fiscalización Superior del Estado de Tlaxcala y sus Municipios, publicada en el Periódico Oficial del Gobierno del Estado en el Tomo LXXXVII, Segunda Época, No. 2 Extraordinario de fecha diez de noviembre del año dos mil ocho, que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva por el Auditor Superior, en términos de la Ley que se abroga.
+ARTÍCULO QUINTO. El Órgano de Fiscalización Superior, dentro de un plazo máximo de ciento veinte días a partir de la entrada en vigor de la presente Ley, deberá expedir su Reglamento Interior.
+ARTÍCULO SEXTO. El acuerdo publicado en el Periódico Oficial del Gobierno del Estado en fecha doce de diciembre de dos mil dieciséis mediante el cual fue ratificado el Auditor Especial de Cumplimiento, queda sin efecto a partir de la publicación de la presente Ley.
+ARTÍCULO SÉPTIMO. El OFS continuará funcionando con su estructura, organización y facultades actuales, sin perjuicio de las áreas que se creen para dar cumplimiento a la Ley General de Responsabilidades Administrativas, hasta la entrada en vigor del Reglamento Interior del OFS, por lo que el Auditor Superior en funciones continuará en su cargo por el período señalado en los Acuerdos y Decreto 244, publicados en el Periódico Oficial del Gobierno del Estado de Tlaxcala de fecha nueve de noviembre de dos mil dieciséis, con excepción de la Auditoria Especial de Cumplimiento.
+ARTÍCULO OCTAVO. Se ratifica el contenido de los acuerdos, circulares, guías, manuales de organización y de procedimientos, así como demás normatividad que emitieron las autoridades competentes del Órgano de Fiscalización Superior del Congreso del Estado, que a la entrada en vigor de la presente Ley se encuentren vigentes, hasta en tanto se sustituyan o dejen sin efectos.
+ARTÍCULO NOVENO. Serán válidos hasta su terminación o conclusión de vigencia, los convenios y contratos que con anterioridad a la entrada en vigor del presente Decreto, hubiere celebrado el Órgano de Fiscalización Superior del Congreso del Estado de Tlaxcala, hasta en tanto concluyan su vigencia, se autoricen otros o los realizados queden sin efectos.
+ARTÍCULO DÉCIMO. Los entes fiscalizables podrán celebrar convenios con el Órgano de Fiscalización Superior del Congreso del Estado, a efecto de establecer y operar el Sistema de Contabilidad Gubernamental.
+AL EJECUTIVO PARA QUE LO SANCIONE Y MANDE PUBLICAR
+Dado en la sala de sesiones del Palacio Juárez, recinto oficial del Poder Legislativo del Estado Libre y Soberano de Tlaxcala, en la Ciudad de Tlaxcala de Xicohténcatl, a los diez días del mes de diciembre del año dos mil diecinueve.
+C. MARIA FELIX PLUMA FLORES.- DIP. PRESIDENTA.- Rúbrica.- C. MAYRA VÁZQUEZ VELÁZQUEZ.- DIP. SECRETARIA.- Rúbrica.- C. LAURA YAMILI FLORES LOZANO.- DIP. SECRETARIA.- Rúbrica.
+Al calce un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los veintitrés días del mes de Diciembre del año dos mil diecinueve.
+GOBERNADOR DEL ESTADO
+MARCO ANTONIO MENA RODRÍGUEZ
+Rúbrica y sello
+SECRETARIO DE GOBIERNO
+JOSÉ AARÓN PÉREZ CARRO
+Rúbrica y sello
