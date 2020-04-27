@@ -1,0 +1,4 @@
+P.O. 27 DE ABRIL DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 205.- SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO, Y SE ADICIONAN LOS ARTÍCULOS TRANSITORIOS DÉCIMO PRIMERO Y DÉCIMO SEGUNDO, TODOS DEL DECRETO 185 QUE CONTIENE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE TLAXCALA Y SUS MUNICIPIOS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO TOMO XCVIII SEGUNDA ÉPOCA, NÚMERO 3 EXTRAORDINARIO, DE FECHA 24 DE DICIEMBRE DE 2019".]
+ARTÍCULO PRIMERO. Con fundamento en lo dispuesto por el artículo 53 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, el presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+ARTÍCULO SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
