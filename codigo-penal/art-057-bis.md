@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 25 DE AGOSTO DE 2020)
+Artículo 57 Bis. Tratándose de persona perteneciente a una comunidad étnica indígena, la autoridad ejecutora respetando la libre determinación, tomará en cuenta los usos y costumbres de la comunidad correspondiente; con base en ello determinará el trabajo a desempeñar, atendiendo en todo momento su condición étnica, preferentemente el trabajo deberá ser en la comunidad del sentenciado.
