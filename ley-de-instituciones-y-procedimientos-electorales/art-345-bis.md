@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE AGOSTO DE 2020)
+Artículo 345 Bis. Es sujeto de responsabilidad por infracciones cometidas a las disposiciones electorales de esta Ley, derivadas de prácticas y/o conductas que produzcan violencia política por razones de género, preferencias sexuales o religiosas; origen étnico o particularidades lingüísticas; o de sus circunstancias físico-motrices o de inteligencia diferenciada, cualquier persona, sea física o moral, de derecho público o privado, individualmente o de manera asociada.
