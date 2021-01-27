@@ -1,0 +1,9 @@
+P.O. 26 DE ENERO DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO No. 276.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+PRIMERO. En términos de lo previsto por el artículo 120 de la Constitución Política Del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado de Tlaxcala, para el debido cumplimiento de este precepto.
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+TERCERO. Se deberán prever los recursos necesarios para el desarrollo del Sistema de Justicia Integral para Adolescentes. Las partidas para tales propósitos deberán señalarse en los presupuestos de egresos correspondientes.
+CUARTO. El Congreso local deberá expedir las leyes o en su caso las modificaciones correspondientes a la legislación secundaria, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto.
+QUINTO. La legislación actual en materia de mecanismos alternativos de solución de controversias continuará vigente hasta en tanto entre en vigor la legislación mencionada en el transitorio anterior, por lo que los procedimientos iniciados y las sentencias emitidas con fundamento en las mismas, deberán concluirse y ejecutarse, conforme a lo previsto en aquellas.
+SEXTO. En tanto se instituya e inicie operaciones el Centro de Conciliación Laboral del Estado, las autoridades locales laborales continuarán atendiendo las diferencias o conflictos que se presenten entre patrones y trabajadores. Los asuntos que estuvieran en trámite al momento de iniciar sus funciones dicho Centro de Conciliación serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio.
+SÉPTIMO. Se derogan todas las disposiciones que contravengan al presente decreto.
