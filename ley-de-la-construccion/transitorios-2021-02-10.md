@@ -1,0 +1,6 @@
+P.O. 10 DE FEBRERO DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 302.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA CONSTRUCCIÓN DEL ESTADO DE TLAXCALA".]
+ARTÍCULO PRIMERO. El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+ARTÍCULO SEGUNDO. La Secretaría de Obras Públicas, Desarrollo Urbano y vivienda del Estado, con el apoyo de la Comisión de Asistencia Técnica Institucional, revisará y actualizará las normas técnicas, conforme a las modificaciones de la presenta (sic) Ley dentro de un plazo de doce meses siguientes a la entrada en vigor de este Decreto.
+ARTÍCULO TERCERO. Dentro de un plazo de ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, los ayuntamientos realizarán las adecuaciones correspondientes a su orden reglamentario a fin de adecuar conforme a este Decreto, las facultades de la Dirección de Obras Públicas y Desarrollo Urbano del Municipio, o en su caso, expedirán un nuevo Reglamento en los términos previstos en el artículo 3 de esta Ley.
+ARTÍCULO CUARTO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
