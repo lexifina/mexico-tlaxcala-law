@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 16 DE MARZO DE 2021)
+Artículo 209 Bis. Los municipios que no tengan actualizada su tabla de valores catastrales en los términos que ordena la Ley de Catastro del Estado de Tlaxcala, no podrán aplicar la tasa del dos por ciento para el cobro del Impuesto Sobre Transmisión de Bienes Inmuebles que establece el artículo 209 de este Código, hasta en tanto actualicen y se publiquen sus tablas de valores catastrales, solo podrán cobrar la cuota mínima de ocho veces el valor diario de la Unidad de Medida y Actualización.
