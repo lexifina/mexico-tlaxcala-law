@@ -1,0 +1,6 @@
+P.O. 13 DE ABRIL DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO No. 309.- SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 54, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+ARTÍCULO SEGUNDO. Se derogan todas aquellas disposiciones que se contrapongan al presente Decreto.
+ARTÍCULO TERCERO. Los actuales titulares del Tribunal de Conciliación y Arbitraje del Estado concluirán el periodo para el que fueron designados, sin embargo en el procedimiento para el nombramiento de magistrados, podrán participar y en su caso ser designados con ese carácter quienes hasta ese momento sean titulares del Tribunal de Conciliación y Arbitraje del Estado, quedando exceptuados por única ocasión del cumplimiento de los requisitos previstos en el artículo 83, fracción VI, de la Constitución Política del Estado de Tlaxcala, y del artículo 90 fracción V, de la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios.
+La toma de protesta de los magistrados del Tribunal de Conciliación y Arbitraje del Estado, se llevará a cabo el doce de enero del dos mil veintitrés, en sesión pública celebrada a las once horas de la mañana.
