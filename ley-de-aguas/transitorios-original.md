@@ -11,3 +11,4 @@ Dado en la sala de sesiones del Palacio Juárez, recinto oficial del Poder Legis
 C. MIGUEL ATLATENCO ROMERO.- DlP. PRESIDENTE.- C. JUAN JOSE PIEDRAS ROMERO.- DIP. SECRETARIO.- C. ENRIQUE JAVIER RAMIREZ DE LA VEGA.- DIP. SECRETARIO.- Firmas Autógrafas.
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los veintidós días del mes de diciembre de 2009.
 EL GOBERNADOR DEL ESTADO.- HECTOR ISRAEL ORTIZ ORTlZ.- Firma Autógrafa.- EL SECRETARIO DE GOBIERNO.- ADOLFO ESCOBAR JARDlNEZ.- Firma Autógrafa.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
