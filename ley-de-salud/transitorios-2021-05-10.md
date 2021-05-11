@@ -1,0 +1,8 @@
+P.O. 10 DE MAYO DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 99.- SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE TLAXCALA".]
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+ARTÍCULO SEGUNDO. La Secretaría de Salud de Tlaxcala deberá implementar acciones tendientes al conocimiento e implementación de la Medicina Tradicional, dentro de sus atribuciones, a partir de la entrada en vigor del presente Decreto.
+ARTÍCULO TERCERO. La titular de la Secretaría de Planeación y Finanzas del Gobierno del Estado de Tlaxcala, realizará una estimación del impacto presupuestario a fin de que la Secretaría de Salud pueda implementar las acciones correspondientes al objetivo previsto en las fracciones VIII y IX del artículo 17 del presente Decreto.
+ARTÍCULO CUARTO. El titular de la Secretaría de Salud deberá llevar a cabo las acciones censales y de integración, actualización y administración de la información, objeto del presente Decreto, en un plazo no mayor de noventa días a partir de la entrada en vigor del presente Decreto.
+ARTÍCULO QUINTO. Para la realización de la actividad censal, la Secretaría de Salud podrá ejercer hasta un 2% del Presupuesto asignado por la cantidad $50,000,000.00 para atender la Insuficiencia Renal, otorgado en el Artículo Décimo Tercero Transitorio del Presupuesto de Egresos del Estado de Tlaxcala para el Ejercicio Fiscal 2019, considerados como recurso (sic) fiscales en la integración del gasto en el presupuesto al O.P.D. Salud de Tlaxcala.
+ARTÍCULO SEXTO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
