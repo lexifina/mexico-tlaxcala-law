@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 17 DE MAYO DE 2021)
+Artículo 50 Bis. En lo que se refiere a la sana alimentación de niñas, niños y adolescentes quedan prohibidas las siguientes acciones:
+l.(SIC) La distribución, venta, suministro o regalo de bebidas azucaradas y alimentos envasados de alto contenido calórico en instituciones educativas públicas y privadas de educación básica, y
+II. La colocación de distribuidores automáticos o máquinas expendedoras para la venta, distribución o exhibición de cualquiera de esos productos en instituciones educativas públicas y privadas de educación básica.
+Las bebidas y alimentos de alto contenido calórico señalados en las fracciones anteriores, serán aquellos que excedan los límites máximos de azúcares, grasas saturadas, grasas trans y sodio añadidos, conforme a la Modificación a la Norma Oficial Mexicana NOM-051-SCFI/SSA1-2010, especificaciones generales de etiquetado para alimentos y bebidas no alcohólicas preenvasados-Información comercial y sanitaria, publicada en el Diario Oficial de la Federación el 27 de marzo de 2020.
+La aplicación, vigilancia y cumplimiento de esta disposición estará a cargo de la Secretaría de Educación del Estado, de conformidad con el artículo 6 párrafo segundo de la Ley de Infraestructura de la Calidad, misma que deberá coordinarse con las autoridades e instancias correspondientes.
+Las madres, padres o tutores legales, se exentan de estas prohibiciones, quedando bajo su responsabilidad el consumo de estos productos por los menores de edad.
+Las infracciones a lo establecido en el presente artículo se sancionarán en términos de la presente Ley, y en lo no previsto, conforme a la Ley del Procedimiento Administrativo del Estado de Tlaxcala y sus Municipios.
