@@ -1,2 +1,2 @@
 (REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)
-Artículo 162-B. Los servicios prestados por la Secretaría de Salud, a través de su Organismo Desconcentrado Instituto Tlaxcalteca de Asistencia Especializada a la Salud, que de manera específica se señalan en este artículo causarán los derechos siguientes:
+Artículo 162 B. Los servicios prestados por la Secretaría de Salud, a través de su Organismo Desconcentrado Instituto Tlaxcalteca de Asistencia Especializada a la Salud, que de manera específica se señalan en este artículo causarán los derechos siguientes:

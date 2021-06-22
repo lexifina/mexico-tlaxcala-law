@@ -1,197 +1,177 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.
 (ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)
-Articulo 162-G. Los servicios prestados por el Instituto de Catastro del Estado, causarán los derechos siguientes:
+Artículo 162 G. Los servicios prestados por el Instituto de Catastro del Estado, causarán los derechos siguientes:
+(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE JUNIO DE 2021)
+CONCEPTODERECHOS
+CAUSADOS
 I. Por deslindes, rectificación o aclaración de medidas de predios urbanos:
-a) De 0.01 hasta 250.00Doce días de
-metros cuadrados.salario mínimo.
-b) De 250.01 a 500.00 metrosCatorce días de
-cuadrados.salario mínimo.
-c) De 500.01 a 1000.00 metrosDieciséis días de
-cuadrados.salario mínimo.
-d) De 1000.01 a 1500.00Veinte días de
-metros cuadrados.salario mínimo.
-e) De 1500.01 metros0.02 de un día de
-cuadrados en adelante, ademássalario mínimo por
-de lo preceptuado en el rangocada metro cuadrado
-inmediato anterior.o fracción que exceda
-del mismo.
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
+a) De 0.01 hasta 250.00 metros cuadrados.13 UMA
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
+b) De 250.01 a 500.00 metros cuadrados.15 UMA
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
+c) De 500.01 a 1000.00 metros cuadrados.17 UMA
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
+d) De 1000.01 a 1500.00 metros cuadrados.21 UMA
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
+e) De 1500.01 metros cuadrados en
+adelante, además de lo preceptuado en
+el rango inmediato anterior.0.02 UMA
+por cada metro
+cuadrado o
+fracción que exceda.
 II. Por deslindes, rectificación o aclaración de medidas de predios rústicos:
-a) De 0.01 hectáreas hastaDiez días de
-1.00 hectárea.salario mínimo.
-b) De 1.01 hectáreas hastaVeinte días de
-2.00 hectáreas.salario mínimo.
-c) De 2.01 hectáreas hastaTreinta días de
-3.00 hectáreas.salario mínimo.
-d) De 3.01 hectáreas enDiez días de salario
-adelante, además de lomínimo por cada
-preceptuado en el rangohectárea o fracción
-inmediato anterior.que excedan de la
-misma.
-III. Por levantamiento de construcción existente en los predios en general.
-a) De 0.01 a 250.00 metrosSeis días de
-cuadrados.salario mínimo.
-b) De 250.01 metros0.02 de un día
-cuadrados en adelante ademásde salario mínimo
-de lo preceptuadopor cada metro
-anteriormente.cuadrado o fracción
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
+a) De 0.01 hectáreas hasta 1.00 hectárea.10.5 UMA
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
+b) De 1.01 hectáreas hasta 2.00 hectáreas21 UMA
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
+c) De 2.01 hectáreas hasta 3.00 hectáreas.32 UMA
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
+d) De 3.01 hectáreas en adelante,
+además de lo preceptuado en el rango
+inmediato anterior.10.5 UMA por cada
+hectárea o fracción
 que exceda.
-IV. Por la aprobación o certificaciónDos días de salario
-de documentos que acrediten valoresmínimo por cada
-catastrales y comerciales o planos certificación.
-catastrales.
-V. Por la expedición de copiaDos días de
-heliográfica de planossalario mínimo.
-catastrales de población de
-90x60 centímetros.
-VI. Por la expedición de copiaDiez días de
-heliográfica de planossalario mínimo.
-catastrales de 90x50
-centímetros, de manzana,
-predios, construcciones,
-banquetas, nomenclatura o
-cotas fotogramétricas.
-VII. Por avalúos y dictámenesTres días de
-catastrales de predios urbanossalario mínimo.
-y rústicos.
-VIII. Por expedición de constanciasDos días de
-de registro o inscripcionessalario mínimo.
-de predios en el padrón
-catastral.
+III. Por levantamiento de construcción existente en los predios en general.
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
+a) De 0.01 a 250.00 metros cuadrados.6.5 UMA
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
+b) De 250.01 metros cuadrados en
+adelante además de lo preceptuado
+anteriormente.0.18 UMA por cada
+metro cuadrado o
+fracción que exceda.
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+IV. Por la aprobación o certificación
+de documentos que acrediten
+valores catastrales y comerciales o
+planos catastrales.2 UMA por cada
+certificación.
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+V. Por la expedición de copia heliográfica
+de planos catastrales de población
+de 90x60 centímetros.2 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+VI. Por la expedición de copia
+heliográfica de planos catastrales
+de 90x50 centímetros, de manzana,
+predios, construcciones, banquetas,
+nomenclatura o cotas fotogramétricas.10.5 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+VII. Por avalúos y dictámenes catastrales
+de predios urbanos y rústicos.3 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+VIII. Por expedición de constancias de
+registro o inscripciones de predios en el
+padrón catastral.2.12 UMA
 IX. Por avalúos comerciales deTres al millar del
 predios y/o construcciones envalor comercial.
 general que se practiquen a
 solicitud de los particulares
 o de cualquier institución.
-X. Por copia de contacto enSeis días de
-papel fotográfico blanco ysalario mínimo.
-negro en formato 23x23
-centímetros, escala 1:4,500.
-XI. Por cada diapositiva blanco yOcho días de
-negro en formato 23 x 23salario mínimo.
-centímetros escala 1:4,500.
-XII. Por copia fotostática de cadaUn día de
-fotografía de contacto ensalario mínimo.
-formato 23x23 centímetros,
-escala 1:4,500.
-XIII. Por vértices geodésicosSesenta y cinco
-de apoyo directo, incluyendodías de salario
-fotografía de contacto conmínimo.
-ubicación, listado de
-coordenadas Universal
-Transversal de Mercator y
-geográficas, así como un
-croquis.
-XIV. Por banco de nivelSesenta y cinco
-incluyendo fotografía de contactodías de salario
-con ubicación, listado demínimo.
-coordenadas Universal
-Transversal de Mercator y
-geográficas, así como un
-croquis.
-XV. Original Impreso de
-cartografía a escala 1:1,000 en
-formato 18x25 pulgadas, 0.4
-kilómetro cuadrado
-aproximado:
-a) Manzanas, banquetas,Veinte días de
-nomenclatura en coordenadassalario mínimo.
-Universal Transversal de
-Mercator.
-b) Manzanas, banquetas,Cuarenta y nueve
-nomenclatura, cotasdías de salario
-fotogramétricas, altimetría enmínimo.
-coordenadas Universal
-Transversal de Mercator.
-c) Manzanas, predios,Cuarenta y nueve
-construcciones, banquetas,días de salario
-nomenclatura, cotasmínimo.
-fotogramétricas en
-coordenadas Universal
-Transversal de Mercator.
-XVI. Formato digital de cartografía
-a escala 1:1,000 en formato
-18x25 pulgadas, 0.4 kilómetro
-cuadrado aproximado:
-a) Archivos DWG de manzanas,Sesenta y cinco
-predios, nomenclaturas.días de salario
-mínimo.
-b) Archivos DWG deCiento
-manzanas, predios,veintinueve
-construcciones, nomenclatura,días de
-cotas fotogramétricas,salario
-altimetría en coordenadasmínimo
-Universal Transversal de
-Mercator.
-XVII. Por la consulta del productoMedio día de
-del vuelo aerofotográfico, a lossalario mínimo.
-archivos catastrales y planos.
-XVIII. Por expedición del Padrón
-catastral a solicitud de los
-municipios.
-a) En archivo magnético.Tres días de
-salario mínimo.
-b) Impreso.0.05 de un día de
-salario mínimo
-por hoja impresa.
-XIX. Por la expedición de planosTres Días de
-sectorizados catastrales asalario mínimo
-solicitud de los particulares opor plano.
-municipios.
-XX. Por la expedición de unaSeis días de
-cédula catastral.salario mínimo.
-XXI. Por la expedición de unOcho días de
-certificado de valor catastral osalario mínimo.
-catastral provisional.
-XXII. Por copias de plano deTres días de
-región catastral, sin escala, consalario mínimo.
-nomenclatura de valores
-catastrales del suelo urbano,
-por plano.
-XXIII. Por copias del planoTres días de
-perimetral tamaño carta desalario mínimo.
-un predio registrado en la
-cartografía catastral urbana,
-escala 1:1,500, por plano.
-XXIV. Por la expedición de
-cartografía digital escala
-1:1,000 en formatos DXF,
-DWG, y ARC/INFO, por km2.
-a) Cobertura de manzanas.Veintidós días de
-salario mínimo.
-b) Cobertura de predios.Sesenta y cuatro
-días de salario
-mínimo.
-c) Cobertura deSesenta y cuatro
-construcciones.días de salario
-mínimo.
-d) Cobertura de curvasDiez días de
-de nivel a cada metro.salario mínimo.
-XXV. Por la consulta vía Internet
-de información catastral.
-a) Cobertura de manzanas.Veintidós días de
-salario mínimo.
-b) Cobertura de predios.Sesenta y cuatro días
-de salario mínimo.
-c) Cobertura deSesenta y cuatro días
-construcciones.de salario mínimo.
-d) Cobertura de curvasDiez días de salario
-de nivel a cada metro.mínimo.
-XXVI. Por la inspección ocularCuatro días de
-de predio urbano o rústico, consalario mínimo.
-fines de levantamiento
-cartográfico, por predio.
-XXVII. Por consultoría aplicadaDiez días de
-a Sistemas de Informaciónsalario mínimo.
-Geográfica (SIG), por hora.
-XXVIII. Por elaboración de propuestaDiez días de
-de zonificación y tabla de valoressalario mínimo.
-catastrales de terrenos y/o
-construcciones.
-XXIX. Por la inscripción en elDos días de
-catastro o registro desalario mínimo.
-modificaciones.
-XXX. Por la publicación de edictosDos días de
-en los estrados del Instituto.salario mínimo.
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+X. Por copia de contacto en papel
+fotográfico blanco y negro en formato
+23x23 centímetros, escala 1:4,500.6.5 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XI. Por cada diapositiva blanco y negro
+en formato 23 x 23 centímetros escala 1:4,500.8.5 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XII. Por copia fotostática de cada fotografía
+de contacto en formato 23x23 centímetros,
+escala 1:4,500.1 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XIII. Por vértices geodésicos de apoyo directo,
+incluyendo fotografía de contacto con ubicación,
+listado de coordenadas Universal Transversal
+de Mercator y geográficas, así como un croquis.69 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XIV. Por banco de nivel incluyendo fotografía
+de contacto con ubicación, listado de
+coordenadas Universal Transversal de
+Mercator y geográficas, así como un croquis.69 UMA
+(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE JUNIO DE 2021)
+XV. Original Impreso de cartografía a
+escala 1:1,000 en formato 18x25 pulgadas,
+0.4 kilómetro cuadrado aproximado:
+a) Manzanas, banquetas, nomenclatura en
+coordenadas Universal Transversal
+de Mercator.21 UMA
+b) Manzanas, banquetas,
+nomenclatura, cotas fotogramétricas,
+altimetría en coordenadas Universal
+Transversal de Mercator.51 UMA
+c) Manzanas, predios, construcciones,
+banquetas, nomenclatura, cotas fotogramétricas
+en coordenadas Universal Transversal
+de Mercator.51 UMA
+(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE JUNIO DE 2021)
+XVI. Formato digital de cartografía a
+escala 1:1,000 en formato 18x25 pulgadas,
+0.4 kilómetro cuadrado aproximado:
+a) Archivos DWG de manzanas, predios,
+nomenclaturas.67 UMA
+b) Archivos DWG de manzanas, predios,
+construcciones, nomenclatura, cotas
+fotogramétricas, altimetría en coordenadas
+Universal Transversal de Mercator.131 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XVII. Por la consulta del producto del
+vuelo aerofotográfico, a los archivos catastrales
+y planos.0.5 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XVIII. Por expedición del Padrón catastral
+a solicitud de los municipios, en archivo
+magnético.3 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XIX. Por la expedición de planos sectorizados
+catastrales a solicitud de los particulares o
+municipios.3 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XX. Por la expedición de una cédula catastral.6 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XXI. Por la expedición de un certificado de
+valor catastral o catastral provisional.8.5 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XXII. Por copias de plano de región catastral,
+sin escala, con nomenclatura de valores
+catastrales del suelo urbano, por plano.3 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XXIII. Por copias del plano perimetral tamaño
+carta de un predio registrado en la cartografía
+catastral urbana, escala 1:1,500, por plano.3 UMA
+(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE JUNIO DE 2021)
+XXIV. Por la expedición de cartografía
+digital escala 1:1,000 en formatos DXF,
+DWG, y ARC/INFO, por km²:
+a) Cobertura de manzanas.23 UMA
+b) Cobertura de predios.66 UMA
+c) Cobertura de construcciones.66 UMA
+d) Cobertura de curvas de nivel a cada metro.10.5 UMA
+(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE JUNIO DE 2021)
+XXV. Por la consulta vía Internet de
+información catastral:
+a) Cobertura de manzanas.23 UMA
+b) Cobertura de predios.66 UMA
+c) Cobertura de construcciones.66 UMA
+d) Cobertura de curvas de nivel a cada metro.10.5 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XXVI. Por la inspección ocular de
+predio urbano o rústico, con fines de
+levantamiento cartográfico, por predio.4 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XXVII. Por consultoría aplicada a Sistemas
+de Información Geográfica (SIG), por hora.10.5 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XXVIII. Por elaboración de propuesta de
+zonificación y tabla de valores catastrales
+de terrenos y/o construcciones.10.5 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XXIX. Por la inscripción en el catastro o
+registro de modificaciones.2 UMA
+(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+XXX. Por la publicación de edictos en los
+estrados del Instituto.2 UMA
 (REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2014)
 Subsección Undécima
 Derechos por los Servicios Prestados por la Secretaría de Gobierno en materia de Seguridad Publica.
