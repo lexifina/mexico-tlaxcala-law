@@ -1,5 +1,4 @@
 LEY LABORAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TLAXCALA Y SUS MUNICIPIOS
-[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 11 DE JUNIO DE 2021 NO APLICA AL ARTICULADO DEL DECRETO 313 PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2021.]
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el lunes 31 de diciembre de 2007.
 HECTOR ISRAEL ORTlZ ORTlZ, Gobernador del Estado a sus habitantes sabed:
 Que por conducto de la Secretaria Parlamentaria del Honorable Congreso del Estado, con esta fecha se me ha comunicado lo siguiente:

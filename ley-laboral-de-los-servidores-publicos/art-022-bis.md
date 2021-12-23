@@ -1,3 +1,3 @@
 (DEROGADO CUARTO PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2019)
-(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2019)
-ARTÍCULO 22 BIS. La Licencia de paternidad por Nacimiento, se otorgará previa solicitud de cinco días, al servidor público con motivo del nacimiento de una hija y/o hijo, la cual será por diez días hábiles con goce de sueldo, contados a partir del día del parto.
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)
+ARTÍCULO 22 BIS. Los hombres trabajadores a los que se refiere esta Ley, gozarán de una licencia de paternidad, la cual se otorgará previa presentación del certificado médico correspondiente, con motivo del nacimiento de su hijo y/o hija, el cual consistirá en un plazo de cuarenta y cinco días naturales con goce de sueldo, dicha licencia empezará a contar a partir del día del parto.
