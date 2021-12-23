@@ -15,13 +15,21 @@ II. Expedición de Constancia de
 Legalidad de Vehículos.4 UMA
 (ADICIONADA, P.O. 7 DE DICIEMBRE DE 2009)
 III. Los servicios prestados a través del Departamento de vialidad administrativa, causarán los derechos siguientes:
-(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 21 DE JUNIO DE 2021)
-a) Traslado de Vehículos efectuado por grúas de la Secretaría de Seguridad Ciudadana a los corralones autorizados por la Secretaría de Comunicaciones y Transportes:
-1. Maniobras de enganche y desenganche.8 UMA
-2. Por cada kilómetro recorrido o fracción
-del mismo.1 UMA
-(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 21 DE JUNIO DE 2021)
-b) Derecho de piso por tiempo que permanezca un vehículo en el corralón autorizado por la Secretaría de Comunicaciones y Transportes, de acuerdo a la clasificación siguiente:
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2021)
+a) Salvamento y arrastre efectuado por grúas de la Secretaria de Seguridad Ciudadana a los corralones autorizados por la Secretaría de Movilidad y Transporte:
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)
+1. Banderazo,3 UMA
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)
+2. Por cada kilómetro
+recorrido o fracción del
+mismo,0.25 UMA
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)
+3. Abanderamiento por hora,0.25 UMA
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)
+4. Maniobras de salvamento por hora,0.25 UMA
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2021)
+b) Derecho de piso por tiempo que permanezca un vehículo en el corralón autorizado por la Secretaría de Movilidad y Transporte, de acuerdo a la clasificación siguiente:
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
 1. Autobuses, microbús, minibús,
 tractocamiones, vehículos agrícolas,
 camiones (de dos ejes o más, de tanque,
@@ -29,21 +37,27 @@ volteo, de caja, de caseta, de celdillas,
 de plataforma, de refrigerador, vannette y
 otros similares), camionetas (cuyo peso
 vehicular sea de más de 3.5 toneladas).3 UMA por cada día.
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
 2. Plataformas, remolques,
 semi-remolques y otros similares (con
 capacidad de carga mayor a 3.5 toneladas).5 UMA por cada día.
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
 3. Automóviles, camionetas, remolques,
 semi-remolques y otros similares (con
 capacidad de carga de hasta 3.5 toneladas).1 UMA por cada día.
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
 4. Motocicletas, motonetas, bicimotos,
 trimotos y tetramotos.0.5 UMA por cada día.
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
 5. Bicicletas.0.25 UMA
+(REFORMADO, P.O. 21 DE JUNIO DE 2021)
 6. Los no previstos en los numerales
 anteriores; tomando en consideración,
 antecedentes, tipo, motivo de ingreso
 y situaciones especiales.De 1 a 3 UMA
 por cada día.
-Quedan exceptuados del pago de los derechos establecidos en esta fracción los propietarios de los vehículos que se encuentren en litigio, en los casos en que la autoridad competente determine la inocencia del mismo.
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)
+Quedan exceptuados del pago de los derechos establecidos en esta fracción los propietarios de los vehículos que se encuentren en litigio, que tengan acreditado el carácter de victima u ofendido o aquellos declarados inocentes por la autoridad competente mediante resolución firme.
 (ADICIONADA, P.O. 7 DE DICIEMBRE DE 2009)
 IV. Los servicios prestados a través del departamento de seguridad privada, causarán los derechos siguientes:
 a) Expedición de autorización de funcionamiento para prestar servicios de seguridad privada en el Estado, de acuerdo a las siguientes modalidades:

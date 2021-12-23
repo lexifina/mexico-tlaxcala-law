@@ -1,9 +1,16 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.
-(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)
-Artículo 66 A. El plazo para concluir las visitas domiciliarias o las revisiones de gabinete, se suspenderá en los casos de:
+(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2021)
+Artículo 66 A. El plazo para concluir las visitas domiciliarias o las revisiones de gabinete se suspenderá en los casos de:
+(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)
 I. Huelga, a partir de que se suspenda temporalmente el trabajo y hasta que ésta termine;
+(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)
 II. Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión;
+(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)
 III. Cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice;
+(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)
 IV. Cuando el contribuyente no atienda el requerimiento de datos, informes o documentos solicitados por las autoridades fiscales para verificar el cumplimiento de sus obligaciones fiscales, durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en el requerimiento y hasta el día en que conteste o atienda el requerimiento, sin que la suspensión pueda exceder de seis meses. En el caso de dos o más solicitudes de información, se sumarán los distintos periodos de suspensión y en ningún caso el periodo de suspensión podrá exceder de un año, y
+(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2008)
 V. Cuando la revisión de las actas de visita y demás documentación vinculada a éstas, se observe que el procedimiento no se ajustó a las normas aplicables que pudieran afectar la legalidad de la determinación del crédito fiscal, el plazo se suspenderá a partir de que la autoridad notifique al contribuyente que va a reponer el procedimiento, dicha suspensión no podrá exceder de un plazo de dos meses.
+(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2021)
+VI. Impedimento de la autoridad fiscal para continuar el ejercicio de sus facultades de comprobación por causas de fuerza mayor, hasta que dicho acontecimiento o circunstancia desaparezca, y así sea declarado por la autoridad competente y publicado en el Periódico Oficial del Gobierno del Estado.
+(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)
 Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, el contribuyente interpone algún medio de defensa, contra los actos que deriven del ejercicio de las facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interponga el medio de defensa, hasta que se dicte resolución definitiva del mismo.

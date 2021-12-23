@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)
+Artículo 504 E. Para efectos de lo establecido en el artículo 3-B de la Ley de Coordinación Fiscal, el Estado participará a los municipios, el 100% de la recaudación del impuesto sobre la renta que les corresponda, con base en el Anexo de Distribución de la Constancia de Participación, correspondiente al personal que preste o desempeñe un servicio personal subordinado en el municipio y se pagará dentro de los cinco días posteriores al en que el Estado los reciba.
