@@ -1,5 +1,6 @@
 [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
+[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE ABRIL DE 2022.]
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 MAXIMO ROJAS, Gobernador Constitucional del Estado Libre y Soberano de Tlaxcala, a sus habitantes sabed:
 Que el Congreso Constituyente del mismo, ha tenido a bien decretar lo siguiente:
