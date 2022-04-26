@@ -1,0 +1,5 @@
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE ABRIL DE 2022)
+CAPITULO IV
+DE LA JUSTICIA EN EL ESTADO
+(ADICIONADO, P.O. 25 DE ABRIL DE 2022)
+ARTICULO 85 Bis. El Poder Judicial del Estado, así como el Tribunal de Justicia Administrativa, regirán su actuar bajo el modelo de Justicia Abierta, con base en los principios de transparencia y rendición de cuentas, participación ciudadana y colaboración, colocando a la persona como eje en la impartición de justicia, en los términos de sus respectivas leyes orgánicas.
