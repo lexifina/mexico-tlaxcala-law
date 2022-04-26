@@ -1,0 +1,4 @@
+P.O. 25 DE ABRIL DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 99.- SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE TLAXCALA, A LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE TLAXCALA, Y A LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DE TLAXCALA".]
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+ARTÍCULO SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
