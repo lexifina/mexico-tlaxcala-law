@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 12 DE JULIO DE 2017)
-Artículo 229 Bis. Si entre el activo y la víctima existió una relación sentimental, afectiva, de confianza o de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, y se acredita cualquiera de los supuestos establecidos en el artículo anterior, se impondrán de cuarenta a setenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientos veinte días de salario.
+(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)
+Artículo 229 Bis. Si entre el activo y la víctima existió una relación sentimental, afectiva, de confianza o de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, y se acredita cualquiera de los supuestos establecidos en el artículo anterior, se impondrán de cuarenta a setenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientas veinte veces el valor de la Unidad de Medida y Actualización.
