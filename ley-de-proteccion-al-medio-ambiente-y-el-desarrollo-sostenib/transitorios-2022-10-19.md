@@ -1,0 +1,6 @@
+P.O. 19 DE OCTUBRE DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO No. 119.– SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE Y EL DESARROLLO SOSTENIBLE DEL ESTADO DE TLAXCALA".]
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+ARTÍCULO SEGUNDO. Se adiciona por un plazo de 120 días posteriores a la entrada en vigor del presente Decreto, para que el Congreso del Estado apruebe las reformas y adiciones a la Ley Municipal del Estado de Tlaxcala, en relación a la creación de la Unidad Municipal de Protección al Ambiente, el Consejo Municipal de Medio Ambiente y la Red Municipal de Medio Ambiente.
+Asimismo, dentro del periodo referido en el párrafo anterior del presente artículo, deberá realizar la reforma y adiciones a la Ley de Protección y Bienestar Animal para el Estado de Tlaxcala, la Ley de Aguas para el Estado de Tlaxcala, relacionadas con la Coordinación de Bienestar Animal y la Comisión Estatal del Agua y Saneamiento del Estado de Tlaxcala, respectivamente; así como la legislación estatal en materia de manejo de residuos sólidos y promover la armonización de las leyes estatales relacionadas.
+ARTÍCULO TERCERO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
