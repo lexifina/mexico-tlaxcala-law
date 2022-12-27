@@ -41,12 +41,11 @@ adelante además de lo preceptuado
 anteriormente.0.18 UMA por cada
 metro cuadrado o
 fracción que exceda.
-(REFORMADA, P.O. 21 DE JUNIO DE 2021)
-IV. Por la aprobación o certificación
-de documentos que acrediten
-valores catastrales y comerciales o
-planos catastrales.2 UMA por cada
-certificación.
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)
+IV. Por certificación de documentos y/o
+planos catastrales expedidos por el
+Instituto de Catastro o que obre en
+sus archivos, por foja. 2 UMA
 (REFORMADA, P.O. 21 DE JUNIO DE 2021)
 V. Por la expedición de copia heliográfica
 de planos catastrales de población
@@ -57,9 +56,9 @@ heliográfica de planos catastrales
 de 90x50 centímetros, de manzana,
 predios, construcciones, banquetas,
 nomenclatura o cotas fotogramétricas.10.5 UMA
-(REFORMADA, P.O. 21 DE JUNIO DE 2021)
-VII. Por avalúos y dictámenes catastrales
-de predios urbanos y rústicos.3 UMA
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)
+VII. Por avalúos catastrales de predios
+urbanos y rústicos. 3 UMA
 (REFORMADA, P.O. 21 DE JUNIO DE 2021)
 VIII. Por expedición de constancias de
 registro o inscripciones de predios en el
@@ -123,10 +122,10 @@ y planos.0.5 UMA
 XVIII. Por expedición del Padrón catastral
 a solicitud de los municipios, en archivo
 magnético.3 UMA
-(REFORMADA, P.O. 21 DE JUNIO DE 2021)
-XIX. Por la expedición de planos sectorizados
-catastrales a solicitud de los particulares o
-municipios.3 UMA
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)
+XIX. Por la expedición de propuesta
+de planos sectorizados catastrales a
+solicitud de los municipios. 3 UMA
 (REFORMADA, P.O. 21 DE JUNIO DE 2021)
 XX. Por la expedición de una cédula catastral.6 UMA
 (REFORMADA, P.O. 21 DE JUNIO DE 2021)
@@ -162,13 +161,11 @@ levantamiento cartográfico, por predio.4 UMA
 (REFORMADA, P.O. 21 DE JUNIO DE 2021)
 XXVII. Por consultoría aplicada a Sistemas
 de Información Geográfica (SIG), por hora.10.5 UMA
-(REFORMADA, P.O. 21 DE JUNIO DE 2021)
-XXVIII. Por elaboración de propuesta de
-zonificación y tabla de valores catastrales
-de terrenos y/o construcciones.10.5 UMA
-(REFORMADA, P.O. 21 DE JUNIO DE 2021)
-XXIX. Por la inscripción en el catastro o
-registro de modificaciones.2 UMA
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)
+XXVIII. Por la elaboración de propuesta
+de tablas de valores catastrales de
+terrenos y/o construcciones.5 a 10 UMA
+XXIX. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2022)
 (REFORMADA, P.O. 21 DE JUNIO DE 2021)
 XXX. Por la publicación de edictos en los
 estrados del Instituto.2 UMA

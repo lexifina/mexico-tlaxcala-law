@@ -1,3 +1,4 @@
 [N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE JUNIO DE 2021, PÁGINAS DE LA 20 A LA 22.]
+[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 26 DE DICIEMBRE DE 2022, PÁGINAS DE LA 2 A LA 3.]
 (ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)
 Artículo 155 A. Las cuotas a que se refiere el artículo anterior serán fijadas por la Secretaría de Finanzas del Estado, por conducto de la Dirección de Ingresos y Fiscalización entre los límites mínimo y máximo, tomando en cuenta las circunstancias y condiciones de cada negociación en lo particular tales como ubicación, calidad de las mercancías y servicios, tipo de instalaciones o la declaración anual del ejercicio inmediato anterior o las que comprendan el ejercicio. Para las negociaciones ubicadas dentro de la jurisdicción territorial de los municipios del Estado que hayan firmado Convenio de Colaboración en la materia, serán fijadas por las tesorerías municipales, observando las cuotas establecidas en el artículo anterior.
