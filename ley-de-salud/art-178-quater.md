@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)
+ARTICULO 178 QUÁTER.- Salud de Tlaxcala, de conformidad con las disposiciones generales aplicables, captará, producirá y procesará la información necesaria para el PVERF, de acuerdo a lo establecido en el artículo 178 BIS de esta Ley.
+Los responsables de los establecimientos que presten servicios de salud, incluyendo a los privados, los profesionales, técnicos y auxiliares de la salud en el Estado, deberán proporcionar en un plazo máximo de diez días hábiles la información correspondiente a Salud de Tlaxcala, para su oportuna integración al PVERF.
+Salud de Tlaxcala, de conformidad con las directrices que determine la Secretaría de Salud, establecerá centros de recepción e información de datos para su integración al PVERF, vigilando su buen uso.
+Los resultados del PVERF se publicarán anualmente, a fin de que permita a las instituciones de salud, profesionales de la medicina, y sociedad en general, evaluar los logros alcanzados en la prevención del cáncer femenino y, en su caso, proponer nuevas estrategias de prevención y atención.

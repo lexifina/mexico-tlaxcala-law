@@ -1,0 +1,9 @@
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE FEBRERO DE 2023)
+CAPITULO V
+PROGRAMA DE VIGILANCIA, EPIDEMIOLOGÍA Y RESULTADOS FINALES
+(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)
+ARTICULO 178 BIS.- El PVERF proporcionará la información sobre las estadísticas del cáncer en un esfuerzo por reducir la carga del cáncer entre la población femenina tlaxcalteca, el cual abarcará:
+I. Tasas de incidencia de cáncer ajustadas por retraso en la notificación, a fin de mantener el cálculo oportuno y preciso de las tasas de incidencia de cáncer sin que el mismo se vea obstaculizado por el retraso en la notificación, dado el tiempo transcurrido antes de que se notifique un caso diagnosticado sobre los riesgos de cáncer;
+II. Tasas de tendencias ajustadas por edad, el cual será un promedio ponderado de las tasas específicas por edad, donde las ponderaciones se representen en las proporciones de personas en los grupos de edad correspondientes de una población estándar;
+III. Razones primarias de incidencias estandarizadas, como un método utilizado para realizar múltiples análisis primarios y para probar hipótesis que exploran vínculos teóricos en la etiología de cánceres, a partir del seguimiento de una cohorte definida de personas diagnosticadas previamente con cáncer a lo largo del tiempo para comparar su experiencia posterior con el cáncer con la cantidad de cánceres que se esperarían según las tasas de incidencia para la población femenina en general, y
+IV. Mortalidad basada en la incidencia, la cual reflejará los datos de mortalidad por cáncer derivados de la información registrada en los certificados de defunción, los cuales se utilizan con frecuencia como un indicador del progreso contra el cáncer, la cual debe servir para obtener información relacionada con el inicio de la enfermedad, año del diagnóstico, la edad en el momento del diagnóstico, el estadio de la enfermedad en el momento del diagnóstico y la histología de las lesiones.
