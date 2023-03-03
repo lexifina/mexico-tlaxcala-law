@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 2 DE MARZO DE 2023)
+Artículo 282 Bis. Serán equiparables al delito de usurpación de identidad y se sancionará con prisión de dos a seis años y multa de cuatrocientas a seiscientas veces la Unidad de Medida y Actualización:
+I. A quien obtenga, trasfiera o utilice por cualquier medio informático, telemático, o electrónico, sin autorización de quien deba otorgarla, de contraseñas, datos identificativos, o cualquier otra información de la que no es titular, a fin de utilizarlos para obtener un beneficio o cometer una conducta ilícita.
+II. A quien asuma, se apropie o utilice, a través de internet, o cualquier sistema informático o medio de comunicación, elementos que constituyan la identidad o información de una persona física o moral para ostentarse como tal sin consentimiento de ésta, ya sea para la realización de alguna conducta ilícita en beneficio propio, de un tercero o para afectar la integridad o reputación de la persona suplantada.
