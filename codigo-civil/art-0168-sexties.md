@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 3 DE MAYO DE 2023)
+ARTICULO 168 SEXTIES.- En las cuestiones derivadas de violencia familiar, el Juez con perspectiva de género y atendiendo el principio del interés superior de la niñez, dictará las medidas cautelares y órdenes de protección, observando lo dispuesto en el (sic) Ley que Garantiza el Acceso a las Mujeres a una Vida Libre de Violencia en el Estado de Tlaxcala, la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tlaxcala y la Ley para la Prevención, Asistencia y Tratamiento de la Violencia Familiar en el Estado de Tlaxcala.

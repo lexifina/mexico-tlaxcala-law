@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 3 DE MAYO DE 2023)
+ARTICULO 168 SEPTIES.- Las órdenes de protección emitidas por el Juez, derivadas de los asuntos de violencia contra las mujeres, en observancia a (sic) Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, deberá comunicarlas a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, para su registro en el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres.

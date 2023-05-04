@@ -1,4 +1,4 @@
-(ADICIONADO, P.O. 6 DE ENERO DE 2006)
-ARTICULO 168 TER.- Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
-(REFORMADO, P.O. 25 DE AGOSTO DE 2020)
-Se entiende por violencia familiar cualquier acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica o sexual a cualquier miembro de la familia, en términos de este Código, independientemente de que habite o no en la misma casa.
+(REFORMADO, P.O. 3 DE MAYO DE 2023)
+ARTICULO 168 TER.- Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar, aun como métodos correctivos o de disciplina a niñas, niños o adolescentes, que impliquen cualquier tipo de trato y castigo humillante, atendiendo a la definición establecida en el artículo 47 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+Se debe entender por violencia familiar, y tipos de agresiones, a el acto, acciones u omisiones descritas en lo dispuesto por el artículo 3 de la Ley para la Prevención, Asistencia y Tratamiento de la Violencia Familiar en el Estado de Tlaxcala.
+La violencia vicaria, es el acto u omisión que genera afectación o daño físico, psicológico, emocional o patrimonial a un descendiente, ascendiente, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, dependiente económico, animal de compañía o bienes de la víctima, cometido por parte de quien mantenga o mantuvo una relación de matrimonio, concubinato o alguna relación sentimental con la misma, actuando por sí o por interpósita persona, cuyo objeto sea causar un daño emocional, psicológico o patrimonial a la mujer.
