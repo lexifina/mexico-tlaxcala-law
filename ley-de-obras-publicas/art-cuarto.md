@@ -5,3 +5,4 @@ C. FROYLAN MENDIETA CUAPIO.- DIP. PRESIDENTE.- C. FLORIA MARIA HERNANDEZ HERNAND
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los cinco días del mes de octubre del 2004.
 EL GOBERNADOR DEL ESTADO.- ALFONSO ABRAHAM SANCHEZ ANAYA.- EL SECRETARIO DE GOBIERNO.- JORGE FRAGA PURATA.- Rúbricas.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
