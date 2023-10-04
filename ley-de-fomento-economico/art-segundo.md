@@ -1,1 +1,0 @@
-ARTÍCULO SEGUNDO. Se abroga la Ley de Fomento Económico del Estado de Tlaxcala, publicada mediante decreto número 131 en el Periódico Oficial del Gobierno del Estado el día veintinueve de enero de año dos mil dos, Tomo LXXXI Segunda Época, No. Extraordinario.

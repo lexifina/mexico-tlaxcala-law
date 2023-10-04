@@ -6,3 +6,4 @@ AL EJECUTIVO PARA QUE LO SANCIONE Y MANDE PUBLICAR.
 Dado en la Sala de Sesiones del Palacio Juárez del Poder Legislativo del Estado Libre y Soberano de Tlaxcala, en la ciudad de Tlaxcala de Xicohténcatl, a los cuatro días del mes de marzo del año de mil novecientos ochenta y seis.- Profra Nelly M. Ramírez Mendoza.- DIPUTADA PRESIDENTA.- Profr. Apuleyo Solís Romero.- DIPUTADO SECRETARIO.- Leonel Rojas Moreno.- DIPUTADO SECRETARIO.
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los cuatro días del mes de marzo de mil novecientos ochenta y seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. TULIO HERNANDEZ GOMEZ.- EL SECRETARIO DE GOBIERNO.- LIC. CARLOS HERNANDEZ GARCIA. Rúbricas.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]

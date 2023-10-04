@@ -1,0 +1,17 @@
+P.O. 3 DE OCTUBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO No. 238.- SE EXPIDE LA LEY DE GOBERNANZA DIGITAL DEL ESTADO DE TLAXCALA".]
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+Sin perjuicio de lo anterior, la aplicación de la Ley de Gobernanza Digital del Estado de Tlaxcala se realizará progresivamente conforme a la declaratoria que emita la persona titular del Poder Ejecutivo al respecto. Esa declaratoria deberá contener un programa de trabajo en el que se considere el procedimiento de transición y migración de información y activo, para las dependencias y entidades y los municipios, que contenga:
+a) La calendarización para la migración de la información en posesión de otras dependencias y entidades y los Municipios;
+b) Los plazos propuestos para el funcionamiento del Sistema Estatal de Gobernanza Digital a través de sus plataformas, mismo que no deberá exceder de dos años a partir de la instalación de la Agencia, e (sic)
+c) El mecanismo de transición y traspaso de atribuciones operativas, funcionales y de recursos humanos de otras dependencias que pasen a formar parte de la Agencia Estatal de Gobernanza Digital.
+ARTÍCULO SEGUNDO. Se derogan todas y cada una de las disposiciones legales, reglamentarias y administrativas que se opongan al contenido de este Decreto.
+ARTÍCULO TERCERO. El Consejo Estatal de Gobernanza Digital deberá instalarse, a más tardar, sesenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+El Consejo Estatal de Mejora regulatoria deberá elegir a los cuatro presidentes municipales que formarán parte del Consejo, previo a la instalación del mismo Consejo.
+El Consejo, en su primera sesión, designará a los integrantes del Observatorio Ciudadano y de los Comités Técnicos Especializados; así como aprobará su normatividad interna.
+ARTÍCULO CUARTO. El Plan Estatal de Gobernanza Digital deberá ser sometido a consideración del Consejo Estatal de Gobernanza Digital en el tiempo que al efecto se establezca en la declaratoria señalada en el párrafo segundo del ARTÍCULO PRIMERO TRANSITORIO de este Decreto.
+ARTÍCULO QUINTO. El titular de la Agencia Estatal de Gobernanza Digital deberá ser designado por la persona titular del Poder Ejecutivo del Estado previamente a la instalación del Consejo.
+ARTÍCULO SEXTO. La Secretaría de Finanzas del Gobierno del Estado deberá efectuar las previsiones presupuestales necesarias para la operación del Sistema Estatal de Gobernanza Digital, en el anteproyecto de Presupuesto de Egresos del Estado, para el ejercicio fiscal del año dos mil veinticuatro.
+ARTÍCULO SÉPTIMO. La Secretaría de Finanzas y la Oficialía Mayor de Gobierno proveerán lo necesario para dotar de los recursos financieros, humanos y materiales a la Agencia Estatal de Gobernanza Digital, para el cumplimiento de sus atribuciones.
+ARTÍCULO OCTAVO. El personal de la administración pública del Estado que se incorpore a la Agencia Estatal de Gobernanza Digital conservará sus derechos laborales, así como su antigüedad, en términos de la legislación laboral y de seguridad social aplicable.
+ARTÍCULO NOVENO. A partir de la entrada en vigor del presente Decreto, todas las atribuciones y operaciones de los sistemas informáticos en materia de Gobernanza Digital objeto de regulación de la presente Ley, pasaran sin excepción ni prórroga, a cargo de la Agencia Estatal de Gobernanza Digital.
