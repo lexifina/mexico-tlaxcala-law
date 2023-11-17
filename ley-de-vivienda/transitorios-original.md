@@ -12,3 +12,4 @@ Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimie
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los diez días de mes de noviembre de 2010.
 EL GOBERNADOR DEL ESTADO.- HECTOR ISRAEL ORTIZ ORTIZ.- Firma Autógrafa.- EL SECRETARIO DE GOBIERNO.- JUAN MENDEZ VAZQUEZ.- Firma Autógrafa.
 Al calce un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. Despacho del C. Gobernador. Tlaxcala.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
