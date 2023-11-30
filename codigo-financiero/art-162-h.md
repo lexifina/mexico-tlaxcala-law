@@ -1,5 +1,5 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)
-Artículo 162 H. Los servicios prestados por la Secretaría de Gobierno en materia de Seguridad Pública causarán los derechos siguientes:
+(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2023)
+Artículo 162 H. Los servicios prestados por la Secretaría de Seguridad Ciudadana causarán los derechos siguientes:
 (ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE JUNIO DE 2021)
 CONCEPTODERECHOS CAUSADOS
 (REFORMADA, P.O. 21 DE JUNIO DE 2021)
@@ -134,24 +134,41 @@ por cada integrante.
 g) Por la expedición de cada Clave Única
 de Identificación Personal.0.75 UMA
 por cada integrante.
-(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2009)
-V. Los servicios prestados a través de la Policía Industrial y Bancaria de guarda custodia o vigilancia de industrias, comercios o establecimientos de cualquier naturaleza, causará los derechos siguientes:
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE NOVIEMBRE DE 2023)
+V. Los servicios prestados a través de la Policía Industrial y Bancaria de seguridad, protección y vigilancia intramuros para industrias, comercios o establecimientos de cualquier naturaleza que requieran de este servicio, causara los derechos siguientes:
 (REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE JUNIO DE 2021)
 a) Jornada Laboral. Importe mensual por elemento, en UMA.
-1. 48 horas, de lunes a sábado96
-2. 60 horas, de lunes a viernes108
-3. 72 horas, de lunes a sábado124
-4. 84 horas, de lunes a domingo139
+(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2023)
+1. 48 horas, (8 horas diarias de lunes a sábado) por elemento;96
+(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2023)
+2. 60 horas, (12 horas diarias de lunes a viernes) por elemento;108
+(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2023)
+3. 72 horas, (12 horas diarias de lunes a sábado) por elemento; y124
+(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2023)
+4. 84 horas, (24 horas diarias de lunes a domingo) por elemento.139
+(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2009)
 b) Supervisión y Sobrevigilancia
 por servicio.11
-c) Servicios extraordinarios.
-1. 8 horas7
-2. 12 horas10
-3. 24 horas13
-d) Las jornadas laborales contratadas que no se encuentren indicadas en el inciso a), se cobrarán de acuerdo a la jornada laboral inmediata inferior más el costo de las horas excedentes.
-(REFORMADO, P.O. 21 DE JUNIO DE 2021)
-Para determinar el costo de las horas excedentes se dividirá el importe mensual por elemento en UMA, entre el número de horas de la jornada laboral, el resultado se multiplicará por el número de horas excedentes.
-e) Los servicios extraordinarios contratados que no se encuentren indicadas en el inciso c), se cobrarán de acuerdo al servicio extraordinario inmediato superior.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE NOVIEMBRE DE 2023)
+c) Servicios extraordinarios adicionales.
+(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2023)
+1. 8 horas diarias por elemento.7
+(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2023)
+2. 12 horas diarias por elemento.10
+(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2023)
+3. 24 horas diarias por elemento.13
+(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2023)
+d) Las jornadas laborales contratadas que no se encuentren indicadas en el inciso a) Se cobrarán de acuerdo a la jornada laboral inmediata superior.
+(DEROGADO SEGUNDO PÁRRAFO DEL INCISO D), P.O. 29 DE NOVIEMBRE DE 2023)
+(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2023)
+e) Los servicios extraordinarios adicionales contratados que no se encuentren indicadas (sic) en el inciso c) se cobrarán de acuerdo al servicio extraordinario inmediato superior.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2023)
+f) La jornada laboral por elemento se cobra de forma mensual, independientemente de los días de cada mes (28, 30 y/o 31 dias)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2023)
+g) La jornada laboral por elemento se cobrará a partir de cuándo se proporcione el servicio de la Policía Industrial y Bancaria que contrate el contribuyente
+(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2023)
+h) El inciso b) Supervisión y Sobrevigilancia por servicio, se cobrará de forma mensual, no contando cuando se proporcione el servicio de la Policía Industrial y Bancaria que contrate el contribuyente de la jornada laboral por elemento en el mes.
+(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2009)
 El pago deberá realizarse en forma mensual dentro de los primeros quince días naturales de cada mes, pudiendo convenirse que el mismo se realice en otra fecha, en función de las justificaciones que presente el contribuyente de que se trate.
 (ADICIONADA, P.O. 7 DE DICIEMBRE DE 2009)
 VI. Los servicios prestados por el H. Cuerpo de Bomberos, por la capacitación o actualización que se proporcione a las brigadas de las industrias, comercios o establecimientos de cualquier naturaleza, causarán los derechos siguientes:

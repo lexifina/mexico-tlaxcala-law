@@ -1,12 +1,14 @@
-(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2011)
-Artículo 162 I. Los servicios que proporciona el Centro de Servicios Integrales para el Tratamiento de Aguas Residuales del Estado de Tlaxcala, causarán los respectivos derechos, mismos que deberán pagarse de la manera siguiente:
+(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2023)
+Artículo 162 I. Los servicios que proporciona la Comisión Estatal del Agua y Saneamiento del Estado de Tlaxcala causarán los respectivos Derechos, mismos que deberán pagarse de la manera siguiente:
 (ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE JUNIO DE 2021)
 CONCEPTODERECHOS CAUSADOS
+(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)
 I. Por el servicio de laboratorio de análisis de aguas:
 (REFORMADO, P.O. 21 DE JUNIO DE 2021)
 a) Servicio de análisis de agua residual25.5 UMA
 (REFORMADO, P.O. 21 DE JUNIO DE 2021)
 b) Servicio de análisis de agua potable19 UMA
+(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)
 II. Servicios de tratamiento de Agua Residual:
 a) Servicio de tratamiento de Agua Residual:
 (REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE JUNIO DE 2021)
@@ -58,12 +60,14 @@ residual por
 otros usos.
 (REFORMADO, P.O. 21 DE JUNIO DE 2021)
 3. Cuota fija mensual por tratamiento de agua residual de origen municipal, tendrá un costo de 1 UMA por 100 metros cúbicos generados, por ser de utilidad pública e interés social.
+(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)
 III. Expedición de copias certificadas
 (REFORMADO, P.O. 21 DE JUNIO DE 2021)
 a) Copias certificadas0.1 UMA
 (REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 21 DE JUNIO DE 2021)
 IV. Cuota por limpieza y desazolve de colectores:
-Cuando el Centro de Servicios Integrales para el Tratamiento de Aguas Residuales del Estado de Tlaxcala, en base a los estudios analizados compruebe la responsabilidad de los usuarios por taponamiento de los colectores, deberán realizar el pago por el concepto de desazolve y limpieza de estos siempre y cuando conduzcan el agua residual a cualquier sistema de tratamiento de acuerdo a la tabla siguiente:
+(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2023)
+Cuando la Comisión Estatal del Agua y Saneamiento del Estado de Tlaxcala, en base a los estudios analizados compruebe la responsabilidad de los usuarios por taponamiento de los colectores, deberán realizar el pago por el concepto de desazolve y limpieza de estos siempre y cuando conduzcan el agua residual a cualquier sistema de tratamiento de acuerdo a la tabla siguiente:
 (REFORMADA [N. DE E. ESTA TABLA], P.O. 21 DE JUNIO DE 2021)
 CONCEPTOUNIDADUMA
 Retiro de taponamiento en el colectorPieza19 UMA
@@ -76,7 +80,8 @@ centímetros o más.
 Por cada metro lineal adicionalMetro cúbico1 UMA
 de desazolve y limpieza a que
 se refiere el párrafo anterior.
+(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)
 V. Las sanciones impuestas por infracciones a la normatividad se cobrarán de acuerdo a lo previsto por la Ley de Aguas del Estado de Tlaxcala y al Reglamento que de ella emane.
-(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE DICIEMBRE DE 2013)
+(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2023)
 Subsección Decimotercera
-Derechos por los Servicios Prestados por la Secretaría de Fomento Agropecuario
+Derechos por los Servicios Prestados por la Secretaría de Impulso Agropecuario

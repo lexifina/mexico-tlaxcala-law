@@ -169,6 +169,6 @@ XXIX. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2022)
 (REFORMADA, P.O. 21 DE JUNIO DE 2021)
 XXX. Por la publicación de edictos en los
 estrados del Instituto.2 UMA
-(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2014)
+(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2023)
 Subsección Undécima
-Derechos por los Servicios Prestados por la Secretaría de Gobierno en materia de Seguridad Publica.
+Derechos por los Servicios Prestados por la Secretaría de Seguridad Ciudadana
