@@ -1,0 +1,3 @@
+(ADICIONADO P.O. 12 DE DICIEMBRE DE 2023)
+ARTÍCULO 39 NONIES. Las personas profesionales de la psicología, pedagogía, trabajo social y de cualquier otra materia que se requiera su intervención para la realización de las actividades indicadas en este Capítulo, podrán estar formalmente adscritas al plantel o institución educativa de que se trate u obtenerse la prestación de sus servicios mediante el apoyo que al respecto brinden las entidades de los gobiernos Estatal o Municipal que cuenten con ellas.
+En los casos en que se estime pertinente, podrán emplearse los servicios de personas prestadoras de servicio social o de prácticas profesionales de las instituciones educación superior del Estado.
