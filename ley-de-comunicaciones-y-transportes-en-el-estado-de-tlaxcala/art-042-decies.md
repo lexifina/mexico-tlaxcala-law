@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)
+ARTICULO 42 DECIES. La Secretaría de Movilidad y Transporte será competente y podrá otorgar concesiones a particulares, para el uso, aprovechamiento o explotación de las vialidades de jurisdicción estatal en las que se determine la operación del Sistema a que se refiere el presente Capítulo, o cualquier otro análogo, privilegiando el desarrollo de nuevas carreteras, de acuerdo con los términos establecidos en las disposiciones aplicables.

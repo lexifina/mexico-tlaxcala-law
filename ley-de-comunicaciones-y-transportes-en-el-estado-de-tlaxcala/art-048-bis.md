@@ -1,0 +1,5 @@
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2023)
+CAPITULO OCTAVO BIS
+DE LAS CONCESIONES DE CAMINOS Y CARRETERAS ESTATALES
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)
+ARTICULO 48 BIS. Se requiere de concesión para construir, operar, explotar, conservar y mantener los caminos y carreteras estatales.

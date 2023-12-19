@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)
+ARTICULO 48 TER. La concesión a que se refiere el artículo anterior, deberá priorizar la utilización de materiales reciclados, así como el uso de energías renovables, y en general, toda clase de medidas sustentables que contribuyan con la protección al medio ambiente, que cumplan con los estándares de durabilidad y seguridad vial, establecidos en las leyes en la materia y en las normas oficiales mexicanas.

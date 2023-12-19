@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)
+ARTICULO 48 DUODECIES. Para los supuestos de terminación anticipada de la concesión, cualquiera que fuese su modalidad, se analizarán las causas imputables al Estado o al concesionario, que motiven esa terminación anticipada. Una vez consideradas las imputaciones, el Estado y el concesionario determinarán las bases para la liquidación de la concesión. En caso de suscitarse controversia, se resolverá de acuerdo al artículo 9 de la presente Ley.
+La terminación de la concesión no extingue las obligaciones contraídas por el concesionario durante su vigencia.
