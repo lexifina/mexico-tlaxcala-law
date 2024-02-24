@@ -1,2 +1,6 @@
 (ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)
 Artículo 229 Ter. Además de las sanciones descritas en el artículo anterior, el sujeto activo será condenado a la pérdida de los derechos que le asistieran con relación a los bienes o patrimonio de la víctima, al momento de cometer el delito; así como los que hubiera tenido respecto a su persona, si no se consumare, quedando en tentativa.
+(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)
+Si la persona sujeto activo del delito tuviera el carácter de ascendiente, en la línea recta, de alguna hija o algún hijo menor de edad de la víctima, perderá o no podrá ejercer, respecto a esa niña, niño o adolescente la patria potestad, la guarda y custodia y el derecho a régimen de visitas y convivencia, en la medida en que ello se acorde al principio de interés superior de la niñez; así como los derechos a heredar por sucesión legítima y a alimentos que pudieran corresponderle.
+(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)
+En todo caso, se ordenará a las autoridades competentes que brinden la protección y otorguen la prestación de los servicios de ayuda inmediata, asistencia, atención y reparación integral del daño a las niñas, los niños y adolescentes que hubiesen quedado en situación de orfandad por feminicidio, o que hubieren presenciado la comisión de ese delito.
