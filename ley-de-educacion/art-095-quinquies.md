@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE MARZO DE 2024)
+Artículo 95 Quinquies. La Autoridad Educativa promoverá y facilitará la capacitación, actualización y certificación del personal docente de educación física, en colaboración con el Instituto del Deporte del Estado, con el objeto de que impartan alguna de las disciplinas deportivas ofrecidas a los estudiantes en las instituciones educativas públicas y privadas en la entidad.
