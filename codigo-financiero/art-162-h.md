@@ -160,8 +160,8 @@ c) Servicios extraordinarios adicionales.
 (REFORMADO, P.O. 29 DE NOVIEMBRE DE 2023)
 d) Las jornadas laborales contratadas que no se encuentren indicadas en el inciso a) Se cobrarán de acuerdo a la jornada laboral inmediata superior.
 (DEROGADO SEGUNDO PÁRRAFO DEL INCISO D), P.O. 29 DE NOVIEMBRE DE 2023)
-(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2023)
-e) Los servicios extraordinarios adicionales contratados que no se encuentren indicadas (sic) en el inciso c) se cobrarán de acuerdo al servicio extraordinario inmediato superior.
+(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2023) (F. DE E., P.O. 12 DE ABRIL DE 2024)
+e) Los servicios extraordinarios adicionales contratados que no se encuentren indicados en el inciso c) se cobrarán de acuerdo al servicio extraordinario inmediato superior.
 (REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2023)
 f) La jornada laboral por elemento se cobra de forma mensual, independientemente de los días de cada mes (28, 30 y/o 31 dias)
 (REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2023)
