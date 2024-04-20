@@ -1,7 +1,1 @@
-(REFORMADO, P.O. 16 DE OCTUBRE DE 2015)
-ARTICULO 84 BIS-K.- El control y supervisión del manejo de los recursos aportados para el Sistema, quedará a cargo de las autoridades siguientes en las etapas que se indican:
-I. Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria federal y hasta la entrega de los recursos correspondientes al Estado, corresponderá a la Contraloría del Ejecutivo del Estado;
-II. Recibidos los recursos federales por el Estado, hasta su erogación total, corresponderá a las autoridades de control y supervisión interna del Gobierno del Estado; la supervisión y vigilancia, no podrán implicar limitaciones, ni restricciones de cualquier índole, en la administración y ejercicio de dichos recursos, y
-III. La fiscalización de los recursos aportados para el Sistema, será efectuada por el Honorable Congreso del Estado, por conducto de su Órgano de Fiscalización.
-Cuando las autoridades estatales que en el ejercicio de sus atribuciones de control y supervisión, conozcan que los recursos señalados no han sido aplicados a los fines que señala esta ley, deberán hacerlo del conocimiento inmediato de la Contraloría del Ejecutivo del Estado.
-Las responsabilidades administrativas, civiles y penales que deriven de la desviación de los recursos señalados, serán sancionadas en los términos de la legislación aplicable, por las autoridades competentes.
+ARTICULO 84 BIS-K.- (DEROGADO, P.O. 19 DE ABRIL DE 2024)

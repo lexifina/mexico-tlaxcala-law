@@ -1,3 +1,1 @@
-(REFORMADO, P.O. 16 DE OCTUBRE DE 2015)
-ARTICULO 84 BIS-Z.- La Secretaría de Salud, en el ámbito de su competencia, estará sujeta a las normas aplicables en materia de acceso y transparencia a la información pública gubernamental.
-Para estos efectos, el Régimen, en coordinación con la Secretaría de Salud difundirá toda la información que tenga disponible respecto de universos, coberturas, servicios ofrecidos, así como del manejo financiero del Sistema, entre otros aspectos, con la finalidad de favorecer la rendición de cuentas a los ciudadanos, de manera que puedan valorar el desempeño del Sistema.
+ARTICULO 84 BIS-Z.- (DEROGADO, P.O. 19 DE ABRIL DE 2024)

@@ -1,2 +1,1 @@
-(REFORMADO, P.O. 16 DE OCTUBRE DE 2015)
-ARTICULO 84 BIS-Y.- El Ejecutivo del Estado, por conducto de la Secretaría de Salud, Salud de Tlaxcala y del Régimen podrá celebrar acuerdos de coordinación con las autoridades federales, estatales y municipales, para la ejecución del Sistema, de conformidad con el modelo nacional establecido, determinando los conceptos de gastos, el destino de los recursos, los indicadores de seguimiento a la operación y los términos de la evaluación integral del Sistema.
+ARTICULO 84 BIS-Y.- (DEROGADO, P.O. 19 DE ABRIL DE 2024)

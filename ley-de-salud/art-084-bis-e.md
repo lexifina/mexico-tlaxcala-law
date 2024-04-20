@@ -1,8 +1,1 @@
-(REFORMADO, P.O. 16 DE OCTUBRE DE 2015)
-ARTICULO 84 BIS-E.- El Sistema será financiado de manera solidaria por la Federación, el Estado y los beneficiarios.
-Para sustentar el Sistema, el Gobierno del Estado efectuará las aportaciones solidarias por familia beneficiaria, conforme a los términos del Acuerdo de Coordinación correspondiente celebrado con el Gobierno Federal.
-Los recursos de carácter federal que se transfieran al Estado para sustentar el Sistema, no serán embargables; ni el gobierno del Estado podrá, bajo ninguna circunstancia, gravarlos, afectarlos en garantía, ni destinarlos a fines distintos a los expresamente previstos.
-Dichos recursos se administrarán y ejercerán con base en los acuerdos de coordinación que se celebren para el efecto. El Gobierno del Estado deberá registrar estos recursos como ingresos propios, destinados específicamente a los fines establecidos.
-Los beneficiarios del Sistema participarán en el financiamiento del mismo, mediante las cuotas familiares determinadas con base en las condiciones socioeconómicas de cada familia, las cuales deberán cubrirse en forma anticipada, anual y progresiva, salvo cuando exista la incapacidad de la familia a cubrir la cuota, lo cual no le impedirá incorporarse y ser sujeto de los beneficios que se deriven del Sistema.
-El nivel de ingreso o carencia de éste no podrán ser limitantes para el acceso al Sistema; por lo que, las disposiciones reglamentarias establecerán los lineamientos para los casos en que por las características socioeconómicas de los beneficiarios, éstos no aportarán cuotas familiares.
-Bajo el principio de solidaridad social, las cuotas familiares no serán objeto de devolución bajo ninguna circunstancia, ni podrán aplicarse en años subsecuentes en el caso de suspensión temporal de los beneficios de la protección social en salud.
+ARTICULO 84 BIS-E.- (DEROGADO, P.O. 19 DE ABRIL DE 2024)
