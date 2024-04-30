@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Se abroga el Decreto número 125, expedido el 15 de junio del 2004, que contiene la Ley para Personas con Capacidades Diferentes en el Estado de Tlaxcala, publicada en el Periódico Oficial del Gobierno del Estado el 28 de junio del 2004, Tomo LXXXIII, Segunda Época, Número 2 Extraordinario.
