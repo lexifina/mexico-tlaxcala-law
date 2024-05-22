@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE MAYO DE 2024)
+ARTICULO 74 BIS.- Durante los primeros quince días del mes de enero de cada año, la persona titular de la Fiscalía General de Justicia del Estado, presentará al Congreso y al Poder Ejecutivo un informe de actividades de la Institución del Ministerio Público a su cargo, y deberá comparecer ante el Poder Legislativo cuando se le requiera para informar sobre su gestión.
