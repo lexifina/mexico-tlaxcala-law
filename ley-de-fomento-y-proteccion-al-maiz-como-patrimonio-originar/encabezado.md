@@ -1,4 +1,4 @@
-LEY DE FOMENTO Y PROTECCION AL MAIZ COMO PATRIMONIO ORIGINARIO, EN DIVERSIFICACION CONSTANTE Y ALlMENTARIO, PARA EL ESTADO DE TLAXCALA
+LEY DE FOMENTO Y PROTECCION AL MAIZ COMO PATRIMONIO ORIGINARIO, EN DIVERSIFICACION CONSTANTE Y ALIMENTARIO, PARA EL ESTADO DE TLAXCALA
 Ley publicada en Número 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el 18 de enero de 2011.
 Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
 MARIANO GONZALEZ ZARUR, Gobernador del Estado a sus habitantes sabed:
