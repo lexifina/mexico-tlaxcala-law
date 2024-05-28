@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE MAYO DE 2024)
+ARTÍCULO 46 BIS. Las personas titulares de los poderes públicos, los integrantes de los ayuntamientos, así como cualquier persona servidora pública con funciones de dirección o atribuciones de mando, deberán abstenerse de exigir la presentación de certificados médicos de no gravidez para proveer respecto al ingreso, permanencia o ascenso en el empleo, y de condicionar éstos a las circunstancias de que la mujer no esté embarazada o no se embarace en el futuro.
