@@ -1,0 +1,6 @@
+P.O. 5 DE NOVIEMBRE DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO No. 11.- SE REFORMAN LA FRACCIÓN XXVI DEL ARTÍCULO 54, LAS FRACCIONES IV Y V DEL ARTÍCULO 54 BIS, Y LA FRACCIÓN XIII BIS DEL ARTÍCULO 70; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 73, RECORRIÉNDOSE SUBSECUENTEMENTE EL PÁRRAFO SEGUNDO PARA PASAR A SER PÁRRAFO TERCERO DEL ARTÍCULO 73, Y SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 54 BIS, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+ARTÍCULO PRIMERO. En cumplimiento a lo previsto por el párrafo primero del artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos de los municipios que conforman esta Entidad Federativa, para los efectos conducentes.
+ARTÍCULO SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+ARTÍCULO TERCERO. La titular de la Fiscalía General de Justicia del Estado de Tlaxcala, a más tardar el día diez de enero de dos mil veinticinco, deberá designar o ratificar a las personas titulares de las fiscalías especializadas, de la Fiscalía General de Justicia del Estado de Tlaxcala.
+ARTÍCULO CUARTO. Se derogan todas aquellas disposiciones que se contrapongan al contenido de este Decreto.
