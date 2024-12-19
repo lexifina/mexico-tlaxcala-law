@@ -41,21 +41,21 @@ adelante además de lo preceptuado
 anteriormente.0.18 UMA por cada
 metro cuadrado o
 fracción que exceda.
-(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)
+(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)
 IV. Por certificación de documentos y/o
 planos catastrales expedidos por el
 Instituto de Catastro o que obre en
-sus archivos, por foja. 2 UMA
-(REFORMADA, P.O. 21 DE JUNIO DE 2021)
-V. Por la expedición de copia heliográfica
-de planos catastrales de población
-de 90x60 centímetros.2 UMA
-(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+sus archivos, por foja. 3 UMA
+(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)
+V. Por la expedición de planos
+catastrales de población de 90x60
+centímetros;2 UMA
+(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)
 VI. Por la expedición de copia
-heliográfica de planos catastrales
-de 90x50 centímetros, de manzana,
-predios, construcciones, banquetas,
-nomenclatura o cotas fotogramétricas.10.5 UMA
+de planos catastrales de 90x50
+centímetros de manzana, predios,
+construcciones, banquetas,
+nomenclatura o cotas fotogramétricas;10.5 UMA
 (REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)
 VII. Por avalúos catastrales de predios
 urbanos y rústicos. 3 UMA
@@ -114,23 +114,19 @@ b) Archivos DWG de manzanas, predios,
 construcciones, nomenclatura, cotas
 fotogramétricas, altimetría en coordenadas
 Universal Transversal de Mercator.131 UMA
-(REFORMADA, P.O. 21 DE JUNIO DE 2021)
+(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)
 XVII. Por la consulta del producto del
 vuelo aerofotográfico, a los archivos catastrales
-y planos.0.5 UMA
-(REFORMADA, P.O. 21 DE JUNIO DE 2021)
-XVIII. Por expedición del Padrón catastral
-a solicitud de los municipios, en archivo
-magnético.3 UMA
-(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)
-XIX. Por la expedición de propuesta
-de planos sectorizados catastrales a
-solicitud de los municipios. 3 UMA
+y planos.1 UMA
+(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)
+XVIII. Por la elaboración y la
+expedición de propuestas de tablas
+de valores catastrales de terrenos
+y/o construcciones;5 UMA
+XIX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2024)
 (REFORMADA, P.O. 21 DE JUNIO DE 2021)
 XX. Por la expedición de una cédula catastral.6 UMA
-(REFORMADA, P.O. 21 DE JUNIO DE 2021)
-XXI. Por la expedición de un certificado de
-valor catastral o catastral provisional.8.5 UMA
+XXI. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2024)
 (REFORMADA, P.O. 21 DE JUNIO DE 2021)
 XXII. Por copias de plano de región catastral,
 sin escala, con nomenclatura de valores
@@ -147,28 +143,22 @@ a) Cobertura de manzanas.23 UMA
 b) Cobertura de predios.66 UMA
 c) Cobertura de construcciones.66 UMA
 d) Cobertura de curvas de nivel a cada metro.10.5 UMA
-(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE JUNIO DE 2021)
-XXV. Por la consulta vía Internet de
-información catastral:
-a) Cobertura de manzanas.23 UMA
-b) Cobertura de predios.66 UMA
-c) Cobertura de construcciones.66 UMA
-d) Cobertura de curvas de nivel a cada metro.10.5 UMA
-(REFORMADA, P.O. 21 DE JUNIO DE 2021)
-XXVI. Por la inspección ocular de
+XXV. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2024)
+(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)
+XXVI. Por la inspección ocular del
 predio urbano o rústico, con fines de
-levantamiento cartográfico, por predio.4 UMA
-(REFORMADA, P.O. 21 DE JUNIO DE 2021)
-XXVII. Por consultoría aplicada a Sistemas
-de Información Geográfica (SIG), por hora.10.5 UMA
-(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)
-XXVIII. Por la elaboración de propuesta
-de tablas de valores catastrales de
-terrenos y/o construcciones.5 a 10 UMA
+levantamiento cartográfico y/o avalúo
+comercial por predio;6 UMA
+XXVII. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2024)
+XXVIII. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2024)
 XXIX. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2022)
-(REFORMADA, P.O. 21 DE JUNIO DE 2021)
-XXX. Por la publicación de edictos en los
-estrados del Instituto.2 UMA
+XXX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2024)
+(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2024)
+XXXI. Por la expedición de avalúos
+comerciales.3 al millar del
+costo que arroje el
+cálculo del valor
+comercial.
 (REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2023)
 Subsección Undécima
 Derechos por los Servicios Prestados por la Secretaría de Seguridad Ciudadana

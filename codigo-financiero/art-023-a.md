@@ -5,8 +5,12 @@ N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE T
 I. Constar por escrito en documento impreso o digital; Tratándose de actos administrativos que consten en documentos digitales y deban ser notificados personalmente, deberán transmitirse codificados a los destinatarios;
 II. Señalar la autoridad que lo emite;
 III. Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate;
-IV. Ostentar la firma del funcionario competente, y
-V. El nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
+(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)
+IV. Ostentar la firma del funcionario competente;
+(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE DICIEMBRE DE 2024)
+V. Señalar lugar y fecha de emisión, y
+(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE DICIEMBRE DE 2024)
+VI. El nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
 Capítulo II
 Créditos Fiscales

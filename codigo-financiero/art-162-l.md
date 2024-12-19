@@ -25,5 +25,6 @@ documento.
 V. Credencial vigencia un año; y1 UMA
 VI. Búsqueda e identificación de referencias
 documentales.15 UMA
-Sección Segunda
-Derechos por los Servicios Prestados por el Poder Judicial
+(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)
+Subsección Décimosexta
+Derechos por los servicios prestados por la Secretaría de Educación Pública del Estado
