@@ -14,3 +14,5 @@ a) No se aporten u ofrezcan pruebas.
 b) Sea notoriamente frívola o improcedente.
 Cuando la comisión de quejas y denuncias del instituto tlaxcalteca de elecciones admita la denuncia, emplazará a las partes, para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará a la persona denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
 En lo procedente, el desarrollo de la audiencia de pruebas y alegatos, se desarrollarán conforme lo dispuesto en el artículo 388 de esta Ley.
+(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2024)
+Será competente para resolver sobre el procedimiento especial sancionador, referido en este artículo anterior, el Tribunal Electoral.
