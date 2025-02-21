@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO. En un plazo que no exceda los 365 días naturales siguientes a la entrada en vigor de la presente Ley, el Gobierno del Estado y los Municipios implementarán respectivamente, el Servicio Profesional de Carrera Policial en sus Instituciones de Seguridad Ciudadana.

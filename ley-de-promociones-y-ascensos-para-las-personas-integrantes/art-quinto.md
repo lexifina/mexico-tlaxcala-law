@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO. El Gobierno del Estado y los municipios, en el ámbito de sus respectivas competencias, deberán contemplar en sus Presupuestos de Egresos una partida para garantizar el cumplimiento del sistema complementario de seguridad social contenido en el Capítulo VIII de la presente Ley.

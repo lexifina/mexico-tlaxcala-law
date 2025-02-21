@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. El Gobierno del Estado y los municipios, en el ámbito de sus respectivas competencias, deberán contemplar en sus Presupuestos de Egresos una partida que permita realizar los concursos de Promoción y ascenso previstos en la presente Ley.
