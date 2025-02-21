@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. El Gobierno del Estado y los ayuntamientos, sin perjuicio de su autonomía, deberán contemplar en sus Presupuestos de Egresos, una partida destinada al otorgamiento de Condecoraciones, así como la entrega semestral de Estímulos y Recompensas a sus Integrantes del Servicio.

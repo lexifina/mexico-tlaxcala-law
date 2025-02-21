@@ -1,0 +1,2 @@
+ARTÍCULO SEGUNDO. A partir de la entrada en vigor de la presente Ley, se establece un plazo de 180 días naturales para que la persona titular del Poder Ejecutivo del Estado y los ayuntamientos de los municipios ajusten los reglamentos y demás disposiciones administrativas necesarias para la correcta aplicación de esta Ley.
+En tanto se adecuen las disposiciones señaladas en el párrafo anterior, continuarán aplicándose los reglamentos y demás normatividad vigente, en todo aquello que no contravenga la presente Ley.
