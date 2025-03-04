@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Dentro de un término de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley, la persona titular del Poder Ejecutivo del Estado y los ayuntamientos deberán realizar las adecuaciones a los reglamentos y demás disposiciones administrativas, además deberán proveer lo necesario para el debido cumplimiento de la presente Ley.
