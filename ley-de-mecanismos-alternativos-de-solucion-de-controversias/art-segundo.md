@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Se abroga la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Tlaxcala, publicada por Decreto número 198, en el Periódico Oficial del Gobierno del Estado de Tlaxcala No. 6, Segunda Sección de fecha diez de febrero del dos mil dieciséis.
