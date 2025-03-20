@@ -8,6 +8,8 @@ IV. Procreación asistida e inseminación artificial, previsto en los artículos
 V. Omisión de auxilio a lesionados, previsto en el artículo 305;
 VI. Contra la seguridad en los medios informáticos, previsto en los artículos 316 ó 317;
 VII. Robo, previsto en los artículos 323 fracción I, 325, 326 ó 327;
+(ADICIONADA, P.O. 19 DE MARZO DE 2025)
+VII Bis. Robo de maguey y productos agrícolas previsto en el artículo 334 Bis;
 VIII. Abuso de confianza, previsto en el artículo 335 fracción I;
 IX. Fraude, previsto en el artículo 338 fracción I y VI ó 339, siempre y cuando el monto de lo defraudado sea el previsto en el artículo 338 fracción I;
 X. Insolvencia fraudulenta en perjuicio de acreedores, previsto en el artículo 343;

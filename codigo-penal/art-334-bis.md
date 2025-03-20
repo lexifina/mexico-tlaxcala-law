@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 19 DE MARZO DE 2025)
+Artículo 334 Bis. Comete el delito de robo de maguey el que, sin consentimiento del propietario, poseedor o de quien legalmente pueda otorgarlo, proceda a desprenderlo del suelo y se apodere del mismo; o extraiga, utilice o comercialice del maguey o de cualquiera de sus especies, la materia prima, sus derivados o su fauna; se le impondrán las sanciones establecidas en el artículo 323 de este Código.
+Cuando el robo se cometa por la noche, en lugar cerrado destinado a la casa habitación o almacenaje, las sanciones señaladas en el artículo 323 de este Código se aumentarán en dos terceras partes.
+También se impondrán las sanciones previstas en el artículo 323 de este Código a quien se apodere de productos agrícolas desprendidos del suelo dejados por su propietario o posesionario en campo raso o lugares abiertos.
