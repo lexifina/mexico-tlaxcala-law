@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE ABRIL DE 2025)
+Artículo 283 Ter 1. A quien utilice medios ilícitos o efectúe actos de hostigamiento para lograr el cobro de una deuda civil o mercantil propia, de un tercero o de quien funja como endosatario, se le impondrá de uno a cuatro años de prisión y multa de dos mil a tres mil veces el valor de la Unidad de Medida y Actualización; con independencia de las sanciones que correspondan si para tal efecto se emplearon documentación, sellos falsos o se usurparon funciones públicas o de profesión.
