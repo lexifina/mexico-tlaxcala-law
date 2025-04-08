@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE ABRIL DE 2025)
+Artículo 360 Bis. A la autoridad, propietario, titular, responsable o encargado de una unidad económica que autorice o permita el baile de hombres y/o mujeres desnudos y/o semidesnudos con mensaje explícito de carácter erótico y/o sexual para el público asistente, se le impondrá de seis a doce años de prisión y multa de cinco mil a siete mil veces el valor de la Unidad de Medida y Actualización, con independencia de la clausura definitiva del establecimiento.
