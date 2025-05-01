@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE ABRIL DE 2025)
+Artículo 171 Bis. Comete el delito de usurpación de funciones notariales, quien sin contar con la patente o registro como notario y sin ostentarse como notario o induzca a la creencia de serlo, brinde o simule realizar servicios notariales, ya sea de manera presencial o por medios remotos, se le impondrán de cinco a ocho años de prisión y multa de ocho mil a dieciséis mil unidades de medida y actualización.
+La penalidad aumentará en una mitad cuando el sujeto activo se ostente como notaria o notario público sin serlo; o siendo notario se encuentre suspendido del ejercicio de dicha función, o habiendo sido, tenga por cancelada la patente de notario.
