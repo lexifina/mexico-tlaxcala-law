@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 68 Octies. Con excepción de los casos a que se refiere el Artículo 68 de esta Ley, el Pleno del Órgano de Administración Judicial podrá establecer mediante acuerdos, cuáles de las atribuciones previstas en el propio artículo podrán ejercitarse por las Comisiones creadas por el Pleno. Las Comisiones tendrán facultades decisorias o consultivas según determine el reglamento expedido por el Pleno del propio Órgano de Administración Judicial.

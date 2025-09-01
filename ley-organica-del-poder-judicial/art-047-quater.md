@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 47 Quater. Las ausencias accidentales de las Diligenciarias y los Diligenciarios o asistentes de notificación, y las temporales que no excedan de un mes, serán cubiertas por otra Diligenciaria o Diligenciario o asistente de notificación del mismo juzgado o en su defecto, por una o un oficial de partes o asistente de atención al público que designe la o el Juez respectivo.

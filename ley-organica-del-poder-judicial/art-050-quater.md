@@ -1,0 +1,10 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(REFORMADO, P.O. 21 DE AGOSTO DE 2013)
+Artículo 50 Quáter. Corresponde a los Jueces de Garantías de Adolescentes, en los términos de la Ley de la materia:
+I. Aprobar los acuerdos reparatorios del daño o perjuicio;
+II. Resolver sobre la suspensión del proceso a prueba;
+III. Resolver sobre el otorgamiento de medidas cautelares;
+IV. Recabar la declaración preparatoria del adolescente a quien se le impute la comisión de un delito;
+V. Resolver sobre la vinculación a proceso del adolescente a quien se le impute la comisión de un delito;
+VI. Resolver sobre la admisión de las pruebas que se desahogarán en la audiencia del juicio, y
+VII. Ejercer las demás atribuciones que esta Ley o las demás leyes le otorguen.

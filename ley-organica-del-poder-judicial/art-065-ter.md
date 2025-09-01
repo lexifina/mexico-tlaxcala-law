@@ -1,0 +1,5 @@
+(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)
+Artículo 65 Ter. Las resoluciones del Pleno del Órgano de Administración Judicial se tomarán por el voto de la mayoría de las y los integrantes presentes, y por mayoría calificada de cuatro votos en los casos que así se requiera por el artículo 68 de esta Ley.
+Las y los integrantes no podrán abstenerse de votar sino cuando tengan impedimento legal o cuando no hayan asistido a la sesión en que se ha discutido el asunto de que se trate. En caso de empate, la o el Presidente tendrá voto de calidad.
+El Pleno del Órgano de Administración Judicial calificará los impedimentos de sus miembros que hubieran sido planteados en asuntos de su competencia, y si la persona impedida fuera la o el Presidente, será sustituido por la Magistrada o Magistrado Presidente del Tribunal de Disciplina Judicial.
+La o el integrante que disintiere de la mayoría podrá formular voto particular, el cual se insertará en el acta respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo.

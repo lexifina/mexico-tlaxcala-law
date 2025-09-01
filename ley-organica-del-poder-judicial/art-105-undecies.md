@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 105 Undecies. Al vencimiento del plazo referido en el precepto anterior, el Órgano de Evaluación fijará un plazo para la acreditación de la evaluación extraordinaria, dentro de los parámetros que defina el Pleno del Tribunal de Disciplina Judicial mediante acuerdo general.
+En el caso de que la persona servidora pública no acredite favorablemente la evaluación extraordinaria dentro del plazo establecido por el Órgano de Evaluación o se niegue a realizarla, el Órgano dará vista al Pleno del Tribunal de Disciplina Judicial para los efectos legales a que haya lugar.

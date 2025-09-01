@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 73 Bis. La Secretaria o Secretario Ejecutivo del Pleno, a través de la Junta de Coordinación, auxiliará al Tribunal de Disciplina Judicial en la sustanciación de procedimientos disciplinarios y de responsabilidad que se lleven a cabo contra servidores públicos adscritos a los órganos auxiliares a cargo del Órgano de Administración Judicial, conforme a lo que dispongan la presente Ley y los respectivos acuerdos que para tal efecto se expidan.

@@ -1,0 +1,3 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)
+Artículo 40 Bis. El magistrado que deba conocer de los asuntos en materia de justicia para adolescentes será designado, de manera anual, entre los integrantes de la Sala Penal y Especializada en Justicia para Adolescentes, para que se especialice en la materia y conozca de los asuntos previstos por la Ley de Justicia para Adolescentes, independientemente de sus facultades y funciones como miembro del Pleno y de la Sala Penal.

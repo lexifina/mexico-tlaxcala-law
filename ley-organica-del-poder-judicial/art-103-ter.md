@@ -1,0 +1,21 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 103 Ter. El Pleno será competente para lo siguiente:
+l. Substanciar y resolver el recurso de revisión y los demás recursos que procedan respecto de los procedimientos de responsabilidad administrativa que son competencia de las Comisiones, la evaluación del desempeño de la función judicial y los conflictos laborales;
+II. Instruir al Órgano de Investigación el inicio de las investigaciones necesarias para determinar si se ha incurrido en responsabilidades administrativas;
+III. Dar vista al Ministerio Público de la posible comisión de delitos;
+IV. Solicitar al Congreso del Estado el inicio del juicio político en contra de las personas juzgadoras electas por voto popular;
+V. Elaborar los proyectos de reglamentos y acuerdos generales que requiera para su administración y organización interna y presentarlos por conducto de la persona titular de la Presidencia, al Órgano de Administración Judicial para su aprobación y emisión;
+VI. Solicitar al Órgano de Administración Judicial la expedición de acuerdos o la ejecución de resoluciones necesarias para asegurar el adecuado ejercicio de la función jurisdiccional estatal;
+VII. Reglamentar, mediante la emisión de acuerdos generales, los parámetros y las especificaciones relativas a los métodos, criterios e indicadores para la realización de las evaluaciones de desempeño y seguimiento;
+VIII. Reglamentar, mediante la emisión de acuerdos generales, el procedimiento para la imposición e impugnación de las medidas correctivas y sancionadoras en materia de desempeño;
+IX. Implementar mecanismos de prevención de faltas administrativas y hechos de corrupción, así como de coordinación que determine el Comité Coordinador del Sistema Nacional Anticorrupción e informar a ese órgano de sus avances y resultados, en términos de la Ley General del Sistema Nacional Anticorrupción;
+X. Establecer, mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de las y los visitadores para efectos de lo que dispone en esta Ley en materia de responsabilidad;
+XI. Llevar un Registro de Servidores Públicos y de Particulares Sancionados, conforme a lo que se establezca mediante acuerdos generales;
+XII. Integrar un informe de resultados del Tribunal de Disciplina Judicial dirigido al público en general, al finalizar el segundo periodo de sesiones de cada año del Tribunal Superior de Justicia;
+XIII. Dictar, a través de sus Comisiones, las medidas de suspensión temporal de las personas juzgadoras que resulten pertinentes para facilitar las investigaciones y los procedimientos disciplinarios.
+La suspensión de las y los Magistrados y las y los Jueces que aparecieren involucrados en la posible comisión de un delito procederá siempre que lo estime necesario el Pleno del Tribunal de Disciplina Judicial en el ejercicio de sus facultades de disciplina y vigilancia, o cuando alguna autoridad ministerial o fiscalía den noticia de ello, así como a solicitud de la autoridad judicial que conozca del procedimiento penal que se siga en su contra, debiendo informar al Congreso del Estado de Tlaxcala;
+Cuando la suspensión haya sido decretada por el Tribunal de Disciplina Judicial sin mediar una solicitud de otra autoridad, deberá instruirse la formulación de denuncia o querella en los casos en que proceda;
+XIV. Resolver los recursos de revisión en los procedimientos de responsabilidad administrativa del personal jurisdiccional; de los integrantes del Órgano de Administración Judicial, así como del personal administrativo del Poder Judicial del Estado tratándose de faltas graves.
+La omisión en la presentación de la información requerida por las leyes de la materia o por el Pleno del Tribunal de Disciplina Judicial, así como la entrega de información errónea, serán consideradas faltas graves y serán sancionadas por el Pleno de conformidad con las disposiciones jurídicas aplicables;
+XV. Resolver de forma definitiva e inatacable respecto de la competencia sobre los procedimientos de responsabilidad administrativa que le remita el Órgano de Administración Judicial, y
+XVI. Las demás que determinen las disposiciones jurídicas aplicables.

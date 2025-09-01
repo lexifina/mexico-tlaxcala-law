@@ -1,0 +1,1 @@
+Artículo 45 Ter. Para ser Director Jurídico del Poder Judicial, se requerirá cumplir con los mismos requisitos que exige la Constitución del Estado para los jueces y será nombrado por el Órgano de Administración Judicial.

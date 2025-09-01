@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 106 Bis. La persona titular del Órgano será designada por el Pleno del Tribunal de Disciplina Judicial, a propuesta de su presidencia, y deberá contar con título profesional afín a sus funciones y experiencia mínima de tres años preferentemente en la materia de responsabilidades administrativas.
+El Pleno del Tribunal de Disciplina Judicial, mediante acuerdos generales, designará la estructura orgánica a través de la cual la persona titular del Órgano de Investigación se apoyará para ejercer sus funciones. En dichos acuerdos se debe prever la existencia de agentes investigadores, quienes serán funcionarios que cuenten con las facultades para realizar las investigaciones y demás actuaciones que resulten necesarias.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 105 Duodecies. En caso de que se actualice el supuesto previsto en el último párrafo del precepto anterior, el Tribunal de Disciplina Judicial podrá ordenar la suspensión de la magistrada, magistrado, jueza o juez de hasta un año, y determinará las acciones y condiciones para su restitución.
+Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal de Disciplina Judicial resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial del Estado.

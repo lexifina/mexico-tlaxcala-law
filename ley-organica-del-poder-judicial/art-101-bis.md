@@ -1,0 +1,3 @@
+(REFORMADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 101 Bis. El Pleno del Tribunal de Disciplina Judicial determinará mediante acuerdos el número y los periodos de sesiones tanto del propio Pleno, como de sus Comisiones, así como la periodicidad con la que se celebrarán y las condiciones en las que se desarrollarán.
+El Pleno y las Comisiones del Tribunal de Disciplina Judicial podrán sesionar de manera extraordinaria a solicitud de cualquiera de sus integrantes. Dicha solicitud deberá presentarse a la Presidencia del propio Tribunal de Disciplina Judicial a fin de que emita la convocatoria correspondiente.

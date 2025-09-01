@@ -1,0 +1,1 @@
+Artículo 65 Bis. (DEROGADO, P.O. 26 DE AGOSTO DE 2025)

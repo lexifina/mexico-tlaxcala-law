@@ -1,0 +1,5 @@
+(REFORMADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 64 Bis. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
+Las licencias de las personas integrantes del Órgano de Administración Judicial serán otorgadas conforme lo dispone esta Ley.
+Cuando la licencia se otorgue por un plazo de hasta quince días naturales, no será necesario designar a un integrante interino, pero cuando recaiga en la persona titular de la Presidencia, el Pleno del Órgano de Administración Judicial deberá designar de entre sus integrantes a quien fungirá como Presidente interino.
+Cuando la licencia fuere por un periodo superior a quince días naturales, será suplido interinamente por la persona que determine la autoridad que lo designó. En caso de que el integrante del Pleno a quien se le otorgue la licencia fuera la persona titular de la Presidencia, quien sea designado desempeñará ese cargo.

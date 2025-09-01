@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 68 Quinquies. El Órgano de Administración Judicial podrá crear, mediante acuerdo, órganos jurisdiccionales especializados en el Sistema Integral de Justicia Penal para Adolescentes, o bien, habilitar órganos jurisdiccionales especializados en el sistema penal acusatorio para que ejerzan dicha función, siempre que cuenten con la formación, capacitación y especialización necesarias para tal efecto.

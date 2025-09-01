@@ -1,0 +1,2 @@
+(REFORMADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 8 Ter. Los procedimientos relacionados con mecanismos alternativos de solución de controversias estarán a cargo del Centro Estatal de Mecanismos Alternativos de Solución de Controversias, a través de los especialistas, mediadores y conciliadores adscritos a dicho centro, conforme a lo dispuesto en la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Tlaxcala, y en la Ley de Mecanismos Alternativos de Solución de Controversias en materia penal aplicable.

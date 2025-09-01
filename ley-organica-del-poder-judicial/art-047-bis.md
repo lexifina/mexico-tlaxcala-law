@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 47 Bis. Cuando una Jueza o un Juez falten por un término menor a quince días al despacho del juzgado, la secretaria o el secretario de acuerdos respectiva practicará las diligencias y dictará las providencias de mero trámite y resoluciones de carácter urgente, dando aviso de ello al Órgano de Administración Judicial y remitiendo copia de la resolución dictada.
+Cuando las ausencias temporales de una Jueza o un Juez fueren superiores a quince días, pero menores a un mes, el Órgano de Administración Judicial podrá autorizarlas y designará a quien deba suplirlo de entre la lista de personas servidoras públicas habilitadas para desempeñar funciones jurisdiccionales a que se refiere la fracción XLI del artículo 68, de esta Ley.

@@ -1,0 +1,11 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 43 Bis. Para ser Secretaria o Secretario de Acuerdos de las Salas, se requerirá cumplir los requisitos siguientes:
+I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+II. Contar con título de licenciatura en derecho expedido legalmente.
+III. Contar con cédula profesional legalmente expedida;
+IV. Contar con experiencia profesional de al menos tres años;
+V. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
+V. Haber residido en el Estado de Tlaxcala durante el año anterior al día de la designación;
+VI. Los demás que al efecto determine el Órgano de Administración Judicial.
+Las ausencias de la o el secretario que no excedan de un mes serán suplidas por otro de las y los secretarios, si hubiere dos o más o por una secretaria o secretario interino y en su defecto, por la o el diligenciario o asistente de notificación que designe la o el magistrado respectivo.
+La o el secretario durará en su encargo tres años con posibilidad de ser reelecto por un periodo adicional.

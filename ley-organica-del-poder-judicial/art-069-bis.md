@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 69 Bis. El Órgano de Administración Judicial establecerá las Comisiones permanentes o transitorias que estime pertinentes para el adecuado desempeño de sus funciones, cuyo número y atribuciones se determinará mediante acuerdos generales del Pleno. Las Comisiones deberán estar conformadas cuando menos por tres integrantes.

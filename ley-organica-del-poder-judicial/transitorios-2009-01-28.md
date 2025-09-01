@@ -1,0 +1,3 @@
+P.O. 28 DE ENERO DE 2009.
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+ARTÍCULO SEGUNDO. Una vez que entre en vigor este Decreto, el Magistrado Presidente del Tribunal Superior de Justicia del Estado, dentro de los ocho días naturales siguientes; procederá a convocar a sesión ordinaria o extraordinaria para la designación de sus consejeros representantes que integren el Consejo de la Judicatura del Poder Judicial del Estado, en los términos previstos en las fracciones II y III del artículo 85 de la Constitución Política del Estado Libre y Soberano de Tlaxcala y del artículo 64 de la Ley Orgánica del Poder Judicial del Estado.

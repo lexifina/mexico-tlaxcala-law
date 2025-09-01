@@ -1,0 +1,1 @@
+Artículo 45 Bis. La Dirección Jurídica, es el órgano encargado de la defensa jurídica del Poder Judicial y atenderá todos aquellos asuntos legales en los que tengan interés o bien sea llamado a actuar como parte ante los órganos jurisdiccionales estatal y federal.

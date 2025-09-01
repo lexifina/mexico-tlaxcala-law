@@ -1,0 +1,2 @@
+(REFORMADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 9 Bis. El Órgano de Administración Judicial, mediante acuerdos generales determinará la creación o especialización de órganos jurisdiccionales para conocer de extinción de dominio, cuya residencia será en la Ciudad Judicial de la comunidad de Santa Anita Huiloac, Municipio de Apizaco. Tales órganos jurisdiccionales contaran con competencia en todo el territorio del Estado.

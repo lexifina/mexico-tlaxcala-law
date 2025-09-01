@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 105 Sexdecies. Cuando la evaluación de desempeño resulte insatisfactoria, o bien se impongan medidas correctivas o sancionadoras, la determinación del Órgano de Evaluación o de la Comisión del Tribunal de Disciplina Judicial podrá ser impugnada mediante el procedimiento que determine el Pleno del Tribunal de Disciplina Judicial para tal efecto mediante acuerdos generales.
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Capítulo Sexto
+Del Órgano de Investigación de Responsabilidades Administrativas

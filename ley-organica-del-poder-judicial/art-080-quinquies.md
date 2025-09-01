@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 80 Quinquies. Las funciones que en esta Ley y mediante reglamentos y acuerdos se confieran a la Dirección de Auditoría serán ejercitadas por las y los auditores, quienes tendrán el carácter de personas representantes del Órgano de Administración Judicial para esos efectos.
+Las personas auditoras serán designadas por el propio Órgano de Administración Judicial y deberán satisfacer los requisitos establecidos en el artículo 73 de la presente Ley, con excepción de la profesión, que necesariamente deberá ser de licenciado en derecho y, la experiencia profesional, que deberá ser de al menos diez años.
+El Órgano de Administración Judicial establecerá, mediante acuerdos, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de las y los auditores y, en caso de identificar irregularidades, notificará al Tribunal de Disciplina Judicial para los efectos correspondientes.

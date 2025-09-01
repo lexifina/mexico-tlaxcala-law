@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 67 Bis. Al clausurar sus períodos ordinarios de sesiones, el Pleno del Órgano de Administración Judicial designará a las y los integrantes que deban proveer los trámites y resolver los asuntos de notoria urgencia que se presenten durante los recesos, así como a las y los secretarios y personas empleadas que sean necesarias para apoyar sus funciones.
+Al reanudarse el correspondiente período ordinario de sesiones, las y los integrantes darán cuenta al Pleno del Órgano de Administración Judicial de las medidas que hayan tomado, a fin de que éste acuerde lo que proceda.

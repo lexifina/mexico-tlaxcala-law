@@ -1,0 +1,3 @@
+(REFORMADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 3 Bis. Los servidores públicos del Poder Judicial deberán someterse y aprobar los exámenes de conocimientos o aptitudes, y en general de control y confianza según sea el caso, para el ingreso y permanencia en sus cargos. Asimismo, se sujetarán a un programa de evaluación permanente, establecido por el Instituto de Especialización Judicial.
+El ingreso, formación, permanencia y demás aspectos inherentes a las servidoras y los servidores públicos que pertenezcan al servicio de carrera judicial se sujetarán a la regulación establecida en las disposiciones jurídicas aplicables.

@@ -1,0 +1,3 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)
+Artículo 39 Bis. En materia penal y en justicia especializada para adolescentes, para efectos del Sistema de Justicia Penal Acusatorio Oral, el recurso de apelación será conocido por la Sala Penal y Especializada en Administración de Justicia para Adolescentes, la cual actuará de forma colegiada para el conocimiento de recursos que provengan de tribunales colegiados y en el caso de aquellos que provengan de jueces unitarios será conocido por un magistrado de la propia Sala, según el tumo que corresponda.

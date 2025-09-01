@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 118 Octies. Las personas servidoras públicas del Tribunal de Disciplina Judicial y del Órgano de Administración Judicial son responsables de la investigación, substanciación y resolución de las faltas administrativas incurrirán en obstrucción de la justicia cuando:
+l. Realicen cualquier acto que simule conductas no graves durante la investigación de actos u omisiones calificados como graves en la presente Ley y demás disposiciones aplicables;
+II. No inicien el procedimiento correspondiente ante la autoridad competente, dentro del plazo de treinta días naturales, a partir de que tengan conocimiento de cualquier conducta que pudiera constituir una falta administrativa grave, faltas de particulares o un acto de corrupción, y
+III. Revelen la identidad de un denunciante anónimo protegido bajo los preceptos establecidos en la Ley General de Responsabilidades Administrativas.

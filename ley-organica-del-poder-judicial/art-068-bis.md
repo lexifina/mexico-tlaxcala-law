@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 68 Bis. El Órgano de Administración Judicial observará la perspectiva de género, de forma transversal, progresiva, y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y velará por que los órganos a su cargo así lo hagan.

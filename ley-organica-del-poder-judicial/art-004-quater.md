@@ -1,0 +1,2 @@
+(REFORMADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 4 Quáter. Los titulares de los distintos órganos del Poder Judicial y los encargados de las Dependencias Administrativas, tendrán bajo su cuidado el local donde se halle instalada la oficina su cargo, así como la conservación de los bienes que conformen el mobiliario del mismo, debiendo poner en inmediato conocimiento de la Secretaría Ejecutiva del Órgano de Administración Judicial cualquier deterioro que sufran.

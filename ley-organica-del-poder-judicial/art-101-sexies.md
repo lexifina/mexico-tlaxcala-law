@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)
+Artículo 101 Sexies. El Órgano de Investigación tendrá a su cargo la investigación de los hechos u omisiones que puedan constituir responsabilidades administrativas de las personas que ejercen funciones jurisdiccionales en el Poder Judicial del Estado, en los términos establecidos en esta Ley, en los acuerdos que emita el Tribunal de Disciplina Judicial, así como en la Ley General de Responsabilidad Administrativas.
