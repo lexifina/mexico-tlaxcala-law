@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2025)
+Artículo 152 Bis. Serán materia de anexos específicos del Secretariado Ejecutivo los programas de la Red Estatal de Telecomunicaciones para la Seguridad Pública, Procuración de Justicia y el Servicio Telefónico de Emergencia 911, el sistema de denuncia anónima 089 y los que por normativa o convenios de coordinación con la federación sean de competencia del C5i.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2025)
+Artículo 144 Quáter. El certificado individual de las personas integrantes de las Instituciones de Seguridad Ciudadana, será indispensable para los procesos de permanencia, desarrollo, promoción, profesionalización y especialización.
+El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, será responsable de emitir y publicar, los perfiles requeridos y proceso de certificación, basado en instrumentos de medición cuantitativos y cualitativos, sustentados en metodologías razonables y actualizadas. Los cuales deberán observar y reconocer las Instituciones de Seguridad Ciudadana.

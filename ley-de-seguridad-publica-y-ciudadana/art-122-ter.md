@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2025)
+Artículo 122 Ter. La Dirección de Formación y Profesionalización en Seguridad Ciudadana contará con una persona titular, designada y removida por la persona titular de la Secretaría, quien será responsable de aplicar el Programa Rector de Profesionalización y de cumplir con las facultades establecidas en la presente Ley y las que el Reglamento Interior de la Secretaría le confiera.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2025)
+Artículo 121 Ter. La Secretaría contará con la Academia para llevar a cabo la profesionalización de las personas integrantes de las Instituciones de Seguridad Ciudadana, la cual se sujetará (sic) los lineamientos que al efecto emita el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública en términos de lo dispuesto por el artículo 85 de la Ley General.

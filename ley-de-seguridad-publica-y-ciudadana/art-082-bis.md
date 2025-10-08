@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2025)
+Artículo 82 Bis. La Academia tendrá como objeto fundamental coordinar su funcionamiento, elaborar, aprobar e impartir los planes y programas (sic) estudio de tipo medio superior y superior en todos sus niveles, modalidades y opciones educativas para la población en general, así como la formación, capacitación, actualización, investigación, certificación y profesionalización de los elementos de seguridad, así como la generación de conocimiento en sus diferentes áreas y se regirá conforme a lo dispuesto en el Título Cuarto Capítulo IX de la presente Ley.
+Su administración, organización, funcionamiento y estructura, se regirá de acuerdo al Reglamento Interior y a las demás disposiciones que para tal efecto se expidan.

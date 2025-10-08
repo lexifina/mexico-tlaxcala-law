@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2025)
+Artículo 124 Bis. La Dirección de Formación y Profesionalización en Seguridad Ciudadana forma parte del organigrama interno de la Secretaría, por lo que se encuentra sujeta a la estructura jerárquica, técnica y administrativa de la misma. Sus atribuciones se ejercerán en el ámbito de competencia que le asigne esta Ley, el Reglamento Interior de la Secretaría y demás disposiciones aplicables, en concordancia con las políticas, lineamientos e instrucciones que emita la persona titular de la Secretaría.

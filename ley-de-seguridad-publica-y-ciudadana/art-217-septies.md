@@ -1,0 +1,11 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2025)
+Artículo 217 Septies. Las instituciones de procuración de justicia deberán suministrar al Sistema Nacional de Información, la información necesaria para integrar el Registro Nacional de Eficiencia Ministerial de conformidad con los lineamientos que al efecto emita el Secretariado Ejecutivo.
+Este Registro deberá contener, por lo menos:
+I. Actas de hechos, circunstanciadas o similares;
+II. Denuncias recibidas y su clasificación jurídica;
+III. Determinaciones ministeriales adoptadas, ya sea judicialización, archivo, no ejercicio de la acción penal, acumulación, incompetencia u otras similares;
+IV. Vinculaciones a proceso;
+V. Acuerdos reparatorios, criterios de oportunidad y otras formas de solución alterna aplicadas;
+VI. Etapa procesal, y
+VII. Las demás que determinen las normativas aplicables y el Consejo Nacional.
+El suministro de esta información se realizará bajo los principios de objetividad, protección de datos personales y uso legítimo de la información, y no afectará el ejercicio de la facultad de conducción y persecución penal de las instituciones referidas. El tratamiento de datos personales deberá apegarse al cumplimiento de las disposiciones jurídicas en la materia.

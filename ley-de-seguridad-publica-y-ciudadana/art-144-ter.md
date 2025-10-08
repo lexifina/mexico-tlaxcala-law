@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2025)
+Artículo 144 Ter. La certificación individual es el proceso por el que las personas integrantes de las Instituciones de Seguridad Ciudadana, se someten a las evaluaciones para comprobar conocimientos, habilidades, aptitudes y competencias, para el correcto desempeño de sus labores conforme a los perfiles establecidos por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.

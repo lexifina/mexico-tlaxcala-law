@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2025)
+Artículo 128 Bis. El incumplimiento de los requisitos de permanencia no será considerado una falta disciplinaria, por lo que no dará lugar a la imposición de correctivos o sanciones previstas en el régimen disciplinario. Dicho incumplimiento deberá ser tramitado mediante el procedimiento de separación del servicio, que prevean las disposiciones jurídicas respectivas.

@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 7 DE OCTUBRE DE 2025)
+Artículo 217 Quater. El Registro de Mandamientos Judiciales corresponde a la Fiscalía General de Justicia del Estado, y deberá realizarse con oportunidad y completitud en un plazo no mayor a treinta días naturales una vez emitido el mandato judicial, y dada su naturaleza, se recomienda realizar las capturas diaria o máximo semanalmente, mismo que deberá contener la información siguiente:
+I. Datos Generales del Mandamiento Judicial: Se compone de datos como emisor, entidad, institución, fecha del libramiento, fuero, tipo de mandato, número de proceso, estado del proceso, fecha de captura, número de mandato, nombre completo de la persona a la que se le emite el mandato, nombre del juzgado y fecha de registro, y
+II. Datos del Delito: Se compone de datos como emisor, entidad, fecha de captura y fecha de registro, estado del proceso, delito, fuero y modalidad.
