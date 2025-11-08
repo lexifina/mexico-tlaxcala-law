@@ -1,0 +1,5 @@
+CAPÍTULO X
+DE LA DEFENSORÍA PÚBLICA PARA LA ATENCIÓN Y PROTECCIÓN DE LOS DERECHOS POLÍTICOS-ELECTORALES DEL ESTADO DE TLAXCALA
+Artículo 98 Bis.
+La Defensoría Pública es el órgano encargado de orientar, asesorar y representar jurídicamente a las personas que pertenezcan a grupos en situación de vulnerabilidad en el Estado de Tlaxcala, en lo que respecta a sus derechos político-electorales. Para el desempeño de sus funciones, la Defensoría Pública contará con autonomía técnica y de gestión, entendida como la especialización de su personal en el ejercicio de sus funciones, cuya actuación será independiente, imparcial y objetiva, bajo los principios de imparcialidad, independencia, legitimidad, profesionalismo, calidad, eficiencia, eficacia, economía, transparencia y honradez.
+La Defensoría Pública funcionará con la estructura que determine su reglamento interno y para los efectos administrativos, la persona titular de la Defensoría Pública tendrá el nivel equivalente a un director del Tribunal, sin que ello afecte su autonomía, por lo que en el presupuesto anual del Tribunal se deberán prever las asignaciones correspondientes para tales efectos.
