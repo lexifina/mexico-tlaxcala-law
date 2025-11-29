@@ -61,12 +61,15 @@ y situaciones especiales.1.5 UMA
 Quedan exceptuados del pago de los derechos establecidos en esta fracción los propietarios de los vehículos que se encuentren en litigio, que tengan acreditado el carácter de víctima u ofendido o aquellos declarados inocentes por la autoridad competente mediante resolución firme.
 (REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2024)
 IV. Los servicios prestados a través del departamento de seguridad privada, causarán los derechos siguientes:
-(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 18 DE DICIEMBRE DE 2024)
-a) Expedición de autorización de funcionamiento para prestar servicios de seguridad privada en el Estado, de acuerdo a las siguientes modalidades:
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE NOVIEMBRE DE 2025)
+a) Por el trámite de solicitud, estudio y expedición de autorización de funcionamiento para prestar servicios de seguridad privada en el Estado, de acuerdo a las modalidades siguientes:
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)
 1. Protección, custodia y vigilancia de
 personas o bienes muebles e inmuebles;280 UMA
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)
 2. Instalación, mantenimiento y monitoreo
 de sistemas de alarmas, y300 UMA
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)
 3. Traslado y custodia de fondos y valores;320 UMA
 (REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 18 DE DICIEMBRE DE 2024)
 b) Si la autorización de funcionamiento para prestar servicios de seguridad privada en el Estado, incluye dos o más modalidades causará los derechos siguientes:

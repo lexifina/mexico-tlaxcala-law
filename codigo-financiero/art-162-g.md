@@ -33,14 +33,16 @@ inmediato anterior.10.5 UMA por cada
 hectárea o fracción
 que exceda.
 III. Por levantamiento de construcción existente en los predios en general.
-(REFORMADO, P.O. 21 DE JUNIO DE 2021)
-a) De 0.01 a 250.00 metros cuadrados.6.5 UMA
-(REFORMADO, P.O. 21 DE JUNIO DE 2021)
-b) De 250.01 metros cuadrados en
-adelante además de lo preceptuado
-anteriormente.0.18 UMA por cada
-metro cuadrado o
-fracción que exceda.
+(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)
+a) De 0.01 a 150.00 metros cuadrados.1.5 UMA
+(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)
+b) De 150.01 a 250.00 metros cuadrados.2 UMA
+(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2025)
+c) De 250.01 metros cuadrados en
+adelante, además de lo señalado en
+el inciso b).0.02 UMA
+por cada metro cuadrado
+o fracción que exceda.
 (REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)
 IV. Por certificación de documentos y/o
 planos catastrales expedidos por el

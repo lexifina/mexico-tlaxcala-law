@@ -1,5 +1,5 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2023)
-Artículo 162 I. Los servicios que proporciona la Comisión Estatal del Agua y Saneamiento del Estado de Tlaxcala causarán los respectivos Derechos, mismos que deberán pagarse de la manera siguiente:
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2025)
+Artículo 162-I. Los servicios que proporciona la Comisión Estatal del Agua y Saneamiento del Estado de Tlaxcala causarán derechos, mismos que deberán pagarse de la manera siguiente:
 (ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE JUNIO DE 2021)
 CONCEPTODERECHOS CAUSADOS
 (ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)
@@ -8,6 +8,11 @@ I. Por el servicio de laboratorio de análisis de aguas:
 a) Servicio de análisis de agua residual25.5 UMA
 (REFORMADO, P.O. 21 DE JUNIO DE 2021)
 b) Servicio de análisis de agua potable19 UMA
+(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2025)
+I Bis. Por reúso de agua tratada;0.25 UMA por
+m3, dicho concepto
+no incluye traslado de agua.
+Cuando el destino del agua tratada sea para uso agrícola, no se causará derecho alguno.
 (ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)
 II. Servicios de tratamiento de Agua Residual:
 a) Servicio de tratamiento de Agua Residual:

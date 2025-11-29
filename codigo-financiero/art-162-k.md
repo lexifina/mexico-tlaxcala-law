@@ -2,6 +2,7 @@
 Artículo 162 K. Los derechos por los servicios que presta la Coordinación de Bienestar Animal, serán los siguientes:
 I. Por los servicios veterinarios siguientes:
 [N. DE E. VÉASE TABLA, EN EL P.O. DE 18 DE DICIEMBRE DE 2024, PÁGINAS DE LA 46 A LA 47.]
+[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 28 DE NOVIEMBRE DE 2025, PÁGINAS DE LA 28 A LA 29.]
 II. Por los servicios administrativos:
 No.CONCEPTODERECHO
 CAUSADO

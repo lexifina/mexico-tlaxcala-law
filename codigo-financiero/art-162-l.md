@@ -2,14 +2,19 @@
 Artículo 162 L. Los derechos por los servicios que presta el Archivo General e Histórico del Estado de Tlaxcala, serán los siguientes:
 ConceptoDerechos causados
 I. Digitalización:
-a) Carta,4 UMA
-b) Oficio,5 UMA
-c) Doble oficio,10 UMA
-d) Mapas,15 UMA
+(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)
+a) Carta,1 UMA
+(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)
+b) Oficio,2 UMA
+(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)
+c) Doble oficio,4 UMA
+(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2025)
+d) Mapas,7 UMA
+(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)
 II. Uso de imágenes contenidas en documentos
 originales por parte del acervo y propiedad
 del Archivo General e Histórico del Estado de
-Tlaxcala;15 UMA
+Tlaxcala;3 UMA
 III. Certificación o constancia de distinta
 unidad documental simple o compuesta de los
 acervos que resguarda el Archivo General e
