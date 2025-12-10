@@ -1,0 +1,3 @@
+(REFORMADO [N. DE E. ANTES ARTÍCULO 116 BIS], P.O. 9 DE DICIEMBRE DE 2025)
+Artículo 116 Bis 1. Los sesenta ayuntamientos que integran el Estado de Tlaxcala deberán contar con una Procuraduría Municipal para la Protección de Niñas, Niños y Adolescentes, la cual tendrá por objeto garantizar, prevenir, procurar, proteger y restituir los derechos de las personas menores de edad que se encuentren en sus respectivas demarcaciones.
+Las Procuradurías Municipales deberán coordinarse permanentemente con la Subprocuraduría que corresponda a su ámbito territorial, en los términos de esta Ley y de los lineamientos que emita la Procuraduría Estatal de Protección.
