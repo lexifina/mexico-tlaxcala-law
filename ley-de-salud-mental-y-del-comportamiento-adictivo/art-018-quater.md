@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)
+Artículo 18 Quater. Los servicios de atención a la salud mental proporcionados a niñas, niños y adolescentes deberán ser brindados por profesionales de la salud; y tendrán por objeto su reintegración familiar y social, teniendo como bases para su logro la rehabilitación, la integralidad de los servicios sanitarios, la educación, la capacitación, la preparación para el empleo y el esparcimiento; siempre en un ámbito de respeto a sus derechos humanos y con perspectiva de género.

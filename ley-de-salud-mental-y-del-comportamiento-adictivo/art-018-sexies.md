@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2025)
+Artículo 18 Sexies. Todos los servicios de atención a la salud mental brindados a niñas niños y adolescentes, deberán realizarse en presencia de la madre, padre o tutor, desde el comienzo del tratamiento hasta conclusión de la rehabilitación.
+Cuando el profesional de la salud advierta que la niña, niño o adolescente está siendo o ha sido víctima de negligencia, abandono, violencia o maltrato de carácter físico, psicológico, sexual, emocional o económico por parte de sus padres, tutores, cuidadores o de cualquier persona, deberá darse vista a la Procuraduría de Protección de Niñas, Niños y Adolescentes o al Ministerio Público.
