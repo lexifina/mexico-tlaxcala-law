@@ -1,0 +1,7 @@
+P.O. 18 DE DICIEMBRE DE 2025
+[N. DE E. TRANSITORIOS DEL "DECRETO 252.- SE ADICIONA UNA FRACCIÓN XI BIS AL ARTÍCULO 12, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TLAXCALA"]
+ARTÍCULO PRIMERO. El presente Decretoentrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+ARTÍCULO SEGUNDO. Dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, la titular de la Fiscalía General de Justicia del Estado, deberá crear la Unidad Especializada de Atención a los Delitos de Extorsión adscrita a la Fiscalía General de Justicia del Estado de Tlaxcala.
+ARTÍCULO TERCERO. Dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, la titular de la Fiscalía General de Justicia del Estado, deberá expedir las adecuaciones necesarias a su Reglamento Interno para la operación y funcionamiento de la Unidad Especializada de Atención a los Delitos de Extorsión.
+ARTÍCULO CUARTO. Hasta en tanto entra en funciones la Unidad Especializada de Atención a los Delitos de Extorsión, la atención de los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, se realizará a través de la Fiscalía Especializada en el Combate al Secuestro.
+ARTÍCULO QUINTO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.

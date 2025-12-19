@@ -1,0 +1,26 @@
+TRANSITORIOS
+ARTÍCULO PRIMERO. La presente Ley entrará en vigor al día uno de agosto del año dos mil veinticuatro, debiendo publicarse previamente en el Periódico Oficial del Gobierno del Estado.
+ARTÍCULO SEGUNDO. La persona titular de la Fiscalía General expedirá el Reglamento de la Fiscalía General y el Reglamento del Servicio Profesional de Carrera, en el término de noventa días naturales siguientes a la fecha de entrada en vigor esta Ley.
+ARTÍCULO TERCERO. Los convenios, acuerdos interinstitucionales, contratos o actos equivalentes y demás instrumentos jurídicos, celebrados o emitidos por la Procuraduría General de Justicia del Estado de Tlaxcala se entenderán como vigentes y obligarán en sus términos a la Fiscalía General, en lo que no se opongan a la presente Ley, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente o, en su caso, de ser derogados o abrogados.
+ARTÍCULO CUARTO. Se abroga la Ley Orgánica de la Institución del Ministerio Público del Estado de Tlaxcala, contenida en el Decreto número ciento quince (115), publicado en el Periódico Oficial del Gobierno del Estado el día veinticuatro de octubre del año dos mil doce.
+ARTÍCULO QUINTO. Los recursos financieros y materiales asignados a la Procuraduría General de Justicia del Estado, así como los bienes inmuebles y muebles que detente, a la entrada en vigor de la presente Ley, pasarán a la Fiscalía General de Justicia.
+Considerando que al momento de extinguirse la Procuraduría General de Justicia del Estado los bienes inmuebles, muebles y materiales, en general, que detente formalmente corresponderían al patrimonio del Gobierno del Estado, el Poder Ejecutivo Estatal dictará las medidas necesarias para efectuar las transferencias de los recursos financieros y materiales de la Procuraduría General de Justicia del Estado a la Fiscalía General e implementará los procedimientos que correspondan para formalizar lo conducente, conforme a la normatividad prevaleciente en cada caso.
+Mientras no se agotan los procedimientos indicados en el párrafo anterior, tratándose de recursos materiales y bienes muebles e inmuebles, se entenderá que la Fiscalía General los detenta en comodato.
+ARTÍCULO SEXTO. Los recursos tecnológicos de los cuales dispone la Procuraduría General de Justicia del Estado, consistentes en sistemas y herramientas electrónicas que emplea para el cumplimiento de sus funciones, pasarán a la Fiscalía General al iniciar su vigencia esta Ley.
+ARTÍCULO SÉPTIMO. Al entrar en vigor esta Ley, las personas servidoras públicas adscritas a la Procuraduría General de Justicia del Estado pasarán a la Fiscalía General, conservando la naturaleza de la relación, laboral o administrativa, que les corresponda conforme al cargo o empleo que desempeñen, y los derechos derivados de esa relación.
+Sin perjuicio de lo anterior, las personas servidoras públicas a que se refiere el párrafo anterior deberán cumplir con las disposiciones de esta Ley para integrar el personal de la Fiscalía General.
+ARTÍCULO OCTAVO. La liquidación de los laudos, pasivos y demás obligaciones que se encuentren pendientes a cargo de la Procuraduría General de Justicia del Estado, después que inicie su vigencia esta Ley, quedará a cargo de la Secretaría de Finanzas y la Oficialía Mayor del Gobierno del Estado.
+ARTÍCULO NOVENO. Los procedimientos relativos a las probables faltas administrativas de las personas servidoras públicas de la Procuraduría General de Justicia del Estado se seguirán tramitando ante el Órgano Interno de Control de la Fiscalía General, hasta resolverse en definitiva.
+ARTÍCULO DÉCIMO. De las averiguaciones previas, carpetas de investigación y demás asuntos que se encontraran en trámite ante la Procuraduría General de Justicia del Estado, previamente a la entrada en vigor de la presente Ley, conocerán las fiscalías especializadas y las unidades correspondientes de la Fiscalía General, debiendo comunicarse esta circunstancia a las personas interesadas y órganos judiciales involucrados, al notificarse el primer acuerdo que se dicte.
+ARTÍCULO DÉCIMO PRIMERO. Mientras se nombran las personas titulares de las fiscalías especializadas, la persona titular de la Fiscalía General designará a quienes deban encargarse del despacho de aquellas.
+AL EJECUTIVO PARA QUE LO SANCIONE Y MANDE PUBLICAR
+Dado en la sala de sesiones del Palacio Juárez, recinto oficial del Poder Legislativo del Estado Libre y Soberano de Tlaxcala, en la Ciudad de Tlaxcala de Xicohténcatl, a los veintiocho días del mes de junio del año dos mil veinticuatro.
+DIP. JOSÉ GILBERTO TEMOLTZIN MARTÍNEZ. - PRESIDENTE. – Rúbrica. - DIP. GABRIELA ESPERANZA BRITO JIMÉNEZ. - SECRETARIA. - Rúbrica. - DIP. MÓNICA SÁNCHEZ ANGULO. -
+SECRETARIA. – Rúbrica
+Al calce un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a uno de Julio del año dos mil veinticuatro.
+LORENA CUÉLLAR CISNEROS GOBERNADORA DEL ESTADO
+Rúbrica y sello
+LUIS ANTONIO RAMÍREZ HERNÁNDEZ SECRETARIO DE GOBIERNO
+Rúbrica y sello
