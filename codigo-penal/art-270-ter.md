@@ -1,3 +1,1 @@
-(ADICIONADO, P.O. 7 DE ABRIL DE 2025)
-Artículo 270 Ter. A quien, sin contar con autorización de las autoridades financieras conforme a la legislación aplicable, se dedique habitualmente a préstamo de dinero, otorgamiento de crédito, financiamiento o cualquier acción que implique el otorgamiento de recursos económicos, aprovechándose de la necesidad económica, estado de pobreza, error o desconocimiento de persona alguna, le hiciera dar garantía o prometer cualquier ventaja desproporcional económica con las condiciones de préstamo, se le impondrá de uno a siete años de prisión y multa de cinco mil a ocho mil veces el valor de la Unidad de Medida y Actualización.
-Las penas establecidas en el presente artículo se incrementarán hasta en un tercio cuando se realice ejerciendo medios coactivos, intimidación o amenazas.
+Artículo 270 Ter. (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
