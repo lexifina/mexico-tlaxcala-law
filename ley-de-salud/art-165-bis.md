@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE FEBRERO DE 2026)
+ARTICULO 165 BIS.- Los laboratorios que manejen agentes patógenos estarán sujetos a control por parte de las autoridades sanitarias competentes, de conformidad con las Normas Oficiales Mexicanas que expida la Secretaría de Salud, en lo relativo a las precauciones higiénicas que deban observar, para evitar la propagación de las enfermedades transmisibles al ser humano. Cuando esto represente peligro para la salud animal, se oirá la opinión de las autoridades competentes en la materia.

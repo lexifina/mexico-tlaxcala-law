@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE FEBRERO DE 2026)
+ARTICULO 179 BIS.- Los Centros para el tratamiento del alcoholismo y Drogadicciones en el Estado son los espacios en los que se otorgan los servicios especiales de atención de la salud con los que se brinda apoyo a un individuo con la finalidad de recuperar las capacidades físicas, mentales o cognitivas que perdió debido al consumo de sustancias nocivas contra la salud.

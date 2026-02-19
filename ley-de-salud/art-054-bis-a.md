@@ -8,8 +8,10 @@ V. Identificar, analizar, evaluar, regular, controlar, fomentar las condiciones 
 VI. Expedir avisos sanitarios, certificados oficiales de condición sanitaria, cartas de conveniencia o inconveniencia de procesos, productos, métodos, instalaciones, servicios o actividades relacionadas con las materias de su competencia;
 VII. Promover, difundir, capacitar y ejecutar políticas y acciones con los municipios, en materia de protección, control y fomento sanitario que pertenezcan al ámbito de competencia municipal;
 VIII. Promover, elaborar y evaluar programas de orientación al público para facilitar el cumplimiento de la legislación sanitaria vigente;
-IX. Participar en coordinación, con las unidades administrativas competentes de la Secretaría de Salud del Estado y de Salud de Tlaxcala, en la instrumentación de las acciones de prevención y control de enfermedades, así como de vigilancia epidemiológica especialmente cuando estas se relacionen con los riesgos sanitarios derivados de productos, actividades y establecimientos materia de su competencia;
-X. Elaborar y proponer al Secretario de Salud y Director General de Salud de Tlaxcala, los reglamentos y normas oficiales locales para su expedición; relativos a los productos, actividades, servicios y establecimientos materia de su competencia;
+(REFORMADA, P.O. 18 DE FEBRERO DE 2026)
+IX. Participar, en coordinación con las unidades administrativas competentes de la Secretaría de Salud, en la instrumentación de las acciones de prevención y control de enfermedades, así como de vigilancia epidemiológica especialmente cuando éstas se relacionen con los riesgos sanitarios derivados de productos, actividades y establecimientos materia de su competencia;
+(REFORMADA, P.O. 18 DE FEBRERO DE 2026)
+X. Elaborar y proponer al Secretario de Salud los reglamentos y normas oficiales locales para su expedición relativos a los productos, actividades, servicios y establecimientos materia de su competencia;
 XI. Ejercer el control y la vigilancia de los establecimientos, vehículos, actividades, productos y equipos, que el Gobierno Federal haya delegado al Estado en materia de salubridad general para prevenir, combatir y reducir los riesgos sanitarios derivados de la exposición de la población a factores químicos, físicos y biológicos nocivos para la salud en materia de:
 a) Establecimientos de salud, de disposición de órganos, tejidos, células de seres humanos y sus componentes, de disposición de sangre y los demás establecimientos que señala el citado ordenamiento, con las excepciones a que hace referencia la Ley General de Salud;
 b) Medicamentos, remedios herbolarios y otros insumos para la salud;
@@ -37,7 +39,8 @@ XV. Ejercer el control y vigilancia sanitaria en los establecimientos en donde s
 XVI. Ordenar y ejecutar las medidas de seguridad, calificar las actas de verificación e imponer sanciones administrativas conforme al procedimiento que establece la Ley General de Salud y esta Ley, así como remitir a las autoridades fiscales competentes las sanciones económicas que imponga para que se hagan efectivas a través del procedimiento administrativo de ejecución;
 XVII. Tramitar y resolver los recursos procedentes contra actos y resoluciones emitidos por la Comisión y que den fin a una instancia o resuelvan un expediente bajo los lineamientos que establece la Ley General de Salud, esta Ley y demás disposiciones legales conforme a la materia que se trate;
 XVIII. Ejercer las demás facultades en materia de regulación y control sanitario que establezcan los acuerdos y convenios respectivos y las que expresamente le confiera el Secretario de Salud del Estado;
-XIX. Proponer al Secretario de Salud y Director General de Salud de Tlaxcala la política estatal de protección contra riesgos sanitarios, así como su instrumentación en las materias de su competencia;
+(REFORMADA, P.O. 18 DE FEBRERO DE 2026)
+XIX. Proponer al Secretario de Salud la política estatal de protección contra riesgos sanitarios, así como su instrumentación en las materias de su competencia;
 XX. Efectuar la identificación, evaluación, y realización de mapas de riesgos sanitarios en el ámbito de su competencia;
 XXI. Promover y dar trámite a la acción popular contemplada en el artículo 97 de la presente ley y de la Ley General de Salud; y
 XXII. Las demás inherentes al ejercicio de sus facultades.

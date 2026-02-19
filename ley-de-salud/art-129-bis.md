@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 18 DE FEBRERO DE 2026)
+ARTICULO 129 BIS.- La Secretaría de Salud, en coordinación con la Dirección General de Calidad y Educación en Salud, promoverá un sistema de enseñanza continua en materia de salud.
+De la misma manera reconocerá, respetará y promoverá el desarrollo de la medicina tradicional indígena. Los programas de prestación de la salud, de atención primaria que se desarrollan en comunidades indígenas, deberán adaptarse a su estructura social y administrativa, así como su concepción de la salud y de la relación del paciente con el médico, respetando siempre sus derechos humanos.

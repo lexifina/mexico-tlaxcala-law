@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE FEBRERO DE 2026)
+ARTICULO 113 SEPTIES.- El internamiento de la población usuaria de los servicios de salud mental y las personas con consumo de sustancias psicoactivas, y de adicciones, como último recurso terapéutico, se ajustará a principios éticos, sociales, de respeto a los derechos humanos, la dignidad de la persona, así como los requisitos que determine la Secretaría de Salud y demás disposiciones jurídicas aplicables.

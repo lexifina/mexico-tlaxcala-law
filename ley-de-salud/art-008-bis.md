@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE FEBRERO DE 2026)
+ARTICULO 8 BIS.- El Gobierno del Estado, los gobiernos municipales y las dependencias del gobierno, coadyuvarán, en el ámbito de sus respectivas competencias y, en su caso, en los términos de los acuerdos de coordinación que celebren con la Secretaría de Salud, en la operación, funcionamiento y fortalecimiento del Sistema Estatal de Salud. Para lo cual, planearán, organizarán y desarrollarán en sus respectivas circunscripciones territoriales, procurando su participación programática en el Sistema Nacional de Salud.

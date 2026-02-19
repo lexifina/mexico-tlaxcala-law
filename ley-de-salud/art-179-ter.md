@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE FEBRERO DE 2026)
+ARTICULO 179 TER.- La Secretaría de Salud administrará el padrón de los Centros de Rehabilitación, estableciendo los requisitos para su apertura, operación y funcionamiento en coordinación con la Comisión Estatal para la Protección contra Riesgos Sanitarios, la Coordinación Estatal de Protección Civil y la Secretaría de Seguridad Ciudadana del Estado de Tlaxcala.

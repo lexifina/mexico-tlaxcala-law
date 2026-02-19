@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 18 DE FEBRERO DE 2026)
+ARTICULO 277 TER.- El certificado de discapacidad será expedido conforme a la legislación vigente y acorde con la legislación aplicable y los tratados internacionales de los que México sea parte, por profesionales de la medicina o persona autorizada por la autoridad sanitaria. El certificado de discapacidad deberá incluir la Clave Única de Registro de Población del beneficiario.
+El responsable de emitir el certificado de discapacidad deberá notificarlo al Sistema Nacional de Información en Salud para los fines del Registro Nacional de Población con Discapacidad.
+Los menores de edad con discapacidad y los neonatos en los que se identifique una discapacidad congénita o genética, al momento del nacimiento o como resultado del Tamiz neonatal, deberán ser incluidos en el Registro de Menores de Edad, incluyendo la correspondiente certificación de discapacidad para garantizar el interés superior de la niñez.
