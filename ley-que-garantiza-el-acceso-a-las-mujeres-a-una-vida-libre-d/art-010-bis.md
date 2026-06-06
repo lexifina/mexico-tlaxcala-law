@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 4 DE MARZO DE 2016)
+Artículo 10-Bis. Las autoridades en el ámbito de sus respectivas competencias deberán prestar atención a las víctimas, consistente en:
+I. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
+II. Promover la atención a víctimas por parte de las diversas instituciones del sector salud, así como de atención y de servicio, tanto pública como privada;
+III. Proporcionar a las víctimas, la atención médica, psicológica y jurídica, de manera integral, gratuita y expedita;
+IV. Proporcionar un refugio seguro a las víctimas; y
+V. Informar a la autoridad competente de los casos de violencia que ocurran en los centros educativos.

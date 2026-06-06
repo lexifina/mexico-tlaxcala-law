@@ -1,0 +1,5 @@
+(REFORMADO, P.O. 03 DE MAYO DE 2023)
+Artículo 48 Ter. Las órdenes de protección deberán ser evaluadas para modificarse o adecuarse, en caso de que se detecten irregularidades en su efectividad o incumplimiento, tales circunstancias se comunicarán a los órganos internos de control de las entidades públicas involucradas.
+Previamente a la suspensión de las órdenes de protección decretadas, las autoridades facultadas deberán asegurarse, bajo su más estricta responsabilidad, que la situación de riesgo o peligro de la víctima ha cesado, realizando una nueva evaluación de riesgo, y analizando los informes de implementación por parte de las autoridades responsables de su cumplimiento.
+Al dictarse sentencia, las autoridades competentes determinarán las órdenes de protección y medidas similares que deban dictarse, de manera temporal o durante el tiempo en que se ejecute la sentencia.
+Tratándose de niñas víctimas de un delito, la autoridad actuará conforme al principio de interés superior de la niñez, para el otorgamiento de órdenes de protección, aun cuando no se presente solicitud al respecto.
