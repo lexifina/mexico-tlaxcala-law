@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 29 DE JUNIO DE 2026)
+Artículo 96 Bis. La Autoridad Educativa garantizará el respeto, la protección y la salvaguarda de la dignidad, integridad física, emocional y profesional de la comunidad educativa, impulsando acciones específicas para prevenir, atender y, en ejercicio de su facultad disciplinaria, instaurar procedimientos administrativos para sancionar cualquier forma de violencia ejercida en contra de las y los educandos, maestras y maestros, madres y padres de familia, tutores o cualquier otra persona que participe en la prestación del servicio público de educación.
+Para cumplir con lo anterior, la Autoridad Educativa y sus Organismos Públicos Descentralizados, deberán:
+I. Implementar programas de prevención de violencia escolar, y de fortalecimiento a la cultura del respeto en el entorno escolar;
+II. Diseñar, aprobar e implementar el programa de certificación de escuelas libres de violencia en el Estado, en todos los niveles educativos, y
+III. Coordinarse con las autoridades competentes para que cualquier agresión o violencia contra las y los educandos, maestras y maestros, madres y padres de familia, tutores o cualquier otra persona dentro del entorno escolar, sea investigada y sancionada conforme a la legislación aplicable.

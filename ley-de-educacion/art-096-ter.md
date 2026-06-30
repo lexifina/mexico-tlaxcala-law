@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 29 DE JUNIO DE 2026)
+Artículo 96 Ter. Con el objeto de preservar la paz, la sana convivencia y entornos escolares libres de violencia, toda persona que participe en la prestación del servicio público de educación, deberá conducirse con probidad, apegándose a las normas escolares, respetando en todo momento la dignidad de las personas y los derechos humanos.
+Cuando se haga del conocimiento de las Autoridades Educativas la comisión de un hecho que amerite responsabilidad de una persona trabajadora de la educación, las autoridades deberán observar los procedimientos establecidos por la Ley General de Responsabilidades Administrativas, con el objeto de determinar la veracidad del hecho y la responsabilidad respectiva.
+Si de los hechos que conozca la Autoridad Educativa pudiera existir la comisión de un delito, ésta tendrá la obligación inmediata de dar vista y/o denunciar ante el Ministerio Público.
