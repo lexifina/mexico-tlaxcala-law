@@ -1,0 +1,11 @@
+{
+  "path": "mx-tla",
+  "code": "MX-TLA",
+  "name": "Tlaxcala",
+  "level": "state",
+  "parent": "mx",
+  "repo": "https://github.com/lexifina/mexico-tlaxcala-law",
+  "build": "built: constitution, codes and laws (129 ordenamientos, 532 versions) from SCJN Legislación",
+  "language": "es",
+  "sources": 1
+}
