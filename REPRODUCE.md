@@ -1,12 +1,13 @@
 # How this repository was made (Tlaxcala)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Suprema Corte de Justicia de la Nación: Legislación (state compilation) | <https://legislacion.scjn.gob.mx/> | 2026-10-30 | Ley Federal del Derecho de Autor, art. 14, fr. VIII: legislative texts are not protected. SCJN terms: copying for informative and academic purposes, with no commercial use. |
+| Congreso del Estado de Tlaxcala | <https://congresodetlaxcala.gob.mx/legislacion/> | 2026-11-05 | Legislative texts: Ley Federal del Derecho de Autor, artículo 14, fracción VIII. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -143,20 +144,84 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-ganadera` | LEY GANADERA DEL ESTADO DE TLAXCALA | 2 | 1978-07-06 to 2017-10-18 |
 | `ley-laboral-de-los-servidores-publicos` | LEY LABORAL DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TLAXCALA, Y SUS MUNICIPIOS | 11 | 2008-01-01 to 2026-06-06 |
 | `ley-municipal` | LEY MUNICIPAL DEL ESTADO DE TLAXCALA | 29 | 2001-12-21 to 2026-05-16 |
+| `ley-de-extincion-de-dominio` | Ley de Extinción de Dominio para el Estado de Tlaxcala | 1 | 2016-11-23 to 2016-11-23 |
+| `ley-de-firma-electronica-avanzada` | Ley de Firma Electrónica Avanzada para el Estado de Tlaxcala | 1 | 2016-02-19 to 2016-02-19 |
+| `ley-de-justicia-para-adolescentes` | Ley de Justicia para Adolescentes para el Estado de Tlaxcala | 1 | 2023-04-27 to 2023-04-27 |
+| `ley-organica-de-la-administracion-publica` | Ley Orgánica de la Administración Publica del Estado de Tlaxcala | 1 | 2026-04-14 to 2026-04-14 |
+| `ley-organica-de-la-defensoria-publica-y-asistencia-juridico` | Ley Orgánica de la Defensoría Publica y Asistencia Jurídico Social del Estado de Tlaxcala | 1 | 2014-11-29 to 2014-11-29 |
+| `ley-organica-de-la-fiscalia-general-de-justicia` | Ley Orgánica de la Fiscalía General de Justicia del Estado de Tlaxcala. | 1 | 2025-12-19 to 2025-12-19 |
+| `ley-organica-de-la-universidad-autonoma-de-tlaxcala` | Ley Orgánica de la Universidad Autónoma de Tlaxcala | 1 | 2012-08-29 to 2012-08-29 |
+| `ley-organica-del-poder-judicial` | Ley Orgánica del Poder Judicial del Estado de Tlaxcala | 1 | 2025-09-01 to 2025-09-01 |
+| `ley-organica-del-tribunal-de-justicia-administrativa` | Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Tlaxcala | 1 | 2025-08-30 to 2025-08-30 |
+| `ley-organica-del-tribunal-electoral-de-tlaxcala` | Ley Orgánica del Tribunal Electoral de Tlaxcala | 1 | 2025-11-08 to 2025-11-08 |
+| `ley-organica-para-las-exposiciones-y-ferias-en-la-ciudad-de` | Ley Orgánica para las Exposiciones y Ferias en la Ciudad de Tlaxcala | 1 | 1971-05-20 to 1971-05-20 |
+| `ley-para-el-desarrollo-agricola-sustentable` | Ley para el Desarrollo Agrícola Sustentable del Estado de Tlaxcala | 1 | 2020-12-25 to 2020-12-25 |
+| `ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequ` | Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa del Estado de Tlaxcala | 1 | 2023-10-04 to 2023-10-04 |
+| `ley-para-el-fomento-y-conservacion-del-maguey-y-sus-derivado` | Ley para el Fomento y Conservación del Maguey y sus Derivados del Estado de Tlaxcala | 1 | 2016-12-28 to 2016-12-28 |
+| `ley-para-la-atencion-integral-de-enfermedad-renal-cronica-en` | Ley para la Atención Integral de Enfermedad Renal Crónica en el Estado de Tlaxcala | 1 | 2019-12-04 to 2019-12-04 |
+| `ley-para-la-atencion-y-proteccion-a-personas-con-la-condicio` | Ley para la Atención y Protección a Personas con la Condición del Espectro Autista del Estado de Tlaxcala | 1 | 2016-12-28 to 2016-12-28 |
+| `ley-para-la-declaracion-especial-de-asuencia-por-desaparacio` | Ley para la Declaración Especial de Asuencia por Desaparación de Personas del Estado de Tlaxcala | 1 | 2025-06-19 to 2025-06-19 |
+| `ley-para-la-prevencion-social-de-la-violencia-y-la-delincuen` | Ley para la Prevención Social de la Violencia y la Delincuencia del Estado de Tlaxcala | 1 | 2019-05-28 to 2019-05-28 |
+| `ley-para-la-prevencion-asistencia-y-tratamiento-de-la-violen` | Ley para la Prevención, Asistencia y Tratamiento de la Violencia Familiar en el Estado de Tlaxcala | 1 | 2023-03-17 to 2023-03-17 |
+| `ley-para-la-proteccion-de-arboles-patrimonio-en-el-estado-de` | Ley para la Protección de  Árboles Patrimonio en el Estado de Tlaxcala | 1 | 2024-03-26 to 2024-03-26 |
+| `ley-para-la-proteccion-de-personas-que-intervienen-en-el-pro` | Ley para la Protección de Personas que Intervienen en el Procedimiento Penal del Estado de Tlaxcala | 1 | 2014-11-06 to 2014-11-06 |
+| `ley-para-personas-con-discapacidad` | Ley para Personas con Discapacidad del Estado de Tlaxcala | 1 | 2024-04-30 to 2024-04-30 |
+| `ley-para-prevenir-y-atender-la-obesidad-el-sobrepeso-y-los-t` | Ley para Prevenir y Atender la Obesidad, el Sobrepeso y los Trastornos Alimenticios en el Estado Tlaxcala | 1 | 2016-12-28 to 2016-12-28 |
+| `ley-para-prevenir-y-combatir-la-violencia-escolar-en-el-esta` | Ley para Prevenir y Combatir la Violencia Escolar en el Estado de Tlaxcala | 1 | 2023-12-13 to 2023-12-13 |
+| `ley-para-prevenir-y-erradicar-la-discriminacion-en-el-estado` | Ley para Prevenir y Erradicar la Discriminación en el Estado de Tlaxcala | 1 | 2026-06-06 to 2026-06-06 |
+| `ley-para-prevenir-y-sancionar-la-tortura` | Ley para Prevenir y Sancionar la Tortura para el Estado de Tlaxcala | 1 | 2016-08-16 to 2016-08-16 |
+| `ley-para-prevenir-sancionar-y-erradicar-los-delitos-en-mater` | Ley para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Victimas de los Mismos en el Estado de Tlaxcala | 1 | 2017-07-13 to 2017-07-13 |
+| `ley-que-crea-el-colegio-de-bachilleres` | Ley que Crea el Colegio de Bachilleres del Estado de Tlaxcala | 1 | 1981-08-06 to 1981-08-06 |
+| `ley-que-crea-el-colegio-de-estudios-cientificos-y-tecnologic` | Ley que Crea el Colegio de Estudios Científicos y Tecnológicos del Estado de Tlaxcala | 1 | 1992-10-01 to 1992-10-01 |
+| `ley-que-crea-el-consejo-ejecutivo-de-promocion-y-fomento-agr` | Ley que Crea el Consejo Ejecutivo de Promoción y Fomento Agrícola, Ganadero e Industrial en el Estado de Tlaxcala | 1 | 1959-01-07 to 1959-01-07 |
+| `ley-que-crea-el-instituto-tlaxcalteca-de-la-infraestructura` | Ley que Crea el Instituto Tlaxcalteca de la Infraestructura Física Educativa | 1 | 2008-11-25 to 2008-11-25 |
+| `ley-que-crea-el-patronato-para-la-explotacion-de-las-cantera` | Ley que Crea el Patronato para la Explotación de las Canteras del Municipio de Xaltocan | 1 | 1971-07-29 to 1971-07-29 |
+| `ley-que-crea-el-patronato-tlaxcalteca-pro-industrializacion` | Ley que Crea el Patronato Tlaxcalteca Pro-Industrialización del Maguey | 1 | 1955-06-23 to 1955-06-23 |
+| `ley-que-crea-la-universidad-intercultural-de-tlaxcala` | Ley que Crea la Universidad Intercultural de Tlaxcala | 1 | 2023-05-27 to 2023-05-27 |
+| `ley-que-establece-el-reconocimiento-de-los-precursores-veter` | Ley que Establece el Reconocimiento de los Precursores, Veteranos y Revolucionarios del Estado | 1 | 1945-01-03 to 1945-01-03 |
+| `ley-que-garantiza-el-acceso-a-las-mujeres-a-una-vida-libre-d` | Ley que Garantiza el Acceso a las Mujeres a una Vida Libre de Violencia en el Estado de Tlaxcala | 1 | 2026-06-06 to 2026-06-06 |
+| `ley-que-regula-el-otorgamiento-de-recursos-publicos-a-las-or` | Ley que Regula el Otorgamiento de Recursos Públicos a las Organizaciones Sociales del Estado de Tlaxcala | 1 | 2023-10-04 to 2023-10-04 |
+| `ley-que-regula-el-regimen-de-propiedad-en-condominio-de-bien` | Ley que Regula el Régimen de Propiedad en Condominio de Bienes Inmuebles para el Estado de Tlaxcala | 1 | 2017-01-01 to 2017-01-01 |
+| `ley-de-ingresos-del-municipio-de-atltzayanca-para-el-ejercic` | Ley de Ingresos del Municipio de Atltzayanca, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-apizaco-para-el-ejercicio-f` | Ley de Ingresos del Municipio de Apizaco, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-atlangatepec-para-el-ejerci` | Ley de Ingresos del Municipio de Atlangatepec, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-benito-juarez-para-el-ejerc` | Ley de Ingresos del Municipio de Benito Juárez, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-calpulalpan-para-el-ejercic` | Ley de Ingresos del Municipio de Calpulalpan, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-chiautempan-para-el-ejercic` | Ley de Ingresos del Municipio de Chiautempan, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-contla-de-juan-cuamatzi-par` | Ley de Ingresos del Municipio de Contla de Juan Cuamatzi, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-emiliano-zapata-para-el-eje` | Ley de Ingresos del Municipio de Emiliano Zapata, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-huamantla-para-el-ejercicio` | Ley de Ingresos del Municipio de Huamantla, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-ixtacuixtla-de-mariano-mata` | Ley de Ingresos del Municipio de Ixtacuixtla de Mariano Matamoros, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-ixtenco-para-el-ejercicio-f` | Ley de Ingresos del Municipio de Ixtenco, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-la-magdalena-tlaltelulco-pa` | Ley de Ingresos del Municipio de La Magdalena Tlaltelulco, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-papalotla-de-xicohtencatl-p` | Ley de Ingresos del Municipio de Papalotla de Xicohténcatl, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-san-lorenzo-axocomanitla-pa` | Ley de Ingresos del Municipio de San Lorenzo Axocomanitla, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-san-pablo-del-monte-para-el` | Ley de Ingresos del Municipio de San Pablo del Monte, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-sanctorum-de-lazaro-cardena` | Ley de Ingresos del Municipio de Sanctórum de Lázaro Cárdenas, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-santa-ana-nopalucan-para-el` | Ley de Ingresos del Municipio de Santa Ana Nopalucan, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-santa-isabel-xiloxoxtla-par` | Ley de Ingresos del Municipio de Santa Isabel Xiloxoxtla, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-tenancingo-para-el-ejercici` | Ley de Ingresos del Municipio de Tenancingo, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-teolocholco-para-el-ejercic` | Ley de Ingresos del Municipio de Teolocholco, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-tetla-de-la-solidaridad-par` | Ley de Ingresos del Municipio de Tetla de la Solidaridad, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-tlaxcala-para-el-ejercicio` | Ley de Ingresos del Municipio de Tlaxcala, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-tlaxco-para-el-ejercicio-fi` | Ley de Ingresos del Municipio de Tlaxco, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-xaloztoc-para-el-ejercicio` | Ley de Ingresos del Municipio de Xaloztoc, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-xicohtzinco-para-el-ejercic` | Ley de Ingresos del Municipio de Xicohtzinco, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
+| `ley-de-ingresos-del-municipio-de-zacatelco-para-el-ejercicio` | Ley de Ingresos del Municipio de Zacatelco, para el ejercicio fiscal 2026 | 1 | 2026-01-01 to 2026-01-01 |
 
-The build made 456 commits:
+The build made 520 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 129 | first version of an act |
+| 193 | first version of an act |
 | 327 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-10-30.
-- 22 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
+- 25 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 470 laws in the record.
-- 975 tags.
+- 1039 tags.
 
 ## Dates
 
@@ -168,13 +233,13 @@ When a law gives no date of its own, the default rule applies: Decrees take effe
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f0b8d383d594bfd8d5104e22ec1942360c2064161639e47caf7cf7ee479a98b1` (21025711 bytes).
+- Corpus: sha256 `418d882810c7e5e86a9da99e061ce3b4a673f27e057661bc16fd6aa22accbd13` (26271574 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-532 versions of 129 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -186,6 +251,9 @@ No second build of this corpus has been compared yet.
 - Units: the heading and preamble (encabezado), one file per article (with the headings and editor's notes printed just before it), the original transitorios, and the transitorios of each reform decree under its publication date. The banner "ÚLTIMA REFORMA PUBLICADA ..." / "TEXTO ORIGINAL" is left out; editor's notes ("(REFORMADO, P.O. ...)", "N. DE E.") stay as printed.
 - An act's first commit is its first publication only when SCJN's oldest record is the act itself and its text is marked "TEXTO ORIGINAL"; otherwise it is the oldest version available, naming the publications before it.
 - Codes of conduct and ethics are left out; only ordenamientos SCJN marks as in force are included.
+- Only current texts dated by the official document publication and its latest decree commencement are added; no earlier versions are reconstructed.
+- All Word body paragraphs, textual tables, preambles, transitory provisions and publication statements are retained in their original order.
+- Source Word typography is normalized consistently; legislative words and punctuation are never changed.
 
 ## What AI did and did not do
 
@@ -197,3 +265,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which ordenamientos to include; it wrote no law text. Every word of law comes from the SCJN compilation's consolidated texts.
+- A model wrote extraction and validation code and reviewed metadata; no legislative text was generated or corrected.

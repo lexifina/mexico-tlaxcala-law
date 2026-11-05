@@ -4224,6 +4224,902 @@
      "sha256": "b47385559ff9317cd38c2b2f8d923b46f3cf66250c762772181d3614f26f8173"
     }
    ]
+  },
+  {
+   "slug": "ley-de-extincion-de-dominio",
+   "short": "Ley de Extinción de Dominio para el Estado de Tlaxcala",
+   "title": "Ley de Extinción de Dominio para el Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/39_Ley_de_extincio.docx",
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 73,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/39_Ley_de_extincio.docx",
+     "sha256": "c444ac1ea4513bbf33c5e47d3b4dc2125d494cb79109e390865edb2d4716ea7e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-firma-electronica-avanzada",
+   "short": "Ley de Firma Electrónica Avanzada para el Estado de Tlaxcala",
+   "title": "Ley de Firma Electrónica Avanzada para el Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/40_Ley_de_firma_el.docx",
+   "versions": [
+    {
+     "from": "2016-02-19",
+     "units": 72,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/40_Ley_de_firma_el.docx",
+     "sha256": "f47b44602463b6dd7ee37e7830ce3b87099b51789412e23f549a75cb116d8380"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-justicia-para-adolescentes",
+   "short": "Ley de Justicia para Adolescentes para el Estado de Tlaxcala",
+   "title": "Ley de Justicia para Adolescentes para el Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/50_Ley_de_justicia.docx",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 179,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/50_Ley_de_justicia.docx",
+     "sha256": "f6be32f7669b0c036687f451f35914b7c5b3bb0cdb5f518923109361acc0218a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-organica-de-la-administracion-publica",
+   "short": "Ley Orgánica de la Administración Publica del Estado de Tlaxcala",
+   "title": "Ley Orgánica de la Administración Publica del Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/100_Ley_Organica_de.docx",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 110,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/100_Ley_Organica_de.docx",
+     "sha256": "eaf975c4703d2d98e98508ab776b0c7e620edea142c4cee555e5486fca748501"
+    }
+   ]
+  },
+  {
+   "slug": "ley-organica-de-la-defensoria-publica-y-asistencia-juridico",
+   "short": "Ley Orgánica de la Defensoría Publica y Asistencia Jurídico Social del Estado de Tlaxcala",
+   "title": "Ley Orgánica de la Defensoría Publica y Asistencia Jurídico Social del Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/101_Ley_organica_de.docx",
+   "versions": [
+    {
+     "from": "2014-11-29",
+     "units": 77,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/101_Ley_organica_de.docx",
+     "sha256": "0327af7c894fe5ecbd11943a4def8cca736e169269b1a106738c6e1db35d2f21"
+    }
+   ]
+  },
+  {
+   "slug": "ley-organica-de-la-fiscalia-general-de-justicia",
+   "short": "Ley Orgánica de la Fiscalía General de Justicia del Estado de Tlaxcala.",
+   "title": "Ley Orgánica de la Fiscalía General de Justicia del Estado de Tlaxcala.",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/102_Ley_Organica_Fi.docx",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 69,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/102_Ley_Organica_Fi.docx",
+     "sha256": "cd6cb3e5c81b5fbf3560c5c3e1e3f3f7c9c059ef691f73c8fed8d8a5d497f75a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-organica-de-la-universidad-autonoma-de-tlaxcala",
+   "short": "Ley Orgánica de la Universidad Autónoma de Tlaxcala",
+   "title": "Ley Orgánica de la Universidad Autónoma de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/104_Ley_organica_de.docx",
+   "versions": [
+    {
+     "from": "2012-08-29",
+     "units": 55,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/104_Ley_organica_de.docx",
+     "sha256": "ffd79504eb68c58de78c0a3da2dbf73cdeb6a33a45a3f8bfd03e9cd1ddd135d4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-organica-del-poder-judicial",
+   "short": "Ley Orgánica del Poder Judicial del Estado de Tlaxcala",
+   "title": "Ley Orgánica del Poder Judicial del Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/105_Ley_organica_de.docx",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 364,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/105_Ley_organica_de.docx",
+     "sha256": "751c28cc44e49e0ff022707ae68ec074489bda95e0f7da2aee3f1bc2cbf4e46a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-organica-del-tribunal-de-justicia-administrativa",
+   "short": "Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Tlaxcala",
+   "title": "Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/107_Ley_Organica_d.docx",
+   "versions": [
+    {
+     "from": "2025-08-30",
+     "units": 100,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/107_Ley_Organica_d.docx",
+     "sha256": "9220b949d20ab996c5fdd61db6d9a4b99e70e11adecdcac27a29135e177f1c9e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-organica-del-tribunal-electoral-de-tlaxcala",
+   "short": "Ley Orgánica del Tribunal Electoral de Tlaxcala",
+   "title": "Ley Orgánica del Tribunal Electoral de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/108_Ley_organica_de.docx",
+   "versions": [
+    {
+     "from": "2025-11-08",
+     "units": 144,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/108_Ley_organica_de.docx",
+     "sha256": "0979cd70040fc01380913a5fd846e929c517a18d43b8bb01266679ec52e5e8d2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-organica-para-las-exposiciones-y-ferias-en-la-ciudad-de",
+   "short": "Ley Orgánica para las Exposiciones y Ferias en la Ciudad de Tlaxcala",
+   "title": "Ley Orgánica para las Exposiciones y Ferias en la Ciudad de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/109_Ley_organica_pa.docx",
+   "versions": [
+    {
+     "from": "1971-05-20",
+     "units": 11,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/109_Ley_organica_pa.docx",
+     "sha256": "b6eb36ac890cc29584292aee3e9dcfd97c221764030aecbca4e2546b8091e1c5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-el-desarrollo-agricola-sustentable",
+   "short": "Ley para el Desarrollo Agrícola Sustentable del Estado de Tlaxcala",
+   "title": "Ley para el Desarrollo Agrícola Sustentable del Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/110_Ley_para_el_des.docx",
+   "versions": [
+    {
+     "from": "2020-12-25",
+     "units": 143,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/110_Ley_para_el_des.docx",
+     "sha256": "7f3d4643a0bcbd757dd288d14c1761dbeb979ad28f256d882020716b468e47ce"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequ",
+   "short": "Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa del Estado de Tlaxcala",
+   "title": "Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa del Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/111_Ley_para_el_des.docx",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 31,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/111_Ley_para_el_des.docx",
+     "sha256": "301232f06c77c2c73d6dfaa032948f152c5aa49e8e874c928e46189116356128"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-el-fomento-y-conservacion-del-maguey-y-sus-derivado",
+   "short": "Ley para el Fomento y Conservación del Maguey y sus Derivados del Estado de Tlaxcala",
+   "title": "Ley para el Fomento y Conservación del Maguey y sus Derivados del Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/112_Ley_para_el_fom.docx",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 71,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/112_Ley_para_el_fom.docx",
+     "sha256": "6ea3b2f6f84867fa3e9183a024cd251579913df4537c664c26c939d081bdb357"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-la-atencion-integral-de-enfermedad-renal-cronica-en",
+   "short": "Ley para la Atención Integral de Enfermedad Renal Crónica en el Estado de Tlaxcala",
+   "title": "Ley para la Atención Integral de Enfermedad Renal Crónica en el Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/113_Ley_para_la_at.docx",
+   "versions": [
+    {
+     "from": "2019-12-04",
+     "units": 52,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/113_Ley_para_la_at.docx",
+     "sha256": "49a8823492e695d7bdbe5c950c73c3e16c29eb12f5ff252b275f8de01d091589"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-la-atencion-y-proteccion-a-personas-con-la-condicio",
+   "short": "Ley para la Atención y Protección a Personas con la Condición del Espectro Autista del Estado de Tlaxcala",
+   "title": "Ley para la Atención y Protección a Personas con la Condición del Espectro Autista del Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/114_Ley_para_la_ate.docx",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 17,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/114_Ley_para_la_ate.docx",
+     "sha256": "57ac5650dbd9f5aa7d0d9d0f9ad4e3b9cbf7358326aec2121ccfd700fd2e4b9f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-la-declaracion-especial-de-asuencia-por-desaparacio",
+   "short": "Ley para la Declaración Especial de Asuencia por Desaparación de Personas del Estado de Tlaxcala",
+   "title": "Ley para la Declaración Especial de Asuencia por Desaparación de Personas del Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/141_Ley_para_la_Decl.docx",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 37,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/141_Ley_para_la_Decl.docx",
+     "sha256": "dec33b909bba19bd6386184a5877e4b94409bdbf0ee502329c7a6dd7ac4b1fb0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-la-prevencion-social-de-la-violencia-y-la-delincuen",
+   "short": "Ley para la Prevención Social de la Violencia y la Delincuencia del Estado de Tlaxcala",
+   "title": "Ley para la Prevención Social de la Violencia y la Delincuencia del Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/115_Ley_para_la_pr.docx",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 65,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/115_Ley_para_la_pr.docx",
+     "sha256": "95a438b0087aaa9a9345225bf019ecb036e650218b9a100d9df7bb094ec128b1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-la-prevencion-asistencia-y-tratamiento-de-la-violen",
+   "short": "Ley para la Prevención, Asistencia y Tratamiento de la Violencia Familiar en el Estado de Tlaxcala",
+   "title": "Ley para la Prevención, Asistencia y Tratamiento de la Violencia Familiar en el Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/116_Ley_para_la_pr.docx",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 49,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/116_Ley_para_la_pr.docx",
+     "sha256": "e19c892e1a449ebf959d6160c43d65aa9f43904fb1f15c94dba75f92b52d5477"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-la-proteccion-de-arboles-patrimonio-en-el-estado-de",
+   "short": "Ley para la Protección de  Árboles Patrimonio en el Estado de Tlaxcala",
+   "title": "Ley para la Protección de  Árboles Patrimonio en el Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/117_Ley_para_la_pro.docx",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 49,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/117_Ley_para_la_pro.docx",
+     "sha256": "34690254314c733459d7e29dcf0176d33646bf9b6e427b66e59ebab4ae79eec2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-la-proteccion-de-personas-que-intervienen-en-el-pro",
+   "short": "Ley para la Protección de Personas que Intervienen en el Procedimiento Penal del Estado de Tlaxcala",
+   "title": "Ley para la Protección de Personas que Intervienen en el Procedimiento Penal del Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/118_Ley_para_la_pr.docx",
+   "versions": [
+    {
+     "from": "2014-11-06",
+     "units": 37,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/118_Ley_para_la_pr.docx",
+     "sha256": "861e0edc3132da4103cc34784c4ca292cb7374a1288be5b38407f3cf0cf19018"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-personas-con-discapacidad",
+   "short": "Ley para Personas con Discapacidad del Estado de Tlaxcala",
+   "title": "Ley para Personas con Discapacidad del Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/119_Ley_para_perso.docx",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 86,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/119_Ley_para_perso.docx",
+     "sha256": "cb24c2fa3dbd50bb1900ca6d34efdc68951f45215151a71eeb2b1036391261e8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-prevenir-y-atender-la-obesidad-el-sobrepeso-y-los-t",
+   "short": "Ley para Prevenir y Atender la Obesidad, el Sobrepeso y los Trastornos Alimenticios en el Estado Tlaxcala",
+   "title": "Ley para Prevenir y Atender la Obesidad, el Sobrepeso y los Trastornos Alimenticios en el Estado Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/120_Ley_para_preven.docx",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 29,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/120_Ley_para_preven.docx",
+     "sha256": "2b578caa617cf2ff320c66684bddb726d94266e63d7e34940daf8d3c4e407b72"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-prevenir-y-combatir-la-violencia-escolar-en-el-esta",
+   "short": "Ley para Prevenir y Combatir la Violencia Escolar en el Estado de Tlaxcala",
+   "title": "Ley para Prevenir y Combatir la Violencia Escolar en el Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/121_Ley_para_preve.docx",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 87,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/121_Ley_para_preve.docx",
+     "sha256": "0cd5a799d17b9ab0376fb4b9ee5c507452e3496c3351ca19b909813173f7bf5d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-prevenir-y-erradicar-la-discriminacion-en-el-estado",
+   "short": "Ley para Prevenir y Erradicar la Discriminación en el Estado de Tlaxcala",
+   "title": "Ley para Prevenir y Erradicar la Discriminación en el Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/122_Ley_para_preve.docx",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 33,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/122_Ley_para_preve.docx",
+     "sha256": "e83b885c7e53e70c3d04960fd043f6a37d335bc4a8e1463351de77547ce3254b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-prevenir-y-sancionar-la-tortura",
+   "short": "Ley para Prevenir y Sancionar la Tortura para el Estado de Tlaxcala",
+   "title": "Ley para Prevenir y Sancionar la Tortura para el Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/123_Ley_para_preve.docx",
+   "versions": [
+    {
+     "from": "2016-08-16",
+     "units": 21,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/123_Ley_para_preve.docx",
+     "sha256": "baf848bcc39ec4ee24b7be7a57486cfaa149aa70e18443b26cbbf33d4161f687"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-prevenir-sancionar-y-erradicar-los-delitos-en-mater",
+   "short": "Ley para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Victimas de los Mismos en el Estado de Tlaxcala",
+   "title": "Ley para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Victimas de los Mismos en el Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/125_Ley_para_preve.docx",
+   "versions": [
+    {
+     "from": "2017-07-13",
+     "units": 66,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/125_Ley_para_preve.docx",
+     "sha256": "2b23b76821bb142b2c69936a54cf39062c18c498e5406c360b987957950b743b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-que-crea-el-colegio-de-bachilleres",
+   "short": "Ley que Crea el Colegio de Bachilleres del Estado de Tlaxcala",
+   "title": "Ley que Crea el Colegio de Bachilleres del Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/126_Ley_que_crea_e.docx",
+   "versions": [
+    {
+     "from": "1981-08-06",
+     "units": 33,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/126_Ley_que_crea_e.docx",
+     "sha256": "4a324af1d25f85647bf48e52309382b8324b33521c57c932d135acceda1daed2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-que-crea-el-colegio-de-estudios-cientificos-y-tecnologic",
+   "short": "Ley que Crea el Colegio de Estudios Científicos y Tecnológicos del Estado de Tlaxcala",
+   "title": "Ley que Crea el Colegio de Estudios Científicos y Tecnológicos del Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/127_Ley_que_crea_e.docx",
+   "versions": [
+    {
+     "from": "1992-10-01",
+     "units": 28,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/127_Ley_que_crea_e.docx",
+     "sha256": "0689c07073d41f5a0dbd15215f36956caf335959b02336ec913f69e88257386c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-que-crea-el-consejo-ejecutivo-de-promocion-y-fomento-agr",
+   "short": "Ley que Crea el Consejo Ejecutivo de Promoción y Fomento Agrícola, Ganadero e Industrial en el Estado de Tlaxcala",
+   "title": "Ley que Crea el Consejo Ejecutivo de Promoción y Fomento Agrícola, Ganadero e Industrial en el Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/128_Ley_que_crea_e.docx",
+   "versions": [
+    {
+     "from": "1959-01-07",
+     "units": 12,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/128_Ley_que_crea_e.docx",
+     "sha256": "dce5a0213ec60e7627ce4bcf0e9a4670dbf97ed1e45c1a90cccc10067342603c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-que-crea-el-instituto-tlaxcalteca-de-la-infraestructura",
+   "short": "Ley que Crea el Instituto Tlaxcalteca de la Infraestructura Física Educativa",
+   "title": "Ley que Crea el Instituto Tlaxcalteca de la Infraestructura Física Educativa",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/129_Ley_que_crea_e.docx",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 20,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/129_Ley_que_crea_e.docx",
+     "sha256": "36aab09251f3c5bea2bbcdb19ac794a3f6e3fcef124818268daa64bf2c4a52eb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-que-crea-el-patronato-para-la-explotacion-de-las-cantera",
+   "short": "Ley que Crea el Patronato para la Explotación de las Canteras del Municipio de Xaltocan",
+   "title": "Ley que Crea el Patronato para la Explotación de las Canteras del Municipio de Xaltocan",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/130_Ley_que_crea_e.docx",
+   "versions": [
+    {
+     "from": "1971-07-29",
+     "units": 12,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/130_Ley_que_crea_e.docx",
+     "sha256": "8a70610ec6c53521b265e63af79c871a309b757aaf9712ce36718bd54a52624a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-que-crea-el-patronato-tlaxcalteca-pro-industrializacion",
+   "short": "Ley que Crea el Patronato Tlaxcalteca Pro-Industrialización del Maguey",
+   "title": "Ley que Crea el Patronato Tlaxcalteca Pro-Industrialización del Maguey",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/131_Ley_que_crea_e.docx",
+   "versions": [
+    {
+     "from": "1955-06-23",
+     "units": 17,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/131_Ley_que_crea_e.docx",
+     "sha256": "d5ba71cd0c47326d5563d9541c3a091f8acf7c9c4e40b0c59141bba0a26b0d20"
+    }
+   ]
+  },
+  {
+   "slug": "ley-que-crea-la-universidad-intercultural-de-tlaxcala",
+   "short": "Ley que Crea la Universidad Intercultural de Tlaxcala",
+   "title": "Ley que Crea la Universidad Intercultural de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/133_ley_que_crea_la_.docx",
+   "versions": [
+    {
+     "from": "2023-05-27",
+     "units": 44,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/133_ley_que_crea_la_.docx",
+     "sha256": "1781738cf926ecf510cf00c060f58cdb345c1b69fd83950bb78ad90c05fd1749"
+    }
+   ]
+  },
+  {
+   "slug": "ley-que-establece-el-reconocimiento-de-los-precursores-veter",
+   "short": "Ley que Establece el Reconocimiento de los Precursores, Veteranos y Revolucionarios del Estado",
+   "title": "Ley que Establece el Reconocimiento de los Precursores, Veteranos y Revolucionarios del Estado",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/135_Ley_que_establ.docx",
+   "versions": [
+    {
+     "from": "1945-01-03",
+     "units": 7,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/135_Ley_que_establ.docx",
+     "sha256": "65ddc7fbbabc3b516fb87c03f832d85ba199a18603625e26384404b60ea4c00f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-que-garantiza-el-acceso-a-las-mujeres-a-una-vida-libre-d",
+   "short": "Ley que Garantiza el Acceso a las Mujeres a una Vida Libre de Violencia en el Estado de Tlaxcala",
+   "title": "Ley que Garantiza el Acceso a las Mujeres a una Vida Libre de Violencia en el Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/136_Ley_que_garant.docx",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 105,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/136_Ley_que_garant.docx",
+     "sha256": "f7b7185e67af59f55751719dc148f86c0d0b9f0184d7407b7491946ffc280238"
+    }
+   ]
+  },
+  {
+   "slug": "ley-que-regula-el-otorgamiento-de-recursos-publicos-a-las-or",
+   "short": "Ley que Regula el Otorgamiento de Recursos Públicos a las Organizaciones Sociales del Estado de Tlaxcala",
+   "title": "Ley que Regula el Otorgamiento de Recursos Públicos a las Organizaciones Sociales del Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/137_Ley_que_regula.docx",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 27,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/137_Ley_que_regula.docx",
+     "sha256": "5272de3a8564e7984fd451150d512e9f5e0c1b8c4355b13dfe71857e0fd3b35a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-que-regula-el-regimen-de-propiedad-en-condominio-de-bien",
+   "short": "Ley que Regula el Régimen de Propiedad en Condominio de Bienes Inmuebles para el Estado de Tlaxcala",
+   "title": "Ley que Regula el Régimen de Propiedad en Condominio de Bienes Inmuebles para el Estado de Tlaxcala",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/138_Ley_que_regula.docx",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 90,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/leyes2020/doc/138_Ley_que_regula.docx",
+     "sha256": "450d51a8a8f0195b7ebaf7f04e089a13d747e6e3c4d47c5383e5be3ce20f9ad7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-atltzayanca-para-el-ejercic",
+   "short": "Ley de Ingresos del Municipio de Atltzayanca, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Atltzayanca, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m02.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 78,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m02.docx",
+     "sha256": "a916d68c84d37beab270f6d5d69c8876681d407e9511c2ec731331171bc96560"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-apizaco-para-el-ejercicio-f",
+   "short": "Ley de Ingresos del Municipio de Apizaco, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Apizaco, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m05.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 79,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m05.docx",
+     "sha256": "4a357281c2188c9c843bb4f72b7361efcf8178c0bb7d12229f7f45eb2ce3b2a6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-atlangatepec-para-el-ejerci",
+   "short": "Ley de Ingresos del Municipio de Atlangatepec, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Atlangatepec, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m06.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 105,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m06.docx",
+     "sha256": "418cc98f3f7732ea7bc04e122a94cf176f4754fa7ef200284fec135e038a5892"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-benito-juarez-para-el-ejerc",
+   "short": "Ley de Ingresos del Municipio de Benito Juárez, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Benito Juárez, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m07.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 102,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m07.docx",
+     "sha256": "39817ba9c8fb184cf503928698866f16cff3d2115c808d6a07ba0ac0a1327d34"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-calpulalpan-para-el-ejercic",
+   "short": "Ley de Ingresos del Municipio de Calpulalpan, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Calpulalpan, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m08.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 92,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m08.docx",
+     "sha256": "1e0269d5c5453956a04537bd6bd951533b7b3622b0be59dddfc28b6fa0f1be5b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-chiautempan-para-el-ejercic",
+   "short": "Ley de Ingresos del Municipio de Chiautempan, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Chiautempan, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m09.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 129,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m09.docx",
+     "sha256": "60bd5b9cf2d4a2ee0f1391c0f39bef1d25b4a34b62f6763b40e3ef366bb17f1d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-contla-de-juan-cuamatzi-par",
+   "short": "Ley de Ingresos del Municipio de Contla de Juan Cuamatzi, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Contla de Juan Cuamatzi, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m10.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 96,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m10.docx",
+     "sha256": "1f52499946cfffa09be8612faa00898498ad881c8228d2b80543de19fc9c116c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-emiliano-zapata-para-el-eje",
+   "short": "Ley de Ingresos del Municipio de Emiliano Zapata, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Emiliano Zapata, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m14.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 99,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m14.docx",
+     "sha256": "d23c807c2c9fa8fdc0d1c84bd1e89384f5542e9c73be8d403e27f099ace5a180"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-huamantla-para-el-ejercicio",
+   "short": "Ley de Ingresos del Municipio de Huamantla, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Huamantla, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m16.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 84,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m16.docx",
+     "sha256": "80c9521c76626243f80f91753aca8cd5b6d6043f3313d2f0cd95f3b1193a5d56"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-ixtacuixtla-de-mariano-mata",
+   "short": "Ley de Ingresos del Municipio de Ixtacuixtla de Mariano Matamoros, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Ixtacuixtla de Mariano Matamoros, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m18.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 100,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m18.docx",
+     "sha256": "97ec0c1a389654a71e6824fd8e0a6cbad34e2ed6aeef60f72a071c5d8a02f7c6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-ixtenco-para-el-ejercicio-f",
+   "short": "Ley de Ingresos del Municipio de Ixtenco, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Ixtenco, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m19.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 70,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m19.docx",
+     "sha256": "82df9809ccc9b9c3a3c5dac5e8b211571829f2dff3aa37e053abe61b79911dd3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-la-magdalena-tlaltelulco-pa",
+   "short": "Ley de Ingresos del Municipio de La Magdalena Tlaltelulco, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de La Magdalena Tlaltelulco, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m20.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 87,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m20.docx",
+     "sha256": "76388aadd74a2ac24e0c66cccd9b48858cec481c73ba5d1f247e60098bab761a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-papalotla-de-xicohtencatl-p",
+   "short": "Ley de Ingresos del Municipio de Papalotla de Xicohténcatl, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Papalotla de Xicohténcatl, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m27.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 75,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m27.docx",
+     "sha256": "a0417e2e882efc27a86d198af57eca8eb6dc2dcd3f8403cfcd4b4303993c19ef"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-san-lorenzo-axocomanitla-pa",
+   "short": "Ley de Ingresos del Municipio de San Lorenzo Axocomanitla, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de San Lorenzo Axocomanitla, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m33.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 87,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m33.docx",
+     "sha256": "4927e0575355c718d1bdfe2d062fd2ffebb043c01d70f78a624757497a39e693"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-san-pablo-del-monte-para-el",
+   "short": "Ley de Ingresos del Municipio de San Pablo del Monte, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de San Pablo del Monte, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m35.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 72,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m35.docx",
+     "sha256": "f9718e16f965a343e585f3689a50f708135976951faec2ad5145f2cc84876e7a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-sanctorum-de-lazaro-cardena",
+   "short": "Ley de Ingresos del Municipio de Sanctórum de Lázaro Cárdenas, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Sanctórum de Lázaro Cárdenas, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m36.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 57,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m36.docx",
+     "sha256": "766fd93a6e520ef6a83a640be889707f596f3dd47101adb94da3c63d6d536866"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-santa-ana-nopalucan-para-el",
+   "short": "Ley de Ingresos del Municipio de Santa Ana Nopalucan, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Santa Ana Nopalucan, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m37.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 83,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m37.docx",
+     "sha256": "bebd97412e3ee9bb5168c34b26edb6cf4e837d0024374f1c0a2c6171a3175c47"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-santa-isabel-xiloxoxtla-par",
+   "short": "Ley de Ingresos del Municipio de Santa Isabel Xiloxoxtla, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Santa Isabel Xiloxoxtla, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m42.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 48,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m42.docx",
+     "sha256": "1d883592ecdeca6f3117714ace5c2b9c794fde15a08142b108d6141921773f5d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-tenancingo-para-el-ejercici",
+   "short": "Ley de Ingresos del Municipio de Tenancingo, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Tenancingo, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m43.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 74,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m43.docx",
+     "sha256": "3fc5f758011678bb0b7485f79d11e088ae715d5415968cee18787c66c9fe333d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-teolocholco-para-el-ejercic",
+   "short": "Ley de Ingresos del Municipio de Teolocholco, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Teolocholco, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m44.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 87,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m44.docx",
+     "sha256": "c6670feafce47a62ba0dff554fcdbe91edf1d4d1bb9cfbdb0c0a9cf7ddfb8de3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-tetla-de-la-solidaridad-par",
+   "short": "Ley de Ingresos del Municipio de Tetla de la Solidaridad, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Tetla de la Solidaridad, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m48.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 64,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m48.docx",
+     "sha256": "fdfc506e729319af1573684e5bc2418e5511975daa7f677cc57320d124e22c4d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-tlaxcala-para-el-ejercicio",
+   "short": "Ley de Ingresos del Municipio de Tlaxcala, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Tlaxcala, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m50.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 108,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m50.docx",
+     "sha256": "772dd258f49c01f1f656bbf1f54d1e1bab76fc077915d3dcfc739da27865bb68"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-tlaxco-para-el-ejercicio-fi",
+   "short": "Ley de Ingresos del Municipio de Tlaxco, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Tlaxco, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m51.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 78,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m51.docx",
+     "sha256": "68eefd4f55bbd0395c2fabce85daffbbebb80d22f06f86addd32972737156fe5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-xaloztoc-para-el-ejercicio",
+   "short": "Ley de Ingresos del Municipio de Xaloztoc, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Xaloztoc, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m55.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 80,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m55.docx",
+     "sha256": "053fce963549f004e3bf68eb5386d04a24299904aed4315716ae3e79ca737e0e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-xicohtzinco-para-el-ejercic",
+   "short": "Ley de Ingresos del Municipio de Xicohtzinco, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Xicohtzinco, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m57.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 81,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m57.docx",
+     "sha256": "4ca8ac62cb08b10e282eea9e10459cae283a487c88e71352b47be8e1339924f4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ingresos-del-municipio-de-zacatelco-para-el-ejercicio",
+   "short": "Ley de Ingresos del Municipio de Zacatelco, para el ejercicio fiscal 2026",
+   "title": "Ley de Ingresos del Municipio de Zacatelco, para el ejercicio fiscal 2026",
+   "url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m59.docx",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 73,
+     "source_url": "https://congresodetlaxcala.gob.mx/archivo/ingreso2026/doc/m59.docx",
+     "sha256": "d888a215feed2cd267d9a630406eb398d2b2ef5648c7905debeacef064b9e5fa"
+    }
+   ]
   }
  ]
 }
